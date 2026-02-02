@@ -1,0 +1,4 @@
+services:
+    dump-sql:
+        build:
+            dockerfile: Dockerfile.mysql

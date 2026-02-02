@@ -1,0 +1,10 @@
+FROM mysql
+
+MAINTAINER me
+
+ENV MYSQL_DATABASE=cloze \
+    MYSQL_ROOT_PASSWORD=root
+
+ADD db/cloze.sql /docker-entrypoint-initdb.d
+
+EXPOSE 3306
