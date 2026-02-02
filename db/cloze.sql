@@ -31,3 +31,5 @@ CREATE TABLE puzzles (
     lemma_id INT NOT NULL,
     intervals TEXT NOT NULL
 );
+
+ALTER DATABASE cloze CHARACTER SET = utf8mb4 COLLATE = utf8mb4_general_ci;

@@ -3,3 +3,9 @@
 **/.DS_Store
 **/*.swp
 dump
+data/*
+!data/test
+!data/test/*
+puzzles/*
+!puzzles/test
+!puzzles/test/*

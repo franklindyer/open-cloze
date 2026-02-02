@@ -8,7 +8,7 @@ sys.path.append("src")
 from shared import tqdm_readlines
 from registry import GEN_REGISTRY
 
-import eng_generator
+import generators
 
 # A puzzle generator for a language L should be a function that takes a state object
 #   and a sentence in that language and returns a new state object plus a list of puzzles.
@@ -33,9 +33,11 @@ def gen_puzzles(group, lang):
                 all_puz[lemma] = []
             all_puz[lemma].append(str(id) + ":" + puz["intervals"])
 
-    with open(f"puzzles/{group}.{lang}.json", "w") as f:
+    with open(f"puzzles/{group}/{lang}.json", "w") as f:
         f.write(json.dumps(all_puz, indent=4))
 
     return all_puz
 
 gen_puzzles("test", "eng")
+gen_puzzles("test", "spa")
+# gen_puzzles("tatoeba", "eng")
