@@ -1,24 +1,19 @@
 CREATE TABLE puzzle_groups (
     id INT AUTO_INCREMENT PRIMARY KEY,
-    label CHAR(3) NOT NULL
+    label CHAR(30) NOT NULL
 );
 
 CREATE TABLE langs (
     id INT AUTO_INCREMENT PRIMARY KEY,
-    iso2 CHAR(2) NOT NULL,
     iso3 CHAR(3) NOT NULL
 );
 
 CREATE TABLE sentences (
     id INT AUTO_INCREMENT PRIMARY KEY,
+    position INT NOT NULL,
     group_id INT NOT NULL,
     lang_id INT NOT NULL,
     text TEXT NOT NULL
-);
-
-CREATE TABLE links (
-    id1 INT NOT NULL,
-    id2 INT NOT NULL
 );
 
 CREATE TABLE lemmas (

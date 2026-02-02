@@ -1,4 +1,8 @@
 services:
-    dump-sql:
+    mysql:
+        restart: always
+        container_name: "mysql"
         build:
             dockerfile: Dockerfile.mysql
+        ports:
+            - 3306:3306

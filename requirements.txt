@@ -1,3 +1,4 @@
 tqdm
 numpy
 spacy
+mysql-connector-python
