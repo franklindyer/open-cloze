@@ -1,0 +1,5 @@
+Tengo una manzana.
+Tengo un perro.
+Mi perro tiene una manzana.
+Me gustan las manzanas.
+Me gustaría tener un perro.
