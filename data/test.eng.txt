@@ -1,5 +1,0 @@
-I have an apple.
-I have a dog.
-My dog has an apple.
-I like apples.
-I'd like to have a dog.

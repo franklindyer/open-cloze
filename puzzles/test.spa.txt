@@ -1,0 +1,5 @@
+6	Tengo una manzana.
+7	Tengo un perro.
+8	Mi perro tiene una manzana.
+9	Me gustan las manzanas.
+10	Me gustaría tener un perro.
