@@ -6,10 +6,12 @@ import sys
 sys.path.append("src")
 
 from registry import GEN_REGISTRY
+from shared import lines_set
 
 eng_nlp = spacy.load("en_core_web_md")
 spa_nlp = spacy.load("es_core_news_md")
 rus_nlp = spacy.load("ru_core_news_md")
+ell_nlp = spacy.load("el_core_news_md")
 
 def simple_generator(nlp):
     TARGET_NUM = 20
@@ -49,3 +51,4 @@ def simple_generator(nlp):
 GEN_REGISTRY["eng"] = simple_generator(eng_nlp)
 GEN_REGISTRY["spa"] = simple_generator(spa_nlp)
 GEN_REGISTRY["rus"] = simple_generator(rus_nlp)
+GEN_REGISTRY["ell"] = simple_generator(ell_nlp)

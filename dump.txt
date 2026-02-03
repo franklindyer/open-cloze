@@ -1,0 +1,159 @@
+ Container open-cloze-server-1  Created
+[36mserver-1  | [0mError: 'NoneType' object has no attribute 'fetchall'
+[36mserver-1  | [0m
+[36mserver-1  | [0mUsage:
+[36mserver-1  | [0m
+[36mserver-1  | [0m    waitress-serve [OPTS] MODULE:OBJECT
+[36mserver-1  | [0m
+[36mserver-1  | [0mStandard options:
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --help
+[36mserver-1  | [0m        Show this information.
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --call
+[36mserver-1  | [0m        Call the given object to get the WSGI application.
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --host=ADDR
+[36mserver-1  | [0m        Hostname or IP address on which to listen, default is '0.0.0.0',
+[36mserver-1  | [0m        which means "all IP addresses on this host".
+[36mserver-1  | [0m
+[36mserver-1  | [0m        Note: May not be used together with --listen
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --port=PORT
+[36mserver-1  | [0m        TCP port on which to listen, default is '8080'
+[36mserver-1  | [0m
+[36mserver-1  | [0m        Note: May not be used together with --listen
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --listen=ip:port
+[36mserver-1  | [0m        Tell waitress to listen on an ip port combination.
+[36mserver-1  | [0m
+[36mserver-1  | [0m        Example:
+[36mserver-1  | [0m
+[36mserver-1  | [0m            --listen=127.0.0.1:8080
+[36mserver-1  | [0m            --listen=[::1]:8080
+[36mserver-1  | [0m            --listen=*:8080
+[36mserver-1  | [0m
+[36mserver-1  | [0m        This option may be used multiple times to listen on multiple sockets.
+[36mserver-1  | [0m        A wildcard for the hostname is also supported and will bind to both
+[36mserver-1  | [0m        IPv4/IPv6 depending on whether they are enabled or disabled.
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --[no-]ipv4
+[36mserver-1  | [0m        Toggle on/off IPv4 support.
+[36mserver-1  | [0m
+[36mserver-1  | [0m        Example:
+[36mserver-1  | [0m
+[36mserver-1  | [0m            --no-ipv4
+[36mserver-1  | [0m
+[36mserver-1  | [0m        This will disable IPv4 socket support. This affects wildcard matching
+[36mserver-1  | [0m        when generating the list of sockets.
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --[no-]ipv6
+[36mserver-1  | [0m        Toggle on/off IPv6 support.
+[36mserver-1  | [0m
+[36mserver-1  | [0m        Example:
+[36mserver-1  | [0m
+[36mserver-1  | [0m            --no-ipv6
+[36mserver-1  | [0m
+[36mserver-1  | [0m        This will turn on IPv6 socket support. This affects wildcard matching
+[36mserver-1  | [0m        when generating a list of sockets.
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --unix-socket=PATH
+[36mserver-1  | [0m        Path of Unix socket. If a socket path is specified, a Unix domain
+[36mserver-1  | [0m        socket is made instead of the usual inet domain socket.
+[36mserver-1  | [0m
+[36mserver-1  | [0m        Not available on Windows.
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --unix-socket-perms=PERMS
+[36mserver-1  | [0m        Octal permissions to use for the Unix domain socket, default is
+[36mserver-1  | [0m        '600'.
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --url-scheme=STR
+[36mserver-1  | [0m        Default wsgi.url_scheme value, default is 'http'.
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --url-prefix=STR
+[36mserver-1  | [0m        The ``SCRIPT_NAME`` WSGI environment value.  Setting this to anything
+[36mserver-1  | [0m        except the empty string will cause the WSGI ``SCRIPT_NAME`` value to be
+[36mserver-1  | [0m        the value passed minus any trailing slashes you add, and it will cause
+[36mserver-1  | [0m        the ``PATH_INFO`` of any request which is prefixed with this value to
+[36mserver-1  | [0m        be stripped of the prefix.  Default is the empty string.
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --ident=STR
+[36mserver-1  | [0m        Server identity used in the 'Server' header in responses. Default
+[36mserver-1  | [0m        is 'waitress'.
+[36mserver-1  | [0m
+[36mserver-1  | [0mTuning options:
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --threads=INT
+[36mserver-1  | [0m        Number of threads used to process application logic, default is 4.
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --backlog=INT
+[36mserver-1  | [0m        Connection backlog for the server. Default is 1024.
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --recv-bytes=INT
+[36mserver-1  | [0m        Number of bytes to request when calling socket.recv(). Default is
+[36mserver-1  | [0m        8192.
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --send-bytes=INT
+[36mserver-1  | [0m        Number of bytes to send to socket.send(). Default is 18000.
+[36mserver-1  | [0m        Multiples of 9000 should avoid partly-filled TCP packets.
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --outbuf-overflow=INT
+[36mserver-1  | [0m        A temporary file should be created if the pending output is larger
+[36mserver-1  | [0m        than this. Default is 1048576 (1MB).
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --outbuf-high-watermark=INT
+[36mserver-1  | [0m        The app_iter will pause when pending output is larger than this value
+[36mserver-1  | [0m        and will resume once enough data is written to the socket to fall below
+[36mserver-1  | [0m        this threshold. Default is 16777216 (16MB).
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --inbuf-overflow=INT
+[36mserver-1  | [0m        A temporary file should be created if the pending input is larger
+[36mserver-1  | [0m        than this. Default is 524288 (512KB).
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --connection-limit=INT
+[36mserver-1  | [0m        Stop creating new channels if too many are already active.
+[36mserver-1  | [0m        Default is 100.
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --cleanup-interval=INT
+[36mserver-1  | [0m        Minimum seconds between cleaning up inactive channels. Default
+[36mserver-1  | [0m        is 30. See '--channel-timeout'.
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --channel-timeout=INT
+[36mserver-1  | [0m        Maximum number of seconds to leave inactive connections open.
+[36mserver-1  | [0m        Default is 120. 'Inactive' is defined as 'has received no data
+[36mserver-1  | [0m        from the client and has sent no data to the client'.
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --[no-]log-socket-errors
+[36mserver-1  | [0m        Toggle whether premature client disconnect tracebacks ought to be
+[36mserver-1  | [0m        logged. On by default.
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --max-request-header-size=INT
+[36mserver-1  | [0m        Maximum size of all request headers combined. Default is 262144
+[36mserver-1  | [0m        (256KB).
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --max-request-body-size=INT
+[36mserver-1  | [0m        Maximum size of request body. Default is 1073741824 (1GB).
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --[no-]expose-tracebacks
+[36mserver-1  | [0m        Toggle whether to expose tracebacks of unhandled exceptions to the
+[36mserver-1  | [0m        client. Off by default.
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --asyncore-loop-timeout=INT
+[36mserver-1  | [0m        The timeout value in seconds passed to asyncore.loop(). Default is 1.
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --asyncore-use-poll
+[36mserver-1  | [0m        The use_poll argument passed to ``asyncore.loop()``. Helps overcome
+[36mserver-1  | [0m        open file descriptors limit. Default is False.
+[36mserver-1  | [0m
+[36mserver-1  | [0m    --channel-request-lookahead=INT
+[36mserver-1  | [0m        Allows channels to stay readable and buffer more requests up to the
+[36mserver-1  | [0m        given maximum even if a request is already being processed. This allows
+[36mserver-1  | [0m        detecting if a client closed the connection while its request is being
+[36mserver-1  | [0m        processed. Default is 0.
+[36mserver-1  | [0m
+[36mserver-1  | [0m
+[36mserver-1  | [0mThere was an exception (AttributeError) importing your module.
+[36mserver-1  | [0m
+[36mserver-1  | [0mIt had these arguments: 
+[36mserver-1  | [0m1. 'NoneType' object has no attribute 'fetchall'
+[36mserver-1  | [0m

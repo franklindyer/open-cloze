@@ -5,10 +5,11 @@ import tqdm
 
 sys.path.append("src")
 
-from shared import tqdm_readlines
+from shared import get_conf, tqdm_readlines
 from registry import GEN_REGISTRY
 
 import generators
+import deu_generator
 
 # A puzzle generator for a language L should be a function that takes a state object
 #   and a sentence in that language and returns a new state object plus a list of puzzles.
@@ -34,10 +35,14 @@ def gen_puzzles(group, lang):
             all_puz[lemma].append(str(id) + ":" + puz["intervals"])
 
     with open(f"puzzles/{group}/{lang}.json", "w") as f:
-        f.write(json.dumps(all_puz, indent=4))
+        f.write(json.dumps(all_puz, indent=4, ensure_ascii=False))
 
     return all_puz
 
-gen_puzzles("test", "eng")
-gen_puzzles("test", "spa")
-# gen_puzzles("tatoeba", "eng")
+def gen_all_puzzles():
+    CONF = get_conf()
+    for grp in CONF["groups"]:
+        for lang in CONF["groups"][grp]["puzzles"]:
+            gen_puzzles(grp, lang)
+
+gen_all_puzzles()

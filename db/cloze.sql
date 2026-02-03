@@ -27,6 +27,7 @@ CREATE TABLE lemmas (
 
 CREATE TABLE puzzles (
     id INT AUTO_INCREMENT PRIMARY KEY,
+    group_id INT NOT NULL,
     sentence_id INT NOT NULL,
     lemma_id INT NOT NULL,
     intervals TEXT NOT NULL

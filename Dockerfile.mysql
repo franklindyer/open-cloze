@@ -7,4 +7,6 @@ ENV MYSQL_DATABASE=cloze \
 
 ADD db/cloze.sql /docker-entrypoint-initdb.d
 
+RUN mkdir /dump
+
 EXPOSE 3306

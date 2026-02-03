@@ -1,29 +1,16 @@
 import os
+import json
 import tqdm
 import sys
 
 sys.path.append("src")
 
-from shared import tqdm_readlines
+from shared import get_conf, tqdm_readlines
 
-ENABLED_GROUPS = ["tatoeba"]
-GROUPS = []
+CONF = get_conf()
+GROUPS = list(CONF["groups"].keys())
 LANGS = []
 FILES = []
-
-GROUP_LANG_PAIRS = []
-
-for fname in os.listdir("./puzzles"):
-    fpath = os.path.join("puzzles", fname)
-    if not os.path.isfile(fpath):
-        continue
-    FILES.append(fname)
-
-    fparts = fname.split(".")
-    if fparts[2] == "json" and fparts[0] in ENABLED_GROUPS:
-        GROUP_LANG_PAIRS.append((fparts[0], fparts[1]))
-
-GROUPS = list(set([x[0] for x in GROUP_LANG_PAIRS]))
 
 import mysql.connector as con
 
@@ -32,6 +19,9 @@ cur = cnx.cursor()
 
 GROUP_IDS = []
 for grp in GROUPS:
+    if len(CONF["groups"][grp]["sentences"]) == 0:
+        continue
+
     cur.execute("INSERT INTO puzzle_groups (label) VALUES (%s)", (grp,))
     GROUP_IDS.append(cur.lastrowid)
 
@@ -42,10 +32,9 @@ for grp in GROUPS:
         id1 = int(ln[0])
         id2 = int(ln[1])
         cur.execute("INSERT INTO links (group_id, id1, id2) VALUES (%s, %s, %s)", (GROUPS.index(grp)+1, min(id1, id2), max(id1, id2),),)
+        cur.execute("INSERT INTO links (group_id, id2, id1) VALUES (%s, %s, %s)", (GROUPS.index(grp)+1, min(id1, id2), max(id1, id2),),)
 
-    for (grp2, lang) in GROUP_LANG_PAIRS:
-        if grp2 != grp:
-            continue
+    for lang in CONF["groups"][grp]["sentences"]:
         for ln in tqdm_readlines(f"data/{grp}/{lang}.tsv"):
             if len(ln) <= 1:
                 continue
@@ -55,8 +44,17 @@ for grp in GROUPS:
             except:
                 print("ERROR ON: " + ln[1])
 
-for (grp, lang) in GROUP_LANG_PAIRS:
-    continue
+for grp in GROUPS:
+    for lang in CONF["groups"][grp]["puzzles"]: 
+        puzs = json.loads(open(f"puzzles/{grp}/{lang}.json").read())
+        for lemma in tqdm.tqdm(list(puzs)):
+            puzlist = puzs[lemma]
+            cur.execute("INSERT INTO lemmas (lang, text) VALUES (%s, %s)", (lang, lemma,))
+            lemma_id = cur.lastrowid
+            for puz in puzlist:
+                sent_id = int(puz.split(":")[0])
+                intervals = puz.split(":")[1]
+                cur.execute("INSERT INTO puzzles (sentence_id, group_id, lemma_id, intervals) VALUES (%s, %s, %s, %s)", (sent_id, GROUP_IDS[GROUPS.index(grp)], lemma_id, intervals,))
 
 cnx.commit()
 
