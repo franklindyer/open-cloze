@@ -25,7 +25,7 @@ def pool_query(con, q, args=()):
     res = DB_READ_POOL.apply(unpool_query, (con, q, args,))
     return res
 
-SQL_CON = sql.connect(host="10.9.0.2", port=3306, user="root", passwd="root", db="cloze", charset="utf8mb4") 
+SQL_CON = sql.connect(host="mysql", port=3306, user="root", passwd="root", db="cloze", charset="utf8mb4") 
 
 cur = SQL_CON.cursor()
 cur.execute("SELECT label FROM puzzle_groups")
@@ -70,21 +70,21 @@ def get_random_cloze(con, src_langs, tgt_lang, lemma, n=1, groups=all_groups):
     lang_params = ','.join(["%s"] * len(src_langs))
     group_params = ','.join(["%s"] * len(groups))
     ress = pool_query(con, f"""
-        SELECT pid, blanks, src_txt, tgt_txt, grp FROM (
-            SELECT puzzles.id AS pid, puzzles.group_id AS gid, puzzles.intervals AS intervals, sents_src.text AS src_txt, sents_tgt.text AS tgt_txt, puzzle_groups.name AS grp
-            FROM puzzles
-            INNER JOIN lemmas ON puzzles.lemma_id=lemmas.id
-            INNER JOIN sentences AS sents_src ON puzzles.sentence_id=sents_src.id
-            INNER JOIN links ON puzzles.sentence_id=links.id1
-            INNER JOIN sentences AS sents_tgt ON sents_tgt.id=links.id2 
-            INNER JOIN puzzle_groups ON sents_tgt.group_id=puzzle_groups.id
-            WHERE lemmas.lemma=%s 
-                AND sents_tgt.iso_lang=%s
-                AND sents_src.iso_lang IN ({lang_params})
-                AND sources.name IN ({group_params})
-        )
-        ORDER BY RANDOM()
-        LIMIT ?
+        SELECT pid, intervals, src_txt, tgt_txt, grp FROM (
+            SELECT puzzles.id AS pid, puzzles.group_id AS gid, puzzles.intervals AS intervals, sents_src.text AS src_txt, sents_tgt.text AS tgt_txt, puzzle_groups.label AS grp
+            FROM puzzles AS puzzles
+            INNER JOIN lemmas AS lemmas ON puzzles.lemma_id=lemmas.id
+            INNER JOIN sentences AS sents_tgt ON puzzles.sentence_id=sents_tgt.id
+            INNER JOIN links AS links ON puzzles.sentence_id=links.id1
+            INNER JOIN sentences AS sents_src ON sents_src.id=links.id2 
+            INNER JOIN puzzle_groups AS puzzle_groups ON sents_tgt.group_id=puzzle_groups.id
+            WHERE lemmas.text=%s 
+                AND sents_tgt.lang=%s
+                AND sents_src.lang IN ({lang_params})
+                AND puzzle_groups.label IN ({group_params})
+        ) AS tableAlias
+        ORDER BY RAND()
+        LIMIT %s
     """, (lemma, tgt_lang,) + tuple(src_langs) + tuple(groups) + (n,))
     if len(ress) == 0:
         return None
@@ -102,7 +102,7 @@ def add_blanks(puz):
     bls = [(int(bl[0]), int(bl[1])) for bl in bls][::-1]
     pt = puz['target']
     for bl in bls:
-        pt = pt[:bl[0]] + "{{" + pt[bl[0]:(bl[1]+1)] + "}}" + pt[(bl[1]+1):]
+        pt = pt[:bl[0]] + "{{" + pt[bl[0]:bl[1]] + "}}" + pt[bl[1]:]
     puz['puzzle'] = pt
     return puz
 

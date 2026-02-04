@@ -1,4 +1,5 @@
 from collections import Counter
+import numpy as np
 import random
 import spacy
 import sys
@@ -12,8 +13,9 @@ eng_nlp = spacy.load("en_core_web_md")
 spa_nlp = spacy.load("es_core_news_md")
 rus_nlp = spacy.load("ru_core_news_md")
 ell_nlp = spacy.load("el_core_news_md")
+cmn_nlp = spacy.load("zh_core_web_md")
 
-def simple_generator(nlp):
+def simple_generator(nlp, lemmatize=True):
     TARGET_NUM = 20
     REDUCED_PROB = 0.2
     MAX_NUM = 50
@@ -23,16 +25,20 @@ def simple_generator(nlp):
             s["counts"] = Counter()
 
         snt_nlp = nlp(snt)
+        tok_positions = np.cumsum([0] + [len(tok.text) + len(tok.whitespace_) for tok in snt_nlp]) 
 
         puzs = []
-        ind = 0
-        for tok in snt_nlp:
+        for (tok_num, tok) in zip(range(len(snt_nlp)), snt_nlp):
             tok_total = tok.text + tok.whitespace_
             if tok.is_punct:
                 continue
             if any(c in "0123456789" for c in tok.lemma_):
                 continue
-            lemma = tok.lemma_
+
+            if lemmatize:
+                lemma = tok.lemma_
+            else:
+                lemma = tok.text
 
             if s["counts"][lemma] >= MAX_NUM:
                 continue
@@ -40,11 +46,11 @@ def simple_generator(nlp):
                 continue
 
             s["counts"][lemma] += 1
+            ind = tok_positions[tok_num]
             puzs.append({
                 "lemma": lemma,
                 "intervals": f"{ind}-{ind+len(tok.text)}"
             })
-            ind += len(tok_total)
         return (s, puzs)
     return gen
 
@@ -52,3 +58,4 @@ GEN_REGISTRY["eng"] = simple_generator(eng_nlp)
 GEN_REGISTRY["spa"] = simple_generator(spa_nlp)
 GEN_REGISTRY["rus"] = simple_generator(rus_nlp)
 GEN_REGISTRY["ell"] = simple_generator(ell_nlp)
+GEN_REGISTRY["cmn"] = simple_generator(cmn_nlp, lemmatize=False)
