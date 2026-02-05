@@ -11,8 +11,8 @@ from registry import GEN_REGISTRY
 # from shared import lines_set
 
 deu_nlp = spacy.load("de_core_news_md")
-# deu_prefixes = lines_set("german-separable-prefixes.txt")
-# deu_verbs = lines_set("german-separable-verbs.txt")
+# deu_nlp = spacy.load("de_zdl_lg")
+# deu_nlp = spacy.load("de_zdl_dist")
 
 def deu_generator():
     TARGET_NUM = 20
