@@ -1,0 +1,5003 @@
+rank	ru	en	pos
+1	и	and	C
+2	в	in, to, into	Prep
+3	не	not	Part
+4	на	on, onto	Prep
+5	я	I, me	P
+6	быть	be	V
+7	с	with, from, since	Prep
+8	он	he	P
+9	что	that	C
+10	а	and, but	C
+11	э'то	this	P
+12	э'тот	this	P
+13	по	along	Prep
+14	к	to	Prep
+15	но	but	C
+16	они'	they	P
+17	мы	we	P
+18	она'	she	P
+19	как	how	C
+20	то	that, what	P
+21	кото'рый	which, what, who	P
+22	из	from, of	Prep
+23	у	by, at	Prep
+24	свой	one’s (own)	P
+25	вы	you	P
+26	весь	all, whole	P
+27	за	after, behind, for	Prep
+28	для	for	Prep
+29	от	from, against	Prep
+30	мочь	be able	V
+31	так	so	P
+32	ты	you	P
+33	о	about	Prep
+34	что	what	P
+35	челове'к	human, person	Nm
+36	же	indeed	Part
+37	год	year	Nm
+38	всё	still, all, nevertheless	Adv
+39	тако'й	such, so	P
+40	тот	that, the	P
+41	и'ли	or	C
+42	е'сли	if, in case	C
+43	то'лько	only	Part
+44	его'	his, its	P
+45	оди'н	one	P
+46	бы	would	Part
+47	себя'	oneself	P
+48	вре'мя	time	Nn
+49	ещё	more, still	Adv
+50	друго'й	other, another	P
+51	уже'	already	Adv
+52	когда'	when	C
+53	сказа'ть	say	V
+54	до	before, until, to	Prep
+55	мой	my	P
+56	наш	our, ours	P
+57	что'бы	in order to	C
+58	станови'ться	become	V
+59	говори'ть	talk, speak, tell	V
+60	са'мый	most, the very	P
+61	знать	know	V
+62	вот	here	Part
+63	о'чень	very	Adv
+64	кто	who	P
+65	при	by, when, in the presence of	Prep
+66	день	day	Nm
+67	мо'жно	may, can	Adv
+68	жизнь	life	Nf
+69	пе'рвый	first	Num
+70	сам	myself, yourself, himself	P
+71	де'ло	business, case	Nn
+72	два	two	Num
+73	но'вый	new	A
+74	да'же	even	Part
+75	хоте'ть	want	V
+76	до'лжен	must, have to, owe	A
+77	раз	time	Nm
+78	их	their, theirs, them	P
+79	рабо'та	work, job	Nf
+80	како'й	which, what	P
+81	име'ть	have	V
+82	со	with, from, since	Prep
+83	там	there	P
+84	по'сле	after, afterwards	Prep
+85	понима'ть	understand	V
+86	ли	whether	Part
+87	где	where	P
+88	рука'	hand, arm	Nf
+89	го'род	city	Nm
+90	вопро'с	question, issue	Nm
+91	её	her, hers	P
+92	под	under	Prep
+93	дава'ть	give	V
+94	сло'во	word	Nn
+95	нет	no, not	Adv
+96	ме'сто	place	Nn
+97	ка'ждый	every	P
+98	без	without	Prep
+99	ребёнок	child	Nm
+100	ну	well	Part
+101	бо'лее	more	Adv
+102	друг	friend	Nm
+103	идти'	go	V
+104	большо'й	big, large	A
+105	про'сто	simply, just	Part
+106	начина'ть	begin	V
+107	чем	than	C
+108	сде'лать	do, make	V
+109	ваш	your, yours	P
+110	на'до	necessary, must, have to	Adv
+111	здесь	here	P
+112	Росси'я	Russia	Nf
+113	де'лать	do	V
+114	ви'деть	see	V
+115	пото'м	after, afterwards	P
+116	да	yes	C
+117	ничто'	nothing	P
+118	получа'ть	receive	V
+119	сейча'с	now	P
+120	че'рез	in, after, across	Prep
+121	мно'го	many	Num
+122	мир	world, peace	Nm
+123	тепе'рь	now	P
+124	остава'ться	remain	V
+125	слу'чай	case	Nm
+126	ду'мать	think	V
+127	ни	no, neither, nor	Part
+128	сторона'	side	Nf
+129	хоро'ший	good	A
+130	глаз	eye	Nm
+131	тогда'	then, at the time	P
+132	тут	here	P
+133	не'сколько	several, a few	Num
+134	то'же	too, also	Part
+135	приходи'ть	come	V
+136	дом	home, house	Nm
+137	страна'	country	Nf
+138	рабо'тать	work	V
+139	отвеча'ть	reply, answer	V
+140	после'дний	last	A
+141	лицо'	face	Nn
+142	жить	live	V
+143	си'ла	strength, force	Nf
+144	же'нщина	woman	Nf
+145	выходи'ть	go out	V
+146	часть	part, proportion	Nf
+147	та'кже	also	Part
+148	всегда'	always	P
+149	явля'ться	be, appear	V
+150	систе'ма	system	Nf
+151	вид	look, view, kind	Nm
+152	голова'	head	Nf
+153	коне'ц	end, finish	Nm
+154	находи'ть	find	V
+155	ме'жду	between	Prep
+156	ока'зываться	turn out, end up	V
+157	хотя'	although, but	C
+158	смотре'ть	watch	V
+159	коне'чно	certainly	Adv
+160	пробле'ма	problem	Nf
+161	принима'ть	take	V
+162	спра'шивать	ask	V
+163	проходи'ть	pass	V
+164	отноше'ние	relationship	Nn
+165	три	three	Num
+166	второ'й	second, two	Num
+167	пе'ред	before, in front	Prep
+168	лишь	only	Part
+169	и'менно	namely	Part
+170	о'браз	image, way	Nm
+171	поэ'тому	therefore, that’s why	P
+172	почему'	why	P
+173	Москва'	Moscow	Nf
+174	любо'й	any	P
+175	одна'ко	however	C
+176	никто'	no one, nobody	P
+177	час	hour	Nm
+178	реша'ть	decide, solve	V
+179	де'ньги	money	N-
+180	счита'ть	count	V
+181	над	above	Prep
+182	земля'	land, ground	Nf
+183	сего'дня	today	Adv
+184	ру'сский	Russian	N-
+185	вообще'	generally, at all	Adv
+186	взять	take	V
+187	кни'га	book	Nf
+188	хорошо'	well, all right	Adv
+189	пойти'	go, start going	V
+190	не'который	some	P
+191	компа'ния	company	Nf
+192	исто'рия	history, story	Nf
+193	мно'гие	many	P
+194	приходи'ться	have to	V
+195	люби'ть	love	V
+196	возмо'жность	opportunity, possibility	Nf
+197	ну'жно	necessary	Adv
+198	всё	all, everything	P
+199	результа'т	result	Nm
+200	бо'льше	more	Adv
+201	высо'кий	tall, high	A
+202	наприме'р	for example	Adv
+203	почти'	almost	Adv
+204	писа'ть	write	V
+205	возвраща'ться	return	V
+206	сиде'ть	sit	V
+207	уходи'ть	leave	V
+208	твой	your, yours	P
+209	маши'на	machine, car	Nf
+210	гру'ппа	group, grouping	Nf
+211	пока'	while	C
+212	находи'ться	be	V
+213	пра'во	right, rights, law	Nn
+214	уви'деть	see	V
+215	война'	war	Nf
+216	путь	way	Nm
+217	что-то	something, anything	P
+218	ведь	but, after all	Part
+219	стоя'ть	stand	V
+220	и'мя	name	Nn
+221	никогда'	never	P
+222	помога'ть	help	V
+223	сто'ить	cost	V
+224	отве'т	answer, reply	Nm
+225	появля'ться	appear	V
+226	бог	God	Nm
+227	вода'	water	Nf
+228	совсе'м	completely, very	Adv
+229	язы'к	language, tongue	Nm
+230	пока'зывать	show	V
+231	каза'ться	seem	V
+232	далеко'	far	Adv
+233	ну'жный	necessary	A
+234	ма'ленький	small	A
+235	росси'йский	Russian	A
+236	реше'ние	decision	Nn
+237	наро'д	people, nation	Nm
+238	расска'зывать	tell	V
+239	власть	power	Nf
+240	сра'зу	at once	Adv
+241	ночь	night	Nf
+242	по'лный	full, total	A
+243	никако'й	no, none, any	P
+244	гла'вный	chief, main	A
+245	оно'	it	P
+246	дверь	door	Nf
+247	ча'сто	often	Adv
+248	у'ровень	level, rate	Nm
+249	создава'ть	create	V
+250	зако'н	law	Nm
+251	разви'тие	development	Nn
+252	програ'мма	programme	Nf
+253	нача'ло	beginning	Nn
+254	написа'ть	write	V
+255	оте'ц	father	Nm
+256	нога'	leg, foot	Nf
+257	вме'сте	together	Adv
+258	ста'рый	old	A
+259	моме'нт	moment	Nm
+260	по'мощь	help	Nf
+261	цель	goal	Nf
+262	сле'дующий	next	A
+263	чи'сло	number, date	Nn
+264	подо'бный	similar	A
+265	ра'зный	different, all kinds of	A
+266	ты'сяча	thousand	Nf
+267	про	about	Prep
+268	о'бщий	general, common	A
+269	мину'та	minute	Nf
+270	информа'ция	information	Nf
+271	кро'ме	besides, apart from	Prep
+272	смочь	be able, can	V
+273	проце'сс	process	Nm
+274	а'втор	author	Nm
+275	фо'рма	form, shape	Nf
+276	го'лос	voice, vote	Nm
+277	ме'сяц	month	Nm
+278	мысль	thought	Nf
+279	свет	light	Nm
+280	шко'ла	school	Nf
+281	де'йствие	action, effect	Nn
+282	вся'кий	any, every	P
+283	ка'чество	quality	Nn
+284	ситуа'ция	situation	Nf
+285	о'бласть	region, area, field	Nf
+286	внима'ние	attention	Nn
+287	сле'довать	follow, should	V
+288	доро'га	road	Nf
+289	испо'льзовать	use	V
+290	со'бственный	own	A
+291	замеча'ть	notice, note	V
+292	взгляд	glance	Nm
+293	усло'вие	condition	Nn
+294	молодо'й	young	A
+295	мужчи'на	man	Nm
+296	предлага'ть	offer, propose	V
+297	сно'ва	again	Adv
+298	любо'вь	love	Nf
+299	связь	connection, bond, communication	Nf
+300	ва'жный	important	A
+301	ждать	wait	V
+302	вдруг	suddenly	Adv
+303	игра'	game	Nf
+304	чита'ть	read	V
+305	ско'ро	soon	Adv
+306	организа'ция	organization	Nf
+307	статья'	article	Nf
+308	сре'дство	remedy, means, way	Nn
+309	душа'	soul	Nf
+310	входи'ть	enter	V
+311	пыта'ться	try, attempt	V
+312	основно'й	main, fundamental	A
+313	те'ло	body	Nn
+314	посмотре'ть	watch, look	V
+315	жена'	wife	Nf
+316	открыва'ть	open	V
+317	пора'	it’s time	Nf
+318	узнава'ть	recognize, find out	V
+319	письмо'	letter	Nn
+320	о'бщество	society	Nn
+321	состоя'ние	condition, state	Nn
+322	настоя'щий	present	A
+323	ве'чер	evening	Nm
+324	существова'ть	exist, be	V
+325	наза'д	back, ago	Adv
+326	смысл	meaning, sense, point	Nm
+327	семья'	family	Nf
+328	ме'ра	measure	Nf
+329	госуда'рство	state	Nn
+330	соверше'нно	entirely	Adv
+331	вещь	thing	Nf
+332	просто'й	simple	A
+333	оставля'ть	leave	V
+334	у'тро	morning	Nn
+335	действи'тельно	really	Adv
+336	мать	mother	Nf
+337	де'вушка	girl	Nf
+338	зате'м	then	Adv
+339	вести'	lead, drive	V
+340	стол	table	Nm
+341	причи'на	cause	Nf
+342	прое'кт	project, draft	Nm
+343	у'лица	street	Nf
+344	ры'нок	market	Nm
+345	игра'ть	play	V
+346	госуда'рственный	state	A
+347	происходи'ть	take place, originate	V
+348	по'мнить	remember, recall	V
+349	называ'ть	name	V
+350	то'чка	point	Nf
+351	нельзя'	impossible	Adv
+352	начина'ться	begin	V
+353	да'нный	given, the	P
+354	подходи'ть	come, approach	V
+355	опя'ть	again	Adv
+356	те'ма	theme, topic	Nf
+357	ра'вный	equal	A
+358	неде'ля	week	Nf
+359	хоте'ться	want, like	V
+360	вызыва'ть	cause, call	V
+361	ко'мната	room	Nf
+362	ино'й	other, different	P
+363	бе'лый	white	A
+364	наконе'ц	finally	Adv
+365	куда'	where	P
+366	изве'стный	known	A
+367	центр	centre	Nm
+368	цена'	price	Nf
+369	сын	son	Nm
+370	забыва'ть	forget	V
+371	де'ятельность	activity	Nf
+372	осо'бенно	especially, particularly 	Adv
+373	иде'я	idea	Nf
+374	про'тив	against	Prep
+375	пра'вило	rule	Nn
+376	сове'тский	Soviet	A
+377	лу'чший	best	A
+378	движе'ние	movement, traffic	Nn
+379	занима'ться	study, work	V
+380	огро'мный	huge	A
+381	среди'	among	Prep
+382	ма'ма	mum	Nf
+383	вели'кий	great	A
+384	коли'чество	quantity	Nn
+385	чу'вство	feeling	Nn
+386	сли'шком	too	Adv
+387	иногда'	sometimes	Adv
+388	смерть	death	Nf
+389	лежа'ть	lie	V
+390	труд	work	Nm
+391	вспомина'ть	remember	V
+392	пять	five	Num
+393	зада'ча	task	Nf
+394	быва'ть	be, visit, happen	V
+395	получа'ться	come out, be	V
+396	доста'точно	enough	Adv
+397	си'льный	strong, powerful	A
+398	мне'ние	opinion	Nn
+399	бы'стро	quickly	Adv
+400	чу'вствовать	feel, sense	V
+401	тре'тий	third	Num
+402	чёрный	black	A
+403	приме'р	example	Nm
+404	гото'вый	ready, willing	A
+405	положе'ние	position, situation	Nn
+406	поря'док	order	Nm
+407	продолжа'ть	continue, carry on	V
+408	век	century	Nm
+409	поско'льку	because	C
+410	муж	husband	Nm
+411	речь	speech	Nf
+412	полити'ческий	political	A
+413	представля'ть	present, imagine	V
+414	стена'	wall	Nf
+415	попада'ть	hit, get	V
+416	слы'шать	hear	V
+417	поду'мать	think	V
+418	ходи'ть	walk	V
+419	окно'	window	Nn
+420	ря'дом	near	Adv
+421	план	plan	Nm
+422	тип	type	Nm
+423	о'ба	both	Num
+424	сове'т	council, advice	Nm
+425	совреме'нный	modern	A
+426	удава'ться	manage	V
+427	приезжа'ть	arrive, come	V
+428	плохо'й	bad	A
+429	из-за	from behind, because of	Prep
+430	о'пыт	experience, experiment	Nm
+431	се'рдце	heart	Nn
+432	нау'ка	science	Nf
+433	сообще'ние	message	Nn
+434	управле'ние	management, control	Nn
+435	да'нные	data	N-
+436	о'коло	near, by	Prep
+437	интере'с	interest	Nm
+438	проси'ть	ask	V
+439	газе'та	newspaper	Nf
+440	интере'сный	interesting	A
+441	необходи'мый	necessary	A
+442	материа'л	material	Nm
+443	роль	role	Nf
+444	вполне'	quite	Adv
+445	объясня'ть	explain	V
+446	ра'но	early	Adv
+447	обраща'ться	consult, treat	V
+448	поста'вить	put	V
+449	а'рмия	army	Nf
+450	свя'зывать	connect, tie together	V
+451	то'чно	exactly	Adv
+452	четы'ре	four	Num
+453	до'лго	long	Adv
+454	разли'чный	different	A
+455	ли'бо	or	C
+456	социа'льный	social	A
+457	ме'нее	less, under	Adv
+458	собы'тие	event	Nn
+459	иска'ть	look for	V
+460	большинство'	majority	Nn
+461	пра'вда	truth	Adv
+462	кра'сный	red	A
+463	давно'	long, long ago	Adv
+464	легко'	easy, easily	Adv
+465	прави'тельство	government	Nn
+466	боя'ться	fear, be afraid	V
+467	суд	court	Nm
+468	президе'нт	president	Nm
+469	возмо'жно	possibly, may	Adv
+470	занима'ть	borrow, occupy the   position of, be	V
+471	вое'нный	military	N-
+472	рубль	ruble	Nm
+473	це'лый	whole	A
+474	фильм	film	Nm
+475	умира'ть	die	V
+476	би'знес	business	Nm
+477	обы'чно	usually	Adv
+478	спать	sleep	V
+479	миллио'н	million	Nm
+480	сообща'ть	report	V
+481	культу'ра	culture	Nf
+482	текст	text	Nm
+483	носи'ть	carry, wear	V
+484	брать	take	V
+485	докуме'нт	document	Nm
+486	снима'ть	rent, remove, withdraw, shoot (film)	V
+487	член	member	Nm
+488	телефо'н	telephone	Nm
+489	относи'ться	relate, be part of	V
+490	выбира'ть	choose	V
+491	определя'ть	define, determine	V
+492	спо'соб	way, means	Nm
+493	тече'ние	course, current	Nn
+494	счёт	account, bill	Nm
+495	живо'й	alive, live	N-
+496	встава'ть	stand (up), get up	V
+497	случа'ться	happen	V
+498	роди'тель	parent	Nm
+499	небольшо'й	small, little	A
+500	купи'ть	buy	V
+501	разгово'р	talk, conversation	Nm
+502	сей	this	P
+503	еди'нственный	only	A
+504	метр	metre	Nm
+505	при'нцип	principle	Nm
+506	сайт	site	Nm
+507	пра'вый	right	N-
+508	немно'го	little, a bit	Adv
+509	па'ртия	party, consignment	Nf
+510	образова'ние	education	Nn
+511	ско'лько	how many, how much	Num
+512	заче'м	why, what for	P
+513	приноси'ть	bring	V
+514	наве'рное	probably	Adv
+515	убива'ть	kill	V
+516	пери'од	period	Nm
+517	кста'ти	by the way	Adv
+518	па'ра	couple, pair	Nf
+519	ряд	row, number	Nm
+520	кварти'ра	flat	Nf
+521	значе'ние	meaning	Nn
+522	вну'тренний	internal, inside	A
+523	позволя'ть	allow, enable	V
+524	да'лее	further	Adv
+525	успева'ть	manage	V
+526	возмо'жный	possible	A
+527	жела'ние	desire, wish	Nn
+528	слу'шать	listen	V
+529	поднима'ть	lift, raise	V
+530	но'мер	number, hotel room	Nm
+531	броса'ть	throw	V
+532	чуть	slightly, a bit	Adv
+533	о'чередь	queue	Nf
+534	поли'тика	politics	Nf
+535	класс	class, year	Nm
+536	брат	brother	Nm
+537	собира'ться	prepare, plan	V
+538	тре'бовать	require	V
+539	отмеча'ть	mark, celebrate	V
+540	произво'дство	manufacture, production	Nn
+541	райо'н	area, district	Nm
+542	осно'ва	base	Nf
+543	ве'рить	believe	V
+544	измене'ние	change	Nn
+545	бли'зкий	close	A
+546	челове'ческий	human	A
+547	дово'льно	quite	Adv
+548	экономи'ческий	economic	A
+549	факт	fact	Nm
+550	стро'ить	build	V
+551	ме'стный	local	A
+552	определённый	definite, specific	A
+553	не'бо	sky	Nn
+554	созда'ние	creation	Nn
+555	направле'ние	direction	Nn
+556	осо'бый	special	A
+557	предприя'тие	enterprise	Nn
+558	шаг	step	Nm
+559	до'брый	good, kind	A
+560	по'ле	field	Nn
+561	ход	course	Nm
+562	иссле'дование	research	Nn
+563	остально'й	other, remaining	P
+564	пол	floor, sex	Nm
+565	кома'нда	team	Nf
+566	поднима'ться	raise, ascend, walk up	V
+567	обще'ственный	public	A
+568	ма'льчик	boy	Nm
+569	заставля'ть	force	V
+570	туда'	there	P
+571	пусть	let	Part
+572	ме'тод	method	Nm
+573	ма'ло	little, not much	Adv
+574	встре'ча	meeting	Nf
+575	снача'ла	at first	Adv
+576	сон	sleep, dream	Nm
+577	отдава'ть	return, give	V
+578	слу'жба	service	Nf
+579	остана'вливаться	stop	V
+580	во'здух	air	Nm
+581	кровь	blood	Nf
+582	зре'ние	sight	Nn
+583	врач	doctor	Nm
+584	по'вод	cause, reason	Nm
+585	рост	growth, height	Nm
+586	е'хать	go, ride, drive	V
+587	встреча'ть	meet	V
+588	нра'виться	like	V
+589	зна'ние	knowledge	Nn
+590	како'й-то	some	P
+591	всё-таки	nevertheless, still	Part
+592	населе'ние	population	Nn
+593	па'лец	finger	Nm
+594	де'сять	ten	Num
+595	обы'чный	usual	A
+596	орга'н	organ, authorities	Nm
+597	до'ллар	dollar	Nm
+598	держа'ть	keep, hold	V
+599	похо'жий	similar	A
+600	устана'вливать	establish, install	V
+601	уча'стие	participation, role	Nn
+602	дорого'й	expensive, dear	A
+603	реа'льный	real	A
+604	род	gender, kind	Nm
+605	наибо'лее	most(ly)	Adv
+606	де'вочка	girl	Nf
+607	кру'пный	large	A
+608	мо'ре	sea	Nn
+609	как-то	somehow	P
+610	хоть	at least	Part
+611	приро'да	nature, natural environment	Nf
+612	магази'н	shop	Nm
+613	улыба'ться	smile	V
+614	весьма'	highly, very	Adv
+615	испо'льзование	use	Nn
+616	бо'льший	bigger, larger	A
+617	домо'й	home	Adv
+618	объе'кт	object, subject	Nm
+619	па'мять	memory	Nf
+620	свобо'да	freedom	Nf
+621	борьба'	struggle, battle	Nf
+622	ли'чный	personal	A
+623	каса'ться	touch	V
+624	причём	moreover, on top of that, and also	C
+625	необходи'мо	necessary, need	Adv
+626	назва'ние	name	Nn
+627	проводи'ть	lead, spend	V
+628	отде'льный	separate	A
+629	предме'т	item, subject	Nm
+630	добавля'ть	add	V
+631	плечо'	shoulder	Nn
+632	му'зыка	music	Nf
+633	самолёт	(aero)plane	Nm
+634	пози'ция	position	Nf
+635	стара'ться	try	V
+636	хара'ктер	character, nature	Nm
+637	ука'зывать	state	V
+638	разме'р	size	Nm
+639	пить	drink	V
+640	сре'дний	average, middle	A
+641	проду'кт	product	Nm
+642	геро'й	hero	Nm
+643	собира'ть	collect, pick (up)	V
+644	серьёзный	serious	A
+645	со'лнце	sun	Nn
+646	передава'ть	give, pass, tell	V
+647	дух	spirit, morale	Nm
+648	сеть	network, chain	Nf
+649	представи'тель	representative	Nm
+650	лес	forest	Nm
+651	журна'л	magazine	Nm
+652	март	March	Nm
+653	национа'льный	national	A
+654	террито'рия	territory	Nf
+655	иску'сство	art	Nn
+656	америка'нский	American	A
+657	сло'вно	as if	C
+658	уча'стник	participant	Nm
+659	впро'чем	however	Adv
+660	вариа'нт	option, variant	Nm
+661	свобо'дный	free	A
+662	судьба'	fate	Nf
+663	срок	term, period	Nm
+664	институ'т	institute	Nm
+665	переходи'ть	pass, cross, change	V
+666	гость	guest	Nm
+667	междунаро'дный	international	A
+668	де'йствовать	act	V
+669	спосо'бный	capable	A
+670	практи'чески	practically	Adv
+671	сою'з	union, alliance, conjunction	Nm
+672	отка'зываться	refuse	V
+673	Интерне'т	Internet	Nm
+674	пе'сня	song	Nf
+675	по'здний	late	A
+676	лу'чше	better	Part
+677	ум	mind	Nm
+678	сте'пень	degree, extent, degree  (academic)	Nf
+679	успе'х	success	Nm
+680	па'рень	guy, boy	Nm
+681	соглаша'ться	agree	V
+682	кто-то	anyone, someone	P
+683	това'р	product, item	Nm
+684	наде'яться	hope, rely	V
+685	предложе'ние	offer, sentence	Nn
+686	обнару'живать	find, discover	V
+687	река'	river	Nf
+688	обеспе'чивать	provide	V
+689	фи'рма	firm	Nf
+690	граждани'н	citizen	Nm
+691	составля'ть	compile, make, put together	V
+692	моско'вский	Moscow	A
+693	заявля'ть	report, claim	V
+694	това'рищ	comrade	Nm
+695	норма'льный	normal, regular	A
+696	Евро'па	Europe	Nf
+697	карти'на	painting, picture	Nf
+698	созна'ние	consciousness	Nn
+699	апре'ль	April	Nm
+700	по'лностью	completely	Adv
+701	си'льно	strongly, considerably	Adv
+702	обраща'ть	pay, render, turn	V
+703	исто'чник	source	Nm
+704	дире'ктор	director	Nm
+705	грани'ца	border	Nf
+706	состоя'ть	be, consist of	V
+707	вме'сто	instead of	Prep
+708	закрыва'ть	close	V
+709	полови'на	half	Nf
+710	опера'ция	operation	Nf
+711	поступа'ть	enter, enrol, behave	V
+712	про'бовать	try	V
+713	вы'бор	choice	Nm
+714	оце'нка	evaluation, mark	Nf
+715	ого'нь	fire, light	Nm
+716	моде'ль	model	Nf
+717	специали'ст	specialist	Nm
+718	соба'ка	dog	Nf
+719	компью'тер	computer	Nm
+720	краси'вый	beautiful	A
+721	техноло'гия	technology	Nf
+722	де'рево	tree	Nn
+723	вы'ход	exit, way out	Nm
+724	нау'чный	scientific	A
+725	мирово'й	world	A
+726	гора'	mountain, hill	Nf
+727	де'тский	child’s, childlike	A
+728	уме'ть	be able, can	V
+729	жела'ть	wish	V
+730	бе'рег	shore, bank	Nm
+731	кора'бль	ship	Nm
+732	широ'кий	wide	A
+733	прекра'сный	fine, great	A
+734	и'бо	for, because	C
+735	постоя'нно	constantly	Adv
+736	рабо'чий	worker	N-
+737	вне'шний	external	A
+738	литерату'ра	literature	Nf
+739	тяжёлый	heavy, serious	A
+740	среда'	Wednesday	Nf
+741	сотру'дник	employee, colleague	Nm
+742	услы'шать	hear	V
+743	сло'жный	complex, sophisticated	A
+744	зал	hall, room	Nm
+745	во'йско	army	Nn
+746	структу'ра	structure	Nf
+747	бой	fight, battle	Nm
+748	несмотря'	despite	Adv
+749	коро'ткий	short	A
+750	стра'нный	strange	A
+751	нача'льник	head	Nm
+752	ни'зкий	low	A
+753	край	edge	Nm
+754	оши'бка	mistake	Nf
+755	це'рковь	church	Nf
+756	сюда'	here	P
+757	бу'дущее	future	Nn
+758	про'шлый	last	A
+759	бума'га	paper	Nf
+760	подде'ржка	support	Nf
+761	по'льзоваться	use	V
+762	ли'ния	line	Nf
+763	бы'стрый	fast, quick	A
+764	защи'та	protection	Nf
+765	сча'стье	happiness	Nn
+766	всего'	only	Part
+767	рома'н	affair, novel	Nm
+768	вы'глядеть	look	V
+769	име'ться	be available, have	V
+770	ве'тер	wind	Nm
+771	соста'в	composition	Nm
+772	возника'ть	occur, arise, be encountered	V
+773	англи'йский	English	A
+774	вы'сший	high, highest	A
+775	курс	course	Nm
+776	тео'рия	theory	Nf
+777	ра'зве	really	Part
+778	вокру'г	around	Prep
+779	дли'нный	long	A
+780	бы'вший	ex-, former	A
+781	простра'нство	space	Nn
+782	учи'ться	study	V
+783	во'зраст	age	Nm
+784	поня'тие	idea, concept	Nn
+785	чи'стый	clean, pure	A
+786	потеря'ть	lose	V
+787	поведе'ние	behaviour	Nn
+788	спина'	back	Nf
+789	тру'дно	difficult	Adv
+790	услу'га	service	Nf
+791	продава'ть	sell	V
+792	служи'ть	serve	V
+793	ору'жие	weapon, firearm	Nn
+794	США	USA	N-
+795	направля'ть	send, direct	V
+796	страх	fear, worry	Nm
+797	страни'ца	page	Nf
+798	па'па	dad	Nm
+799	враг	enemy	Nm
+800	по'иск	search	Nm
+801	два'дцать	twenty	Num
+802	руководи'тель	director	Nm
+803	эконо'мика	economy	Nf
+804	столь	so, that	P
+805	отку'да	where (from)	P
+806	гора'здо	much	Adv
+807	хозя'ин	master	Nm
+808	стра'шный	terrible	A
+809	ожида'ть	expect, await	V
+810	ка'мень	stone	Nm
+811	расска'з	story	Nm
+812	звук	sound	Nm
+813	вновь	again	Adv
+814	солда'т	soldier	Nm
+815	наде'жда	hope	Nf
+816	ка'рта	card, map	Nf
+817	господи'н	master, mister, gentleman	Nm
+818	лета'ть	fly	V
+819	цвет	colour	Nm
+820	сесть	sit down	V
+821	специа'льный	special	A
+822	попы'тка	attempt	Nf
+823	круг	circle	Nm
+824	одна'жды	once	Adv
+825	устра'ивать	organize, arrange, suit,   be convenient	V
+826	коммента'рий	comment	Nm
+827	посыла'ть	send	V
+828	глава'	head, chapter	Nf
+829	уда'р	stroke, blow	Nm
+830	клие'нт	client, customer	Nm
+831	ина'че	otherwise	P
+832	кра'йний	extreme, far	A
+833	признава'ть	recognize, admit	V
+834	до'ктор	doctor	Nm
+835	достига'ть	reach	V
+836	исчеза'ть	disappear	V
+837	означа'ть	mean	V
+838	гляде'ть	look	V
+839	пока'зываться	appear	V
+840	изменя'ть	change, be unfaithful	V
+841	дочь	daughter	Nf
+842	отправля'ть	send	V
+843	респу'блика	republic	Nf
+844	ста'вить	put	V
+845	пожа'луйста	please	Part
+846	пое'хать	go	V
+847	еди'ный	united	A
+848	во'лос	hair	Nm
+849	соверша'ть	accomplish, do, make	V
+850	Герма'ния	Germany	Nf
+851	называ'ться	be called	V
+852	отсу'тствие	absence	Nn
+853	прямо'й	straight, direct	A
+854	проце'нт	per cent, percentage	Nm
+855	ма'сса	mass, lots, weight	Nf
+856	ба'за	base	Nf
+857	до'лгий	long	A
+858	необходи'мость	necessity	Nf
+859	ве'ра	faith	Nf
+860	студе'нт	student	Nm
+861	ана'лиз	analysis, test	Nm
+862	отправля'ться	depart	V
+863	зда'ние	building	Nn
+864	ребя'та	children, guys	N-
+865	конкре'тный	specific	A
+866	у'гол	corner, angle	Nm
+867	ско'рость	speed	Nf
+868	тре'бование	requirement, demand	Nn
+869	бу'дто	as if	Part
+870	бежа'ть	run	V
+871	но'вость	news	Nf
+872	откры'тый	open	A
+873	спи'сок	list	Nm
+874	представле'ние	performance, idea	Nn
+875	учи'тель	teacher	Nm
+876	вы'вод	conclusion	Nm
+877	догово'р	agreement	Nm
+878	положи'ть	put	V
+879	эне'ргия	energy	Nf
+880	зави'сеть	depend	V
+881	неме'цкий	German	A
+882	обяза'тельно	obligatory	Adv
+883	боль	pain, ache	Nf
+884	приме'рно	roughly	Adv
+885	безопа'сность	safety, security	Nf
+886	май	May	Nm
+887	пло'хо	bad(ly)	Adv
+888	ви'дно	visible	Adv
+889	удово'льствие	pleasure	Nn
+890	не'кий	a certain, some	P
+891	спосо'бность	ability	Nf
+892	пре'жде	before, first	Prep
+893	произноси'ть	pronounce, say	V
+894	перестава'ть	stop	V
+895	до'ма	at home	Adv
+896	ощуще'ние	feeling, sensation	Nn
+897	а'дрес	address	Nm
+898	за'падный	western	A
+899	писа'тель	writer	Nm
+900	проти'вник	enemy	Nm
+901	сфе'ра	sphere, sector	Nf
+902	люби'мый	favourite, beloved 	N-
+903	звезда'	star	Nf
+904	проверя'ть	check	V
+905	спаси'бо	thanks	Part
+906	вперёд	forward	Adv
+907	знак	sign, mark	Nm
+908	влия'ние	influence, effect	Nn
+909	во'все	at all	Adv
+910	уве'ренный	confident, certain	A
+911	грудь	chest, breast	Nf
+912	двор	yard	Nm
+913	ника'к	no way	P
+914	опи'сывать	describe	V
+915	банк	bank	Nm
+916	контро'ль	control	Nm
+917	пункт	paragraph	Nm
+918	ра'дость	gladness, joy	Nf
+919	чуж'ой	strange, unfamiliar	N-
+920	фу'нкция	function	Nf
+921	за'втра	tomorrow	Adv
+922	впечатле'ние	impression	Nn
+923	задава'ть	ask, give	V
+924	содержа'ние	contents	Nn
+925	сохраня'ть	keep	V
+926	основа'ние	foundation, basis, setting up	Nn
+927	зака'нчивать	finish	V
+928	объём	volume, size	Nm
+929	вчера'	yesterday	Adv
+930	проща'ть	forgive	V
+931	пря'мо	straight	Adv
+932	режи'м	mode, regime	Nm
+933	во'ля	will	Nf
+934	киломе'тр	kilometre	Nm
+935	расти'	grow	V
+936	звать	call	V
+937	пра'вильный	correct	A
+938	ли'чность	personality, identity 	Nf
+939	шесть	six	Num
+940	одновреме'нно	simultaneously	Adv
+941	здоро'вье	health	Nn
+942	рот	mouth	Nm
+943	регио'н	region	Nm
+944	преде'л	limit, bound	Nm
+945	мо'жет	maybe, might	Adv
+946	физи'ческий	physical	A
+947	чита'тель	reader	Nm
+948	стари'к	old man	Nm
+949	пра'ктика	practice	Nf
+950	знако'мый	familiar, acquainted	N-
+951	ме'дленный	slow	A
+952	боево'й	battle	A
+953	побе'да	victory	Nf
+954	хвата'ть	grasp, be enough	V
+955	элеме'нт	element	Nm
+956	янва'рь	January	Nm
+957	руково'дство	guidance, management,  leadership	Nn
+958	есте'ственно	naturally, of course	Adv
+959	постоя'нный	constant	A
+960	же'нский	female, feminine, woman’s,  ladies’	A
+961	встреча'ться	meet	V
+962	сто'имость	cost	Nf
+963	а'вгуст	August	Nm
+964	очередно'й	next, another	A
+965	счастли'вый	happy	A
+966	секу'нда	second	Nf
+967	жи'тель	inhabitant, resident	Nm
+968	мно'жество	many, multitude	Nn
+969	пра'здник	holiday, festival	Nm
+970	су'мма	amount	Nf
+971	ви'димо	evidently	Adv
+972	ка'жется	seem	Adv
+973	команди'р	commander	Nm
+974	сце'на	scene, stage	Nf
+975	наско'лько	how	Adv
+976	те'хника	equipment, technique	Nf
+977	подгото'вка	preparation	Nf
+978	истори'ческий	historical	A
+979	лёгкий	easy, light	A
+980	ито'г	total, result	Nm
+981	сожале'ние	regret, sympathy	Nn
+982	у'хо	ear	Nn
+983	заня'тие	occupation, lesson	Nn
+984	соотве'тствующий	corresponding	A
+985	существова'ние	existence, being	Nn
+986	приглаша'ть	invite	V
+987	мужи'к	man	Nm
+988	городско'й	urban, town	A
+989	октя'брь	October	Nm
+990	впервы'е	for the first time	Adv
+991	неда'вно	recently	Adv
+992	нос	nose	Nm
+993	существо'	creature	Nn
+994	генера'л	general	Nm
+995	есть	eat	V
+996	зна'чить	mean	V
+997	благодаря'	thanks to	Prep
+998	облада'ть	own, have	V
+999	мно'гое	much, many things	P
+1000	сентя'брь	September	Nm
+1001	пра'вильно	correct(ly)	Adv
+1002	счита'ться	be considered	V
+1003	клуб	club	Nm
+1004	глубо'кий	deep	A
+1005	принадлежа'ть	belong	V
+1006	наступа'ть	step on, come, attack, arrive	V
+1007	приобрета'ть	acquire, get	V
+1008	абсолю'тно	absolutely, completely	Adv
+1009	ле'то	summer	Nn
+1010	споко'йно	quietly, peacefully	Adv
+1011	доходи'ть	reach	V
+1012	приводи'ть	bring, lead	V
+1013	францу'зский	French	A
+1014	оде'жда	clothing, clothes	Nf
+1015	ста'рший	senior, elder	N-
+1016	подава'ть	submit	V
+1017	достава'ть	get, pester (slang)	V
+1018	автомоби'ль	car	Nm
+1019	оце'нивать	evaluate, assess	V
+1020	прода'жа	sale	Nf
+1021	ра'мка	frame, scope	Nf
+1022	дека'брь	December	Nm
+1023	теа'тр	theatre	Nm
+1024	университе'т	university	Nm
+1025	произведе'ние	production, creative work	Nn
+1026	СССР	USSR	Nm
+1027	где-то	somewhere	P
+1028	ма'лый	minor, small	N-
+1029	ча'стный	private	A
+1030	сестра'	sister, nurse	Nf
+1031	фина'нсовый	financial	A
+1032	крича'ть	shout	V
+1033	фонд	fund	Nm
+1034	РФ	Russian Federation	Nf
+1035	наблюда'ть	observe	V
+1036	отлича'ться	differ	V
+1037	плати'ть	pay	V
+1038	Фра'нция	France	Nf
+1039	выпива'ть	drink, take (tablets)	V
+1040	за'пад	west	Nm
+1041	выраже'ние	expression	Nn
+1042	располага'ть	have, possess, be favourable,  be conducive	V
+1043	золото'й	gold	A
+1044	тёмный	dark	A
+1045	ве'рсия	version	Nf
+1046	мини'стр	minister	Nm
+1047	це'лое	whole	Nn
+1048	ра'ди	for, for the sake of	Prep
+1049	не'мец	German	Nm
+1050	губа'	lip	Nf
+1051	допуска'ть	accept, admit	V
+1052	а'кция	campaign, share, stock	Nf
+1053	суди'ть	try, judge	V
+1054	объявля'ть	announce	V
+1055	изменя'ться	change	V
+1056	дополни'тельный	additional	A
+1057	пусто'й	empty	A
+1058	Аме'рика	America	Nf
+1059	холо'дный	cold	A
+1060	цвето'к	flower	Nm
+1061	зато'	but, on the other hand	C
+1062	центра'льный	central	A
+1063	профессиона'льный	professional	A
+1064	суть	essence, crux	Nf
+1065	заво'д	factory, plant	Nm
+1066	федера'ция	federation	Nf
+1067	федера'льный	federal	A
+1068	техни'ческий	technical	A
+1069	приём	reception	Nm
+1070	превраща'ться	turn into	V
+1071	осо'бенность	feature	Nf
+1072	дере'вня	village	Nf
+1073	понима'ние	understanding	Nn
+1074	рожде'ние	birth	Nn
+1075	февра'ль	February	Nm
+1076	обстоя'тельство	fact	Nn
+1077	ле'вый	left, unauthorized	N-
+1078	ию'нь	June	Nm
+1079	добива'ться	seek to attain	V
+1080	выступа'ть	perform, be in favour	V
+1081	боле'знь	disease	Nf
+1082	пло'щадь	square, area	Nf
+1083	подхо'д	approach	Nm
+1084	родно'й	(one’s) own	A
+1085	стреми'ться	strive, try	V
+1086	ста'нция	station	Nf
+1087	обуче'ние	training, learning	Nn
+1088	вро'де	like, such as	Part
+1089	насто'лько	so	Adv
+1090	подде'рживать	maintain, support	V
+1091	упа'сть	fall	V
+1092	за'пись	note, record, recording	Nf
+1093	значи'тельный	significant	A
+1094	напомина'ть	remind	V
+1095	наро'дный	national, public, folk	A
+1096	вниз	down	Adv
+1097	учёный	academic, scientific	N-
+1098	скла'дываться	develop, take shape,  consist of, be made up of	V
+1099	соотве'тствие	correspondence,  accordance	Nn
+1100	поэ'т	poet	Nm
+1101	утвержда'ть	claim	V
+1102	позвони'ть	ring, call	V
+1103	офице'р	officer	Nm
+1104	револю'ция	revolution	Nf
+1105	рекла'ма	advertisement	Nf
+1106	вы'боры	election(s)	N-
+1107	явле'ние	phenomenon, feature, fact	Nn
+1108	выпуска'ть	produce, let out	V
+1109	вско'ре	soon	Adv
+1110	отде'л	department	Nm
+1111	коро'ль	king	Nm
+1112	ближа'йший	nearest, closest	A
+1113	фронт	front line	Nm
+1114	дока'зывать	prove	V
+1115	выража'ть	express	V
+1116	худо'жник	artist	Nm
+1117	живо'тное	animal	Nn
+1118	информацио'нный	information	A
+1119	по'льзователь	user	Nm
+1120	стиль	style	Nm
+1121	дви'гаться	move	V
+1122	ию'ль	July	Nm
+1123	но'рма	norm, standard	Nf
+1124	отве'тственность	responsibility	Nf
+1125	сто	hundred	Num
+1126	чего'	what, why	P
+1127	европе'йский	European	A
+1128	переда'ча	transmission, programme	Nf
+1129	фра'за	phrase	Nf
+1130	определе'ние	definition, determination	Nn
+1131	рабо'тник	worker, employee	Nm
+1132	едва'	hardly, barely	Adv
+1133	зелёный	green	A
+1134	петь	sing	V
+1135	да'та	date	Nf
+1136	бу'дущий	future	A
+1137	вводи'ть	lead in, introduce, enter	V
+1138	семь	seven	Num
+1139	фотогра'фия	photograph	Nf
+1140	волна'	wave	Nf
+1141	разрабо'тка	development	Nf
+1142	дохо'д	income	Nm
+1143	капита'н	captain	Nm
+1144	уси'лие	effort	Nn
+1145	сто'лько	so much, so many	Num
+1146	зака'нчиваться	end	V
+1147	профе'ссор	professor	Nm
+1148	я'сный	clear	A
+1149	ноя'брь	November	Nm
+1150	понра'виться	like	V
+1151	эта'п	stage	Nm
+1152	предоставля'ть	provide, give	V
+1153	приду'мывать	create, think up	V
+1154	перево'д	translation, transfer	Nm
+1155	фа'ктор	factor	Nm
+1156	це'нность	value	Nf
+1157	ти'хо	quiet(ly)	Adv
+1158	кана'л	channel, canal	Nm
+1159	сравне'ние	comparison	Nn
+1160	что-нибу'дь	something, anything	P
+1161	кабине'т	cabinet, study	Nm
+1162	роди'ться	be born	V
+1163	се'верный	northern	A
+1164	чай	tea, tip	Nm
+1165	поле'зный	useful, good	A
+1166	ли'чно	personally	Adv
+1167	выдава'ть	give (out), reveal	V
+1168	подро'бный	detailed	A
+1169	сла'бый	weak	A
+1170	журнали'ст	journalist	Nm
+1171	наоборо'т	on the contrary	Adv
+1172	проведе'ние	holding	Nn
+1173	ита'к	so	Adv
+1174	выполня'ть	perform, do, fulfil	V
+1175	ны'нешний	current	A
+1176	гражда'нский	civil	A
+1177	лист	leaf, sheet	Nm
+1178	обеспече'ние	provision, securing	Nn
+1179	коми'ссия	commission	Nf
+1180	снег	snow	Nm
+1181	испо'льзоваться	be used	V
+1182	уча'ствовать	take part	V
+1183	рассма'тривать	consider	V
+1184	дре'вний	ancient	A
+1185	бить	beat, hit	V
+1186	зуб	tooth	Nm
+1187	тради'ция	tradition	Nf
+1188	невозмо'жный	impossible	A
+1189	высота'	height	Nf
+1190	фо'рум	forum	Nm
+1191	есте'ственный	natural	A
+1192	иностра'нный	foreign	A
+1193	ла'дно	okay	Part
+1194	председа'тель	chairman	Nm
+1195	ма'ссовый	mass	A
+1196	звони'ть	ring, call	V
+1197	организо'вывать	organize, arrange	V
+1198	я'сно	clear	Adv
+1199	молча'ть	be silent	V
+1200	о'стров	island	Nm
+1201	прия'тный	pleasant	A
+1202	прочита'ть	read	V
+1203	поня'тный	clear	A
+1204	ма'стер	master	Nm
+1205	ку'хня	kitchen	Nf
+1206	про'чий	other	P
+1207	де'тство	childhood	Nn
+1208	сад	garden	Nm
+1209	па'дать	fall	V
+1210	карма'н	pocket	Nm
+1211	сомне'ние	doubt	Nn
+1212	со'тня	hundred	Nf
+1213	запи'сывать	write down, record	V
+1214	деся'ток	ten	Nm
+1215	уча'сток	area, district, ward, plot	Nm
+1216	чёрт	devil	Nm
+1217	обеща'ть	promise	V
+1218	про'шлое	past	Nn
+1219	покупа'ть	buy	V
+1220	открыва'ться	open	V
+1221	посвяща'ть	dedicate, devote, let into	V
+1222	строи'тельство	construction	Nn
+1223	Украи'на	Ukraine	Nf
+1224	разуме'ется	of course	Adv
+1225	сосе'д	neighbour	Nm
+1226	пи'во	beer	Nn
+1227	то'нкий	thin, fine	A
+1228	смея'ться	laugh	V
+1229	я'ркий	bright	A
+1230	устро'йство	device, machine, organizing,  sorting out	Nn
+1231	слеза'	tear	Nf
+1232	соотве'тствовать	correspond	V
+1233	дальне'йший	further, future	A
+1234	библиоте'ка	library	Nf
+1235	обще'ние	communication, talking	Nn
+1236	ча'стность	detail, particular	Nf
+1237	нали'чие	presence, availability	Nn
+1238	разбира'ться	know, be disassembled	V
+1239	ве'рный	correct, loyal	A
+1240	отли'чие	difference, distinction	Nn
+1241	ме'лкий	minor, shallow	A
+1242	по'езд	train	Nm
+1243	прожива'ть	reside	V
+1244	согла'сный	consonant, agree	A
+1245	царь	tsar, king	Nm
+1246	проду'кция	production, goods	Nf
+1247	примене'ние	application, use	Nn
+1248	пото'к	stream	Nm
+1249	меша'ть	stir, disturb, disrupt	V
+1250	настрое'ние	mood	Nn
+1251	постепе'нно	gradually	Adv
+1252	дво'е	two (people)	Num
+1253	реда'кция	editorship, editorial office,  editorial staff	Nf
+1254	не'что	something	P
+1255	плане'та	planet	Nf
+1256	обра'тно	back	Adv
+1257	толпа'	crowd	Nf
+1258	здоро'вый	healthy, robust	A
+1259	поколе'ние	generation	Nn
+1260	принима'ться	set to, start	V
+1261	реа'кция	reaction	Nf
+1262	вероя'тный	likely	A
+1263	у'мный	clever, smart	A
+1264	вступа'ть	join in, step into	V
+1265	механи'зм	mechanism	Nm
+1266	пти'ца	bird	Nf
+1267	сквозь	through	Prep
+1268	же'ртва	sacrifice, victim	Nf
+1269	хозя'йство	house, sector	Nn
+1270	учени'к	pupil	Nm
+1271	подтвержда'ть	confirm	V
+1272	достиже'ние	achievement	Nn
+1273	органи'зм	organism	Nm
+1274	заявле'ние	application, statement	Nn
+1275	буты'лка	bottle	Nf
+1276	свято'й	saint	N-
+1277	вверх	up	Adv
+1278	удивля'ться	be surprised	V
+1279	уе'хать	leave, go	V
+1280	знако'миться	meet, get to know	V
+1281	рису'нок	drawing	Nm
+1282	покида'ть	leave	V
+1283	пре'жний	previous	A
+1284	музе'й	museum	Nm
+1285	мозг	brain	Nm
+1286	официа'льный	official	A
+1287	улы'бка	smile	Nf
+1288	дождь	rain	Nm
+1289	по'льза	benefit	Nf
+1290	состоя'ться	take place	V
+1291	тру'дный	difficult	A
+1292	ба'бушка	grandmother	Nf
+1293	хлеб	bread	Nm
+1294	испы'тывать	feel, test	V
+1295	восто'к	east	Nm
+1296	полага'ть	suppose, believe	V
+1297	дома'шний	home	A
+1298	сего'дняшний	today’s	A
+1299	со'бственно	actually	Adv
+1300	получе'ние	receipt, getting	Nn
+1301	помеще'ние	room	Nn
+1302	опа'сный	dangerous	A
+1303	до'ля	share, part, deal	Nf
+1304	согла'сно	according to, by	Prep
+1305	тень	shadow, shade	Nf
+1306	бога'тый	rich	N-
+1307	морско'й	sea	A
+1308	учи'ть	teach, learn	V
+1309	возвраща'ть	return	V
+1310	выраста'ть	grow (up), increase	V
+1311	инструме'нт	instrument, tool	Nm
+1312	наруше'ние	violation	Nn
+1313	ли'дер	leader	Nm
+1314	комите'т	committee	Nm
+1315	сла'ва	glory, fame	Nf
+1316	содержа'ть	contain, keep	V
+1317	отсю'да	from here	P
+1318	фигу'ра	figure	Nf
+1319	просыпа'ться	wake up	V
+1320	ла'герь	camp	Nm
+1321	ко'жа	skin, leather	Nf
+1322	след	trace, footprint	Nm
+1323	со'бственность	property	Nf
+1324	у'жас	horror	Nm
+1325	разде'л	division, branch	Nm
+1326	назнача'ть	set, arrange, appoint	V
+1327	реализа'ция	realization, implementation,  marketing, sales	Nf
+1328	зави'симость	dependence, addiction	Nf
+1329	поте'ря	loss	Nf
+1330	реа'льность	reality	Nf
+1331	привлека'ть	attract	V
+1332	привыка'ть	get used	V
+1333	собра'ние	meeting, collection	Nn
+1334	экра'н	screen	Nm
+1335	пост	post, station, fast, (blog) post, duty	Nm
+1336	здра'вствовать	hello, long life	V
+1337	зима'	winter	Nf
+1338	разраба'тывать	develop, work out	V
+1339	по'здно	late	Adv
+1340	уро'к	lesson	Nm
+1341	акти'вный	active	A
+1342	перехо'д	crossing, transition	Nm
+1343	крова'ть	bed	Nf
+1344	вино'	wine	Nn
+1345	секс	sex	Nm
+1346	ко'мплекс	complex	Nm
+1347	ро'дина	homeland	Nf
+1348	звуча'ть	sound	V
+1349	коле'но	knee	Nn
+1350	зо'на	zone	Nf
+1351	выделя'ть	release, allot	V
+1352	электро'нный	electronic	A
+1353	изда'ние	publication	Nn
+1354	появле'ние	appearance	Nn
+1355	евре'й	Jew	Nm
+1356	ре'зко	sharply	Adv
+1357	акт	act, regulation	Nm
+1358	разгова'ривать	talk	V
+1359	ре'дко	rarely	Adv
+1360	поговори'ть	talk	V
+1361	разреша'ть	allow, solve	V
+1362	при'знак	sign	Nm
+1363	и'стина	truth	Nf
+1364	эта'ж	floor	Nm
+1365	замеча'тельный	remarkable	A
+1366	тре'боваться	need	V
+1367	пла'кать	cry	V
+1368	потре'бность	need	Nf
+1369	бюдже'т	budget	Nm
+1370	долг	debt, duty	Nm
+1371	храм	temple	Nm
+1372	князь	prince	Nm
+1373	заходи'ть	come in, drop by	V
+1374	опа'сность	danger	Nf
+1375	депута'т	deputy	Nm
+1376	кива'ть	nod	V
+1377	честь	honour	Nf
+1378	учёт	accounting	Nm
+1379	колле'га	colleague	Nc
+1380	гла'вное	the main thing	Nn
+1381	ми'лый	cute, lovely	N-
+1382	зараба'тывать	earn	V
+1383	предполага'ть	assume	V
+1384	катего'рия	category, class	Nf
+1385	прика'з	order	Nm
+1386	администра'ция	administration	Nf
+1387	глубина'	depth	Nf
+1388	полёт	flight	Nm
+1389	традицио'нный	traditional	A
+1390	эффе'кт	effect	Nm
+1391	уничтожа'ть	destroy, wipe out	V
+1392	реша'ться	hesitate, be resolved	V
+1393	торго'вый	trading, shopping	A
+1394	описа'ние	description	Nn
+1395	риск	risk	Nm
+1396	подру'га	friend (female)	Nf
+1397	горя'чий	hot	A
+1398	ло'шадь	horse	Nf
+1399	коридо'р	corridor	Nm
+1400	капита'л	capital	Nm
+1401	ко'нкурс	competition	Nm
+1402	партнёр	partner	Nm
+1403	повора'чиваться	turn	V
+1404	исключе'ние	exception, expulsion	Nn
+1405	ночно'й	night	A
+1406	весна'	spring	Nf
+1407	красота'	beauty	Nf
+1408	черта'	line, feature	Nf
+1409	три'дцать	thirty	Num
+1410	во'зле	by, near	Prep
+1411	схе'ма	scheme	Nf
+1412	ры'ба	fish	Nf
+1413	суме'ть	manage	V
+1414	опубликова'ть	publish	V
+1415	глубоко'	deep(ly)	Adv
+1416	сдава'ть	give, let, return, betray (slang)	V
+1417	то'чный	exact	A
+1418	прибыва'ть	arrive	V
+1419	присыла'ть	send	V
+1420	тру'бка	tube, telephone receiver	Nf
+1421	остана'вливать	stop	V
+1422	говори'ться	be said, be discussed	V
+1423	аппара'т	apparatus, equipment	Nm
+1424	сади'ться	sit down	V
+1425	восто'чный	eastern	A
+1426	откры'тие	opening, discovery	Nn
+1427	знамени'тый	famous	A
+1428	стихи'	poetry	N-
+1429	тёплый	warm	A
+1430	чу'до	miracle	Nn
+1431	включа'ть	include, turn on	V
+1432	фами'лия	surname	Nf
+1433	броса'ться	throw	V
+1434	ключ	key	Nm
+1435	заключа'ться	consist, be	V
+1436	кре'сло	armchair	Nn
+1437	ти'хий	quiet	A
+1438	выводи'ть	take out, lead out	V
+1439	ра'зница	difference	Nf
+1440	чей	whose	P
+1441	во'семь	eight	Num
+1442	взгля'дывать	look at	V
+1443	прису'тствовать	present	V
+1444	министе'рство	ministry	Nn
+1445	кино'	film	Nn
+1446	неожи'данно	unexpected(ly)	Adv
+1447	конча'ться	finish, run out	V
+1448	медици'нский	medical	A
+1449	штат	staff, state	Nm
+1450	нало'г	tax	Nm
+1451	захоте'ть	want	V
+1452	све'дение/сведе'ние	information   (the first syllable stressed), resolution  (the second syllable stressed)	Nn
+1453	конфли'кт	conflict	Nm
+1454	культу'рный	cultural	A
+1455	середи'на	middle	Nf
+1456	пода'рок	gift	Nm
+1457	прекра'сно	fine, perfectly, well	Adv
+1458	предыду'щий	previous	A
+1459	ра'нний	early	A
+1460	расчёт	calculation	Nm
+1461	за'пах	odour, aroma	Nm
+1462	е'здить	ride, travel	V
+1463	пожа'луй	I think, probably	Adv
+1464	преступле'ние	crime	Nn
+1465	теря'ть	lose	V
+1466	обраще'ние	appeal, appointment	Nn
+1467	бе'дный	poor	N-
+1468	ка'мера	camera, cell	Nf
+1469	внутри'	inside	Prep
+1470	рад	happy, glad	A
+1471	столи'ца	capital	Nf
+1472	меня'ть	change	V
+1473	торго'вля	trade	Nf
+1474	больни'ца	hospital	Nf
+1475	та'йна	mystery, secret	Nf
+1476	эпо'ха	epoch, era	Nf
+1477	запреща'ть	prohibit	V
+1478	почему'-то	for some reason, somehow	P
+1479	литерату'рный	literary	A
+1480	выполне'ние	accomplishment, doing	Nn
+1481	вы'ставка	exhibition	Nf
+1482	научи'ться	learn	V
+1483	вы'пуск	edition, production	Nm
+1484	протя'гивать	give, stretch	V
+1485	уваже'ние	respect	Nn
+1486	заду'мываться	think deeply	V
+1487	вноси'ть	bring in	V
+1488	бу'ква	letter	Nf
+1489	после'дствие	consequence	Nn
+1490	поня'тно	clear(ly)	Adv
+1491	тво'рческий	creative	A
+1492	изображе'ние	image, picture	Nn
+1493	материа'льный	material	A
+1494	уче'бный	learning, training	A
+1495	заключе'ние	setting up, conclusion,  imprisonment	Nn
+1496	признава'ться	confess	V
+1497	похо'же	it seems that, it looks like	Adv
+1498	желе'зный	iron	A
+1499	дета'ль	detail, part	Nf
+1500	се'рый	grey	A
+1501	авто'бус	bus	Nm
+1502	воспомина'ние	remembrance,   memory	Nn
+1503	челове'чество	humanity, mankind	Nn
+1504	ко'рпус	block, building, body, corps,  corpus (linguistics)	Nm
+1505	вкус	taste, flavour	Nm
+1506	заседа'ние	meeting	Nn
+1507	спустя'	later, after	Prep
+1508	миллиа'рд	billion	Nm
+1509	недоста'ток	disadvantage, shortage	Nm
+1510	держа'ться	hold, keep	V
+1511	зара'нее	beforehand, earlier	Adv
+1512	перспекти'ва	perspective	Nf
+1513	отделе'ние	department, separation	Nn
+1514	ссы'лка	reference, exile	Nf
+1515	конфере'нция	conference	Nf
+1516	дари'ть	present	V
+1517	спуска'ться	descend	V
+1518	спасти'	rescue, save	V
+1519	разреше'ние	permission, resolution	Nn
+1520	тяжело'	hard, heavily	Adv
+1521	мо'щный	powerful	A
+1522	обе'д	lunch	Nm
+1523	угро'за	threat	Nf
+1524	изуче'ние	study, research	Nn
+1525	производи'ть	produce	V
+1526	про'сьба	request, ask	Nf
+1527	эффекти'вный	effective	A
+1528	набира'ть	gain, recruit, dial, fill	V
+1529	вход	entrance, log-in	Nm
+1530	ни'жний	lower, bottom	A
+1531	отря'д	group, squad	Nm
+1532	ска'жем	let us say, say	Adv
+1533	ю'жный	southern	A
+1534	телеви'зор	television	Nm
+1535	во'дка	vodka	Nf
+1536	вес	weight	Nm
+1537	дед	grandfather	Nm
+1538	пропада'ть	disappear, be lost	V
+1539	вздыха'ть	sigh	V
+1540	следи'ть	watch	V
+1541	со'рок	forty	Num
+1542	повыше'ние	rise, promotion	Nn
+1543	захва'тывать	grip, capture, take	V
+1544	кры'ша	roof, head (slang)	Nf
+1545	звоно'к	bell, ring	Nm
+1546	продолжа'ться	continue	V
+1547	печа'ть	stamp, print, printing	Nf
+1548	ра'дио	radio	Nn
+1549	конта'кт	contact	Nm
+1550	и'стинный	true, real	A
+1551	неуже'ли	really	Part
+1552	да'ма	lady	Nf
+1553	мя'гкий	soft	A
+1554	газ	gas	Nm
+1555	тво'рчество	creation, work	Nn
+1556	худо'жественный	artistic, literary	A
+1557	гото'вить	prepare, make	V
+1558	избега'ть	avoid	V
+1559	посеща'ть	visit, attend	V
+1560	четвёртый	fourth	Num
+1561	пове'рхность	surface	Nf
+1562	брак	marriage, defect	Nm
+1563	забира'ть	pick up	V
+1564	ве'чный	eternal	A
+1565	пуска'ть	let	V
+1566	ах	oh	I
+1567	мероприя'тие	event, measure	Nn
+1568	до'ступ	access	Nm
+1569	устано'вка	setting, installation	Nf
+1570	случа'йно	by chance	Adv
+1571	мужско'й	male, men’s	A
+1572	сво'йство	feature	Nn
+1573	бесе'да	conversation	Nf
+1574	стекло'	glass	Nn
+1575	боро'ться	struggle	V
+1576	ресу'рс	resource	Nm
+1577	горе'ть	burn, be on	V
+1578	ли'шний	superfluous, unnecessary	A
+1579	свя'занный	connected to, tied	A
+1580	зада'ние	task, assignment	Nn
+1581	рефо'рма	reform	Nf
+1582	све'жий	fresh	A
+1583	обя'занность	duty	Nf
+1584	оте'чественный	domestic, patriotic	A
+1585	выде'рживать	endure, withstand	V
+1586	повторя'ть	repeat	V
+1587	разделя'ть	divide, share	V
+1588	биле'т	ticket	Nm
+1589	соединя'ть	connect, join	V
+1590	расхо'д	expense	Nm
+1591	обору'дование	equipment	Nn
+1592	уважа'емый	respected	A
+1593	заключа'ть	conclude	V
+1594	владе'лец	owner	Nm
+1595	увели'чивать	increase	V
+1596	должно'	must	Adv
+1597	неме'дленно	immediately	Adv
+1598	семе'йный	family	A
+1599	дя'дя	uncle	Nm
+1600	крик	scream	Nm
+1601	обходи'ться	manage, come to	V
+1602	че'стно	honestly	Adv
+1603	сигна'л	signal	Nm
+1604	формирова'ние	formation, development	Nn
+1605	трава'	grass	Nf
+1606	исходи'ть	proceed, emanate	V
+1607	учрежде'ние	institution	Nn
+1608	лече'ние	treatment	Nn
+1609	Кита'й	China	Nm
+1610	показа'тель	indicator, figure	Nm
+1611	за'мок/замо'к	castle (the first syllable  stressed), lock (the second syllable stressed)	Nm
+1612	я'щик	box, drawer	Nm
+1613	возде'йствие	effect	Nn
+1614	обсужде'ние	discussion	Nn
+1615	прика'зывать	order	V
+1616	све'тлый	light	A
+1617	стул	chair, stool (faeces)	Nm
+1618	слегка'	slightly	Adv
+1619	убежда'ть	convince	V
+1620	ми'мо	past, miss	Prep
+1621	устава'ть	get tired	V
+1622	ска'зка	tale	Nf
+1623	добира'ться	reach, get to	V
+1624	обстано'вка	situation	Nf
+1625	осно'вываться	base	V
+1626	расстоя'ние	distance	Nn
+1627	отпуска'ть	let out	V
+1628	подчёркивать	underline, emphasize	V
+1629	шум	noise	Nm
+1630	беда'	misfortune, tragedy	Nf
+1631	споко'йный	calm	A
+1632	упомина'ть	mention	V
+1633	весёлый	cheerful	A
+1634	диск	disc	Nm
+1635	побежда'ть	win	V
+1636	удо'бный	comfortable, convenient	A
+1637	ше'я	neck	Nf
+1638	тако'в	such, that	P
+1639	меня'ться	change	V
+1640	подгота'вливать	prepare	V
+1641	ра'нее	earlier, previously	Adv
+1642	америка'нец	American	Nm
+1643	шанс	chance	Nm
+1644	развива'ться	develop	V
+1645	сохраня'ться	be preserved	V
+1646	извиня'ть	forgive, excuse	V
+1647	ко'фе	coffee	Nm
+1648	не'чего	nothing	P
+1649	кни'жка	book	Nf
+1650	действи'тельность	reality	Nf
+1651	чте'ние	reading	Nn
+1652	гото'виться	prepare, train	V
+1653	ло'дка	boat	Nf
+1654	су'тки	day and night	N-
+1655	доставля'ть	deliver, cause	V
+1656	давле'ние	pressure	Nn
+1657	мол	he says, she says, etc., apparently	Adv
+1658	буква'льный	literal	A
+1659	учи'тывать	consider	V
+1660	уби'йство	murder	Nn
+1661	ле'стница	stairs	Nf
+1662	потреби'тель	consumer	Nm
+1663	вне	beyond, outside	Prep
+1664	религио'зный	religious	A
+1665	впереди'	ahead, in front	Adv
+1666	кусо'к	piece	Nm
+1667	страте'гия	strategy	Nf
+1668	набо'р	set, recruitment	Nm
+1669	ци'фра	figure	Nf
+1670	досто'инство	dignity, advantage	Nn
+1671	се'рия	episode, series, number	Nf
+1672	осозна'вать	realize	V
+1673	ве'рхний	top, upper	A
+1674	кадр	frame	Nm
+1675	основно'е	the main thing, the most  important thing	Nn
+1676	посте'ль	bed	Nf
+1677	выноси'ть	carry out, bear	V
+1678	справля'ться	cope	V
+1679	штаб	headquarters	Nm
+1680	рожа'ть	give birth	V
+1681	предусма'тривать	foresee	V
+1682	малы'ш	baby, child	Nm
+1683	привози'ть	bring	V
+1684	внима'тельный	attentive	A
+1685	мили'ция	police	Nf
+1686	процеду'ра	procedure, treatment	Nf
+1687	ожида'ние	expectation, waiting	Nn
+1688	изуча'ть	learn, study	V
+1689	госпо'дь	the Lord	Nm
+1690	филосо'фия	philosophy	Nf
+1691	подпи'сывать	sign	V
+1692	еда'	food	Nf
+1693	смех	laughter	Nm
+1694	многочи'сленный	numerous	A
+1695	гро'мко	loud(ly)	Adv
+1696	наруша'ть	violate	V
+1697	жи'зненный	vital, life, practical	A
+1698	у'зкий	narrow	A
+1699	це'нный	valuable	A
+1700	води'тель	driver	Nm
+1701	игро'к	player	Nm
+1702	блок	block, unit	Nm
+1703	страда'ть	suffer	V
+1704	мост	bridge	Nm
+1705	о'стрый	sharp, severe, spicy	A
+1706	пое'здка	trip	Nf
+1707	ра'зум	intelligence	Nm
+1708	конце'пция	concept	Nf
+1709	чино'вник	official	Nm
+1710	отту'да	from there	P
+1711	субъе'кт	subject	Nm
+1712	тишина'	silence	Nf
+1713	далёкий	distant	A
+1714	направля'ться	go, come	V
+1715	слух	hearing, rumour	Nm
+1716	сра'внивать	compare	V
+1717	покупа'тель	shopper	Nm
+1718	удиви'тельный	amazing	A
+1719	отходи'ть	depart, move away	V
+1720	выступле'ние	performance, speech	Nn
+1721	увеличе'ние	increase, rise	Nn
+1722	мёртвый	dead	N-
+1723	зарпла'та	salary	Nf
+1724	заменя'ть	replace	V
+1725	до'лжность	position	Nf
+1726	о'сень	autumn	Nf
+1727	ро'дственник	relative	Nm
+1728	паке'т	package, plastic bag	Nm
+1729	зри'тель	spectator	Nm
+1730	стра'нно	strangely	Adv
+1731	мечта'ть	dream	V
+1732	рестора'н	restaurant	Nm
+1733	пла'та	fee, charge	Nf
+1734	судья'	judge, referee	Nm
+1735	ра'ньше	earlier, used to	Adv
+1736	убира'ть	clear	V
+1737	внеза'пный	sudden	A
+1738	охра'на	protection, security	Nf
+1739	публика'ция	publication, journal article	Nf
+1740	кра'йне	extremely, very	Adv
+1741	дога'дываться	guess	V
+1742	обсужда'ть	discuss	V
+1743	надева'ть	put on	V
+1744	луна'	moon	Nf
+1745	ло'гика	logic	Nf
+1746	специа''льно	specially	Adv
+1747	компью'терный	computer	A
+1748	проводи'ться	be conducted	V
+1749	предупрежда'ть	warn	V
+1750	раздава'ться	sound, be heard, be  distributed	V
+1751	зе'ркало	mirror	Nn
+1752	су'щность	essence, gist, nature	Nf
+1753	си'ний	blue	A
+1754	сле'дствие	consequence, investigation	Nn
+1755	обра'тный	reverse, return	A
+1756	ладо'нь	palm, hand	Nf
+1757	выи'грывать	win	V
+1758	строка'	line	Nf
+1759	больно'й	sick, painful, patient	N-
+1760	законода'тельство	legislation	Nn
+1761	опуска'ть	lower, omit, sodomize	V
+1762	да'льний	far	A
+1763	чи'сто	cleanly, purely	Adv
+1764	мечта'	dream	Nf
+1765	загля'дывать	peep	V
+1766	пита'ние	food, power	Nn
+1767	файл	file	Nm
+1768	интересова'ть	interest	V
+1769	флот	fleet, navy	Nm
+1770	рели'гия	religion	Nf
+1771	бо'жий	God’s	A
+1772	догова'риваться	agree	V
+1773	характе'рный	characteristic	A
+1774	ко'шка	cat	Nf
+1775	обща'ться	communicate	V
+1776	ва'жно	important	Adv
+1777	ужа'сный	terrible	A
+1778	висе'ть	hang	V
+1779	то'лстый	thick, fat, plump	A
+1780	отли'чный	excellent	A
+1781	зака'з	order	Nm
+1782	тон	tone	Nm
+1783	оборо'на	defence	Nf
+1784	прове'рка	examination	Nf
+1785	реда'ктор	editor, processor	Nm
+1786	когда'-то	once	P
+1787	крыло'	wing	Nn
+1788	ду'ма	thought, Duma	Nf
+1789	вдоль	along	Prep
+1790	запа'с	stock	Nm
+1791	сосе'дний	neighbouring	A
+1792	жёсткий	hard, firm	A
+1793	исполне'ние	performance, execution,  carrying out	Nn
+1794	замести'тель	deputy	Nm
+1795	полко'вник	colonel	Nm
+1796	выясня'ть	find out, establish	V
+1797	спеши'ть	rush	V
+1798	пя'тый	fifth	Num
+1799	коне'чный	final	A
+1800	кри'зис	crisis	Nm
+1801	при'быль	profit	Nf
+1802	спор	dispute	Nm
+1803	кру'глый	round	A
+1804	о'зеро	lake	Nn
+1805	де'латься	be made, happen, become	V
+1806	ди'кий	wild	A
+1807	по-пре'жнему	still	Adv
+1808	наноси'ть	apply	V
+1809	дно	bottom	Nn
+1810	те'рмин	term	Nm
+1811	како'в	which, what	P
+1812	воро'та	gate	N-
+1813	пла'вать	swim, sail	V
+1814	мла'дший	younger, junior	A
+1815	поража'ть	strike, hit, cause	V
+1816	приня'тие	acceptance	Nn
+1817	убежда'ться	be convinced, be assured	V
+1818	экспе'рт	expert	Nm
+1819	совме'стный	joint	A
+1820	лиша'ть	deprive	V
+1821	характери'стика	specification, letter   of reference	Nf
+1822	конце'рт	concert	Nm
+1823	дыха'ние	breath	Nn
+1824	темнота'	darkness	Nf
+1825	региона'льный	regional	A
+1826	экспериме'нт	experiment	Nm
+1827	аге'нтство	agency	Nn
+1828	объединя'ть	unite	V
+1829	пи'ща	food	Nf
+1830	кре'пкий	strong	A
+1831	се'вер	north	Nm
+1832	интервью'	interview	Nn
+1833	спосо'бствовать	facilitate, encourage, aid	V
+1834	поку'пка	shopping, purchase	Nf
+1835	сходи'ть	come down, go	V
+1836	воспита'ние	upbringing, education	Nn
+1837	покрыва'ть	cover	V
+1838	Христо'с	Christ	Nm
+1839	генера'льный	general	A
+1840	сюже'т	plot	Nm
+1841	перегово'ры	talks	N-
+1842	пого'да	weather	Nf
+1843	ограниче'ние	restriction	Nn
+1844	тенде'нция	tendency	Nf
+1845	досто'йный	worthy, decent	A
+1846	прису'тствие	presence	Nn
+1847	кита'йский	Chinese	A
+1848	выска'зывать	express, voice	V
+1849	производи'тель	producer, manufacturer	Nm
+1850	шу'тка	joke	Nf
+1851	голубо'й	light blue, gay (slang)	A
+1852	регистра'ция	registration, check-in	Nf
+1853	лётчик	pilot	Nm
+1854	молодёжь	youth	Nf
+1855	докла'д	report	Nm
+1856	везде'	everywhere	P
+1857	оконча'ние	ending, termination,  expiration	Nn
+1858	си'мвол	symbol, character	Nm
+1859	перевести'	translate, transfer, put	V
+1860	нужда'ться	be in need	V
+1861	кандида'т	candidate	Nm
+1862	ата'ка	attack	Nf
+1863	кле'тка	cage, cell	Nf
+1864	переноси'ть	bear, move, tolerate, undergo	V
+1865	сексуа'льный	sexual, sexy	A
+1866	включа'я	including	Prep
+1867	музыка'льный	music, musical	A
+1868	слой	layer	Nm
+1869	назначе'ние	appointment, purpose,  order	Nn
+1870	поми'мо	besides	Prep
+1871	винова'тый	guilty	A
+1872	индивидуа'льный	individual	A
+1873	сме'на	shift	Nf
+1874	положи'тельный	positive	A
+1875	парк	park	Nm
+1876	ви'дный	visible, prominent	A
+1877	тюрьма'	prison	Nf
+1878	наблюде'ние	observation	Nn
+1879	сле'довательно	hence, consequently	Adv
+1880	психологи'ческий	psychological, mental	A
+1881	ми'нимум	minimum	Nm
+1882	полтора'	one and a half	Num
+1883	мя'со	meat	Nn
+1884	боле'ть	hurt, be ill, support	V
+1885	глу'пый	silly	A
+1886	соглаше'ние	agreement	Nn
+1887	за'дний	back	A
+1888	преиму'щество	advantage	Nn
+1889	досту'пный	accessible, affordable	A
+1890	осторо'жно	carefully	Adv
+1891	ку'ча	pile	Nf
+1892	поко'й	peace	Nm
+1893	бок	side	Nm
+1894	незави'симый	independent	A
+1895	дава'й	let us	Part
+1896	насчёт	about, regarding	Prep
+1897	со'лнечный	solar, sunny	A
+1898	тру'дность	difficulty	Nf
+1899	объясне'ние	explanation	Nn
+1900	факти'чески	practically	Adv
+1901	уверя'ть	assure	V
+1902	дура'к	fool	Nm
+1903	сотру'дничество	cooperation	Nn
+1904	повора'чивать	turn	V
+1905	фон	background	Nm
+1906	конь	horse	Nm
+1907	путеше'ствие	travel	Nn
+1908	площа'дка	area, site	Nf
+1909	че'стный	honest	A
+1910	обора'чиваться	turn to, turn out	V
+1911	класси'ческий	classic	A
+1912	взаимоде'йствие	interaction	Nn
+1913	импе'рия	empire	Nf
+1914	сомнева'ться	doubt	V
+1915	пропуска'ть	leave out, let pass, let  through	V
+1916	правосла'вный	Orthodox	A
+1917	распространя'ть	spread	V
+1918	едини'ца	figure of one, unit	Nf
+1919	выта'скивать	pull out	V
+1920	исключа'ть	exclude	V
+1921	температу'ра	temperature	Nf
+1922	пла'тье	dress	Nn
+1923	ударя'ть	hit, strike	V
+1924	практи'ческий	practical	A
+1925	зло	harm, evil	Nn
+1926	о'тдых	holiday, rest	Nm
+1927	труба'	pipe, chimney	Nf
+1928	возража'ть	object	V
+1929	воспо'льзоваться	use, take advantage	V
+1930	предстоя'ть	be in store, be ahead	V
+1931	злой	angry	A
+1932	станда'рт	standard	Nm
+1933	отчёт	report	Nm
+1934	представля'ться	introduce, arise	V
+1935	цивилиза'ция	civilization	Nf
+1936	пацие'нт	patient	Nm
+1937	ста'тус	status	Nm
+1938	ма'сло	oil, butter	Nn
+1939	прекраща'ть	stop	V
+1940	ста'вка	rate	Nf
+1941	вина'	fault, guilt	Nf
+1942	юриди'ческий	legal, law	A
+1943	ре'дкий	rare	A
+1944	молоко'	milk	Nn
+1945	страсть	passion	Nf
+1946	костю'м	suit, costume	Nm
+1947	грех	sin	Nm
+1948	дворе'ц	palace	Nm
+1949	стака'н	glass	Nm
+1950	кот	cat (male)	Nm
+1951	часы'	clock, watch	N-
+1952	неизве'стный	unknown	A
+1953	лоб	forehead	Nm
+1954	промы'шленность	industry	Nf
+1955	спорт	sport	Nm
+1956	о'трасль	branch	Nf
+1957	юг	south	Nm
+1958	взры'в	explosion	Nm
+1959	обме'н	exchange	Nm
+1960	демокра'тия	democracy	Nf
+1961	жаль	pity, sad	Adv
+1962	широко'	widely	Adv
+1963	заслу'живать	deserve	V
+1964	сухо'й	dry	A
+1965	суще'ственный	significant	A
+1966	стремле'ние	aspiration, urge	Nn
+1967	стреля'ть	shoot, fire	V
+1968	отка'з	refusal	Nm
+1969	забо'та	care, concern	Nf
+1970	нож	knife	Nm
+1971	осо'бо	particularly	Adv
+1972	мо'лча	silently	Adv
+1973	отража'ть	reflect, fend off	V
+1974	несча'стный	unfortunate	A
+1975	де'нежный	money	A
+1976	безусло'вно	certainly	Adv
+1977	дово'льный	satisfied	A
+1978	ваго'н	carriage	Nm
+1979	популя'рный	popular	A
+1980	мы'шле'ние	thinking	Nn
+1981	поли'ция	police	Nf
+1982	после'дующий	subsequent	A
+1983	разруша'ть	destroy	V
+1984	лечь	lie down	V
+1985	раскрыва'ть	uncover	V
+1986	рассчи'тывать	rely, count, calculate	V
+1987	о'круг	constituency, district	Nm
+1988	очеви'дный	evident, obvious	A
+1989	пятьдеся'т	fifty	Num
+1990	вещество'	substance	Nn
+1991	продолже'ние	continuation	Nn
+1992	управля'ть	manage, operate	V
+1993	бла'го	good, amenity	Nn
+1994	нефть	oil	Nf
+1995	акаде'мия	academy	Nf
+1996	сантиме'тр	centimetre	Nm
+1997	живо'т	stomach	Nm
+1998	карти'нка	picture	Nf
+1999	шту'ка	thing, item	Nf
+2000	земно'й	earth(’s), terrestrial	A
+2001	жёлтый	yellow	A
+2002	сло'жно	complex	Adv
+2003	суде'бный	judicial	A
+2004	возвраще'ние	return	Nn
+2005	деревя'нный	wooden	A
+2006	образе'ц	sample	Nm
+2007	шко'льный	school	A
+2008	из-под	from under	Prep
+2009	ока'зывать	provide	V
+2010	профе'ссия	profession	Nf
+2011	затра'ты	expenses	Nf
+2012	навсегда'	forever	Adv
+2013	гости'ница	hotel	Nf
+2014	заболева'ние	disease	Nn
+2015	кампа'ния	campaign	Nf
+2016	село'	village	Nn
+2017	косми'ческий	space	A
+2018	повезти'	take, be lucky	V
+2019	по'чта	post office, post	Nf
+2020	выясня'ться	be established, come to light	V
+2021	па'уза	pause	Nf
+2022	пала'та	ward, chamber	Nf
+2023	засыпа'ть	fall asleep	V
+2023	засы'пать	cover	V
+2024	креди'т	credit	Nm
+2025	суббо'та	Saturday	Nf
+2026	заплати'ть	pay	V
+2027	полово'й	sexual, genital, floor	A
+2028	уве'ренность	confidence	Nf
+2029	слу'шатель	listener	Nm
+2030	лев	lion	Nm
+2031	пря'тать	hide	V
+2032	реализо'вывать	realize, implement, sell	V
+2033	освобожда'ть	free, set free	V
+2034	коллекти'в	group, team	Nm
+2035	све'рху	above, on top	Adv
+2036	добро'	good	Nn
+2037	тро'е	three (people)	Num
+2038	уче'ние	teaching	Nn
+2039	воскресе'нье	Sunday	Nn
+2040	доказа'тельство	proof, evidence	Nn
+2041	гря'зный	dirty	A
+2042	спрос	demand	Nm
+2043	делово'й	business	A
+2044	разли'чие	difference	Nn
+2045	ко'рень	root	Nm
+2046	телефо'нный	telephone	A
+2047	пя'тница	Friday	Nf
+2048	дожида'ться	wait	V
+2049	продаве'ц	retailer, shop assistant	Nm
+2050	превраща'ть	turn into, convert	V
+2051	комме'рческий	commercial, trade	A
+2052	проявля'ться	appear, be manifested	V
+2053	удивля'ть	surprise	V
+2054	величина'	value, size, amount	Nf
+2055	напряже'ние	voltage, strain	Nn
+2056	крестья'нин	farm worker	Nm
+2057	обяза'тельный	compulsory	A
+2058	преподава'тель	teacher	Nm
+2059	найти'сь	be found	V
+2060	кольцо'	ring, circle	Nn
+2061	пойма'ть	catch	V
+2062	наверняка'	surely	Adv
+2063	подожда'ть	wait	V
+2064	доска'	board	Nf
+2065	япо'нский	Japanese	A
+2066	се'льский	rural, agricultural	A
+2067	верши'на	peak	Nf
+2068	напро'тив	opposite, on the contrary	Adv
+2069	защища'ть	protect	V
+2070	предпочита'ть	prefer	V
+2071	секре'т	secret	Nm
+2072	зака'зывать	order	V
+2073	воспринима'ть	perceive, accept	V
+2074	эффекти'вность	effectiveness	Nf
+2075	иму'щество	property	Nn
+2076	строй	system, formation	Nm
+2077	ру'чка	pen, handle	Nf
+2078	ре'зкий	sharp	A
+2079	персона'ж	character	Nm
+2080	одина'ковый	same	A
+2081	свиде'тельствовать	indicate, show,   give evidence	V
+2082	ве'рно	correct(ly), accurate(ly)	Adv
+2083	кури'ть	smoke	V
+2084	утвержде'ние	approval, assertion	Nn
+2085	взя'ться	set to, take, come about, arise	V
+2086	понеде'льник	Monday	Nm
+2087	стро'гий	strict	A
+2088	исключи'тельно	exceptionally,  exclusively, only	Adv
+2089	портре'т	portrait	Nm
+2090	дыша'ть	breathe	V
+2091	поро'г	threshold, doorstep	Nm
+2092	противополо'жный	opposite	A
+2093	я'дерный	nuclear	A
+2094	объедине'ние	association, joining	Nn
+2095	остально'е	rest	Nn
+2096	оконча'тельно	finally	Adv
+2097	се'ктор	sector	Nm
+2098	гуля'ть	walk	V
+2099	приложе'ние	supplement, attachment,  application	Nn
+2100	подро'бность	detail	Nf
+2101	окружа'ющий	surrounding	A
+2102	попада'ться	occur, come about, get  caught	V
+2103	луч	ray	Nm
+2104	привы'чка	habit	Nf
+2105	пре'сса	press	Nf
+2106	эмо'ция	emotion	Nf
+2107	уника'льный	unique	A
+2108	испыта'ние	test	Nn
+2109	разбива'ть	break	V
+2110	восприя'тие	perception	Nn
+2111	де'вять	nine	Num
+2112	лейтена'нт	lieutenant	Nm
+2113	наступле'ние	onset, coming, offensive,  attack	Nn
+2114	актёр	actor	Nm
+2115	тра'нспорт	transport	Nm
+2116	издава'ть	publish	V
+2117	рекла'мный	advertising	A
+2118	хвост	tail	Nm
+2119	возду'шный	air	A
+2120	серьёзно	seriously	Adv
+2121	заводи'ть	start, keep, have (animals)	V
+2122	свиде'тель	witness	Nm
+2123	килогра'мм	kilogram	Nm
+2124	ощуща'ть	feel, sense	V
+2125	тяну'ть	pull	V
+2126	уголо'вный	criminal	A
+2127	удивле'ние	surprise	Nn
+2128	экза'мен	exam	Nm
+2129	прия'тно	nice	Adv
+2130	ка'менный	stone	A
+2131	одева'ть	dress	V
+2132	цикл	cycle	Nm
+2133	евре'йский	Jewish	A
+2134	ме'неджер	manager	Nm
+2135	су'мка	bag	Nf
+2136	на'дпись	inscription	Nf
+2137	восклица'ть	exclaim	V
+2138	зо'лото	gold	Nn
+2139	сигаре'та	cigarette	Nf
+2140	успе'шный	successful	A
+2141	нема'ло	many	Adv
+2142	приро'дный	natural	A
+2143	цита'та	quotation, citation	Nf
+2144	полоса'	stripe, lane	Nf
+2145	о'блако	cloud	Nn
+2146	взро'слый	adult	N-
+2147	ре'йтинг	rating	Nm
+2148	похо'д	hike	Nm
+2149	таково'й	such	P
+2150	указа'ние	instruction, indication	Nn
+2151	веду'щий	leading	N-
+2152	како'й-нибудь	any, some	P
+2153	разу'мный	sensible, reasonable	A
+2154	том	volume	Nm
+2155	владе'ть	own, master	V
+2156	посту'пок	deed	Nm
+2157	па'мятник	monument	Nm
+2158	атмосфе'ра	atmosphere	Nf
+2159	спо'рить	dispute	V
+2160	охва'тывать	cover, affect	V
+2161	применя'ть	apply, use	V
+2162	случа'йный	random, chance	A
+2163	восстана'вливать	restore, replace	V
+2164	определя'ться	be determined	V
+2165	о'фис	office	Nm
+2166	проявле'ние	show, manifestation	Nn
+2167	на'ция	nation	Nf
+2168	телеви'дение	television	Nn
+2169	вслед	then, after this	Adv
+2170	осуществля'ть	implement, carry out	V
+2171	инвести'ция	investment	Nf
+2172	относи'ть	carry away	V
+2173	акти'вно	active(ly)	Adv
+2174	инжене'р	engineer	Nm
+2175	знако'мство	acquaintance	Nn
+2176	дневни'к	diary, record book	Nm
+2177	успе'шно	successfully	Adv
+2178	уде'рживать	hold back	V
+2179	запомина'ть	remember	V
+2180	теку'щий	current	A
+2181	повыша'ть	raise, increase	V
+2182	Петербу'рг	St Petersburg	Nm
+2183	неприя'тный	unpleasant	A
+2184	стро'го	strict(ly)	Adv
+2185	влия'ть	influence, affect	V
+2186	аспе'кт	aspect	Nm
+2187	бе'гать	run	V
+2188	оста'ток	rest, remains	Nm
+2189	кно'пка	button	Nf
+2190	сде'лка	deal	Nf
+2191	спорти'вный	sport, sporting	A
+2192	режиссёр	director	Nm
+2193	програ'ммный	software	A
+2194	океа'н	ocean	Nm
+2195	правово'й	legal	A
+2196	оте'ль	hotel	Nm
+2197	вынужда'ть	force	V
+2198	нало'говый	tax	A
+2199	ба'ба	woman	Nf
+2200	скрыва'ть	hide	V
+2201	распростране'ние	dissemination,  spreading, distribution	Nn
+2202	секрета'рь	secretary	Nm
+2203	мгнове'ние	moment	Nn
+2204	посети'тель	visitor	Nm
+2205	архи'в	archive	Nm
+2206	сохране'ние	conservation, preservation	Nn
+2207	отсу'тствовать	be absent	V
+2208	пья'ный	drunk	N-
+2209	вкла'дывать	invest, put in	V
+2210	конча'ть	finish	V
+2211	бо'льно	painfully	Adv
+2212	импера'тор	emperor	Nm
+2213	вселе'нная	universe	Nf
+2214	СМИ	mass media	N-
+2215	губерна'тор	governor	Nm
+2216	заполня'ть	fill	V
+2217	уме'ние	skill	Nn
+2218	твёрдый	hard, firm	A
+2219	ста'дия	stage	Nf
+2220	инициати'ва	initiative	Nf
+2221	призна'ние	recognition, confession	Nn
+2222	масшта'б	scale	Nm
+2223	ремо'нт	repair, renovation	Nm
+2224	вон	there	Part
+2225	терпе'ть	endure, tolerate	V
+2226	пятна'дцать	fifteen	Num
+2227	намно'го	much	Adv
+2228	ле'тний	summer	A
+2229	дым	smoke	Nm
+2230	та'нец	dance, dancing	Nm
+2231	распоряже'ние	order, instruction	Nn
+2232	ра'доваться	be glad, rejoice	V
+2233	ле'кция	lecture	Nf
+2234	опла'та	payment	Nf
+2235	вероя'тность	probability	Nf
+2236	щека'	cheek	Nf
+2237	пара'метр	parameter	Nm
+2238	аге'нт	agent	Nm
+2239	интеллектуа'льный	intelligent	A
+2240	согла'сие	consent	Nn
+2241	рубе'ж	border, mark	Nm
+2242	коро'бка	box	Nf
+2243	крите'рий	criterion	Nm
+2244	скла'дывать	fold, stack, sum up, put  (together)	V
+2245	ма'рка	stamp, brand	Nf
+2246	происхожде'ние	origin	Nn
+2247	смешно'й	funny	A
+2248	абсолю'тный	absolute, complete	A
+2249	прия'тель	friend	Nm
+2250	уго'дно	you like, you want	Part
+2251	пу'блика	crowd, public	Nf
+2252	вуз	institution of higher education	Nm
+2253	рекомендова'ть	recommend	V
+2254	моли'тва	prayer	Nf
+2255	опуска'ться	lower	V
+2256	бесконе'чный	endless, very long	A
+2257	се'рвер	server	Nm
+2258	метро'	Metro, underground	Nn
+2259	нажима'ть	press, click	V
+2260	подбира'ть	pick up, match together	V
+2261	эфи'р	air, ether	Nm
+2262	табли'ца	table	Nf
+2263	ю'ный	young	A
+2264	ненави'деть	hate	V
+2265	сопротивле'ние	resistance	Nn
+2266	ой	oh, ouch	I
+2267	удовлетворя'ть	satisfy	V
+2268	длина'	length	Nf
+2269	кри'тика	criticism	Nf
+2270	уда'ча	luck	Nf
+2271	дру'жба	friendship	Nf
+2272	наме'рение	intention	Nn
+2273	преодолева'ть	overcome, go beyond	V
+2274	крест	cross	Nm
+2275	сниже'ние	reduction, descent	Nn
+2276	сбор	collection, fee	Nm
+2277	неожи'данный	unexpected	A
+2278	протяже'ние	course, extent	Nn
+2279	выража'ться	be expressed, be	V
+2280	у'жин	dinner	Nm
+2281	колесо'	wheel	Nn
+2282	отли'чно	excellent(ly), very well	Adv
+2283	дви'гатель	engine	Nm
+2284	отводи'ть	bring, take	V
+2285	переме'на	change, break	Nf
+2286	тала'нт	talent	Nm
+2287	дли'тельный	long	A
+2288	приве'т	hi, regards	Nm
+2289	плани'ровать	plan	V
+2290	предпринима'ть	undertake, take	V
+2291	подска'зывать	prompt, tell	V
+2292	диску'ссия	discussion	Nf
+2293	го'лый	naked	A
+2294	доводи'ть	lead to, take to	V
+2295	свяще'нник	priest	Nm
+2296	ми'рный	peace, peaceful	A
+2297	поворо'т	turn, bend	Nm
+2298	пережива'ть	experience, worry	V
+2299	труп	corpse, (dead) body	Nm
+2300	сочине'ние	composition, essay	Nn
+2301	упражне'ние	exercise	Nn
+2302	наказа'ние	punishment	Nn
+2303	автома'т	machine, machine gun,  payphone	Nm
+2304	зверь	beast, animal	Nm
+2305	ю'ноша	youth, young boy	Nm
+2306	стратеги'ческий	strategic	A
+2307	мора'льный	moral	A
+2308	чрезвыча'йно	extremely	Adv
+2309	приближа'ться	approach	V
+2310	ны'не	now, at present	Adv
+2311	моби'льный	mobile	A
+2312	семина'р	seminar	Nm
+2313	образо'вывать	form, educate, teach	V
+2314	осуществля'ться	be implemented	V
+2315	загова'ривать	start speaking,   cast a spell	V
+2316	трудово'й	labour	A
+2317	дива'н	sofa	Nm
+2318	непоня'тный	incomprehensible	A
+2319	нарко'тик	drug	Nm
+2320	меч	sword	Nm
+2321	сло'жность	complexity, complication	Nf
+2322	мешо'к	bag	Nm
+2323	шепта'ть	whisper	V
+2324	со'весть	conscience	Nf
+2325	наве'рно	probably	Adv
+2326	куда'-то	somewhere	P
+2327	областно'й	regional	A
+2328	пре'мия	prize	Nf
+2329	пассажи'р	passenger	Nm
+2330	поэ'зия	poetry	Nf
+2331	доста'точный	sufficient	A
+2332	обрабо'тка	processing, treatment	Nf
+2333	психоло'гия	psychology	Nf
+2334	жильё	accommodation	Nn
+2335	код	code	Nm
+2336	обма'нывать	deceive, cheat	V
+2337	увы'	alas	I
+2338	успока'иваться	calm down	V
+2339	ры'ночный	market	A
+2340	помо'щник	assistant	Nm
+2341	корми'ть	feed	V
+2342	контроли'ровать	control, monitor	V
+2343	Ита'лия	Italy	Nf
+2344	экипа'ж	crew	Nm
+2345	сцена'рий	scenario, film script	Nm
+2346	сбива'ть	knock down	V
+2347	лёд	ice	Nm
+2348	проника'ть	penetrate, infiltrate	V
+2349	предпринима'тель	entrepreneur	Nm
+2350	ассоциа'ция	association	Nf
+2351	спекта'кль	performance, play	Nm
+2352	кра'ска	paint	Nf
+2353	поздравля'ть	congratulate	V
+2354	раке'та	rocket	Nf
+2355	выставля'ть	show, put forward	V
+2356	постановле'ние	decree, act	Nn
+2357	пожима'ть	press, shake (hands)	V
+2358	жени'ться	marry	V
+2359	зря	in vain	Adv
+2360	свиде'тельство	certificate	Nn
+2361	потоло'к	ceiling	Nm
+2362	аудито'рия	lecture theatre, audience	Nf
+2363	песо'к	sand	Nm
+2364	излага'ть	report, give an account	V
+2365	грязь	dirt	Nf
+2366	тща'тельно	meticulously	Adv
+2367	регистри'ровать	register	V
+2368	а'нгел	angel	Nm
+2369	монасты'рь	monastery, cloister	Nm
+2370	огля'дываться	look back, look round	V
+2371	привы'чный	habitual, usual, used	A
+2372	анекдо'т	anecdote, joke	Nm
+2373	выезжа'ть	leave	V
+2374	маршру'т	route	Nm
+2375	о'тпуск	holiday	Nm
+2376	необы'чный	unusual	A
+2377	соо'бщество	community	Nn
+2378	обходи'ть	bypass, walk around	V
+2379	проче'сть	read	V
+2380	пыль	dust	Nf
+2381	предназна'ченный	design, designate,  intend	V
+2382	демократи'ческий	democratic	A
+2383	заде'рживать	delay, hold up	V
+2384	идеа'льный	ideal	A
+2385	чёткий	precise	A
+2386	паде'ние	fall	Nn
+2387	беспла'тный	free	A
+2388	расте'ние	plant	Nn
+2389	обнима'ть	hug	V
+2390	аргуме'нт	argument	Nm
+2391	введе'ние	introduction	Nn
+2392	никуда'	nowhere, anywhere	P
+2393	бое'ц	fighter	Nm
+2394	ткань	cloth	Nf
+2395	уступа'ть	give up	V
+2396	заверша'ть	complete	V
+2397	нужда'	need	Nf
+2398	го'рло	throat	Nn
+2399	до'чка	daughter	Nf
+2400	убега'ть	run	V
+2401	кость	bone	Nf
+2402	сто'лик	table	Nm
+2403	научи'ть	teach	V
+2404	не'жный	tender	A
+2405	яйцо'	egg	Nn
+2406	склад	warehouse	Nm
+2407	темп	tempo, pace	Nm
+2408	наполня'ть	fill	V
+2409	обознача'ть	stand for, mean	V
+2410	запуска'ть	neglect, let	V
+2411	брита'нский	British	A
+2412	запро'с	request	Nm
+2413	адвока'т	lawyer	Nm
+2414	существу'ющий	existing, current	A
+2415	форма'т	format	Nm
+2416	съесть	eat up	V
+2417	о'пытный	experienced	A
+2418	пистоле'т	pistol	Nm
+2419	промы'шленный	industrial	A
+2420	подро'сток	teenager	Nm
+2421	бо'мба	bomb	Nf
+2422	тра'тить	spend	V
+2423	ухо'д	leaving, care	Nm
+2424	навстре'чу	towards	Adv
+2425	заведе'ние	place, establishment	Nn
+2426	социа'льно	socially	Adv
+2427	ба'шня	tower	Nf
+2428	го'ре	grief, misfortune	Nn
+2429	хозя'йка	hostess, owner	Nf
+2430	на'вык	skill	Nm
+2431	бога'тство	wealth	Nn
+2432	верхо'вный	supreme, high	A
+2433	пона'добиться	need	V
+2434	уважа'ть	respect	V
+2435	пораже'ние	defeat, impairment, lesion	Nn
+2436	подразделе'ние	unit	Nn
+2437	моти'в	motive, tune	Nm
+2438	подводи'ть	bring closer, let down	V
+2439	туале'т	toilet, lavatory	Nm
+2440	ба'нка	jar	Nf
+2441	остано'вка	stop	Nf
+2442	трево'га	anxiety	Nf
+2443	оборо'т	turnover, turn, circulation	Nm
+2444	жесто'кий	cruel	A
+2445	дрожа'ть	tremble	V
+2446	кре'пко	firmly	Adv
+2447	порт	port	Nm
+2448	су'дно	ship, vessel, chamber pot	Nn
+2449	до'рого	expensive	Adv
+2450	самостоя'тельно	independent(ly),   by oneself	Adv
+2451	плод	fruit	Nm
+2452	бли'зко	near, close	Adv
+2453	администрати'вный	administrative	A
+2454	впосле'дствии	subsequently	Adv
+2455	борт	side, board	Nm
+2456	па'хнуть	smell	V
+2457	соедине'ние	connection	Nn
+2458	контра'кт	contract	Nm
+2459	сва'дьба	wedding	Nf
+2460	дове'рие	trust	Nn
+2461	диало'г	dialogue	Nm
+2462	тума'н	fog	Nm
+2463	восто'рг	delight	Nm
+2464	слы'шаться	be heard	V
+2465	прибо'р	device	Nm
+2466	то'чность	precision	Nf
+2467	внизу'	below	Adv
+2468	приступа'ть	set to, proceed	V
+2469	девчо'нка	young girl	Nf
+2470	та'йный	secret	A
+2471	персона'л	staff	Nm
+2472	ка'чественный	quality	A
+2473	молча'ние	silence	Nn
+2474	мальчи'шка	small boy	Nm
+2475	маха'ть	wave	V
+2476	побежа'ть	run	V
+2477	очки'	glasses	N-
+2478	осо'бенный	special	A
+2479	расстава'ться	part, separate	V
+2480	конститу'ция	constitution	Nf
+2481	развива'ть	develop	V
+2482	обрета'ть	find	V
+2483	ко'декс	code	Nm
+2484	опера'тор	operator	Nm
+2485	бере'менность	pregnancy	Nf
+2486	майо'р	major	Nm
+2487	избира'ть	elect	V
+2488	аналоги'чный	similar	A
+2489	иссле'дователь	researcher	Nm
+2490	францу'з	Frenchman	Nm
+2491	за'муж	marry	Adv
+2492	препара'т	drug	Nm
+2493	храни'ть	keep	V
+2494	игру'шка	toy	Nf
+2495	ве'село	merrily	Adv
+2496	повторя'ться	repeat	V
+2497	констру'кция	construction, design	Nf
+2498	самостоя'тельный	independent	A
+2499	сезо'н	season	Nm
+2500	фо'рмула	formula	Nf
+2501	надоеда'ть	bother	V
+2502	рассмотре'ние	review, inspection	Nn
+2503	посади'ть	plant, seat	V
+2504	прои'грывать	lose, play	V
+2505	всео'бщий	universal, all-out	A
+2506	наси'лие	violence	Nn
+2507	кула'к	fist	Nm
+2508	закла'дывать	put, turn in	V
+2509	жест	gesture	Nm
+2510	кто-нибу'дь	anybody, somebody	P
+2511	исхо'дный	initial, starting, original	A
+2512	англича'нин	Englishman	Nm
+2513	расходи'ться	disperse, leave	V
+2514	фи'зика	physics	Nf
+2515	ка'рточка	card	Nf
+2516	брига'да	brigade, team	Nf
+2517	обслу'живание	service	Nn
+2518	спасе'ние	saving, rescue	Nn
+2519	лаборато'рия	laboratory	Nf
+2520	дешёвый	cheap	A
+2521	ка'пля	drop	Nf
+2522	прикрыва'ть	cover, shut, close (partly)	V
+2523	непосре'дственный	direct, spontaneous	A
+2524	па'спорт	passport	Nm
+2525	по'лка	shelf	Nf
+2526	ги'бель	death	Nf
+2527	подозрева'ть	suspect	V
+2528	вы'зов	call	Nm
+2529	дар	gift	Nm
+2530	протоко'л	protocol, report	Nm
+2531	акти'вность	activity	Nf
+2532	выбра'сывать	throw away, throw out	V
+2533	рекоменда'ция	advice, recommendation,  reference	Nf
+2534	ро'вно	exactly, evenly	Adv
+2535	объявле'ние	advertisement,  announcement	Nn
+2536	лека'рство	medicine	Nn
+2537	докла'дывать	report	V
+2538	достава'ться	get, received	V
+2539	посёлок	village	Nm
+2540	го'рный	mountain	A
+2541	максима'льный	maximum	A
+2542	полчаса'	half an hour	Nm
+2543	успока'ивать	calm, pacify	V
+2544	отка'зывать	refuse	V
+2545	выска'зывание	statement, remark	Nn
+2546	карье'ра	career	Nf
+2547	отдыха'ть	rest	V
+2548	лови'ть	catch	V
+2549	замеча'ние	remark, comment	Nn
+2550	несомне'нно	undoubtedly	Adv
+2551	моро'з	frost	Nm
+2552	альбо'м	album	Nm
+2553	вокза'л	station	Nm
+2554	справедли'вость	justice	Nf
+2555	страда'ние	suffering	Nn
+2556	шар	ball	Nm
+2557	поли'тик	politician	Nm
+2558	вооружённый	armed	A
+2559	станда'ртный	standard	A
+2560	запи'ска	note	Nf
+2561	нере'дко	often	Adv
+2562	ко'ротко	short(ly)	Adv
+2563	одино'кий	lonely	A
+2564	да'ча	summer home, dacha	Nf
+2565	осуществле'ние	implementation	Nn
+2566	разбира'ть	dismantle, sort out, analyse,  treat	V
+2567	бормота'ть	mumble	V
+2568	ко'смос	space	Nm
+2569	изде'лие	product	Nn
+2570	гара'нтия	guarantee, warranty	Nf
+2571	избавля'ться	get rid of	V
+2572	парти'йный	party	A
+2573	противоре'чие	contradiction	Nn
+2574	обяза'тельство	obligation	Nn
+2575	отню'дь	nowhere near, by no means	Adv
+2576	не'рвный	nervous	A
+2577	помеща'ть	put, place	V
+2578	моги'ла	grave	Nf
+2579	освеща'ть	illuminate	V
+2580	ору'дие	tool, instrument, gun, cannon	Nn
+2581	миг	instant, moment	Nm
+2582	подъе'зд	entrance	Nm
+2583	тест	test	Nm
+2584	воева'ть	fight	V
+2585	скро'мный	modest	A
+2586	украи'нский	Ukrainian	A
+2587	груз	load, cargo	Nm
+2588	заме'тный	noticeable	A
+2589	пятно'	spot, mark	Nn
+2590	коммуни'ст	communist	Nm
+2591	таска'ть	pull, drag, lug	V
+2592	ско'рый	quick, express	A
+2593	инстру'кция	instructions, manual	Nf
+2594	воображе'ние	imagination	Nn
+2595	двена'дцать	twelve	Num
+2596	пу'ля	bullet	Nf
+2597	гру'бый	rude, coarse	A
+2598	веле'ть	order, tell	V
+2599	построе'ние	building, creating	Nn
+2600	охо'та	hunting	Nf
+2601	минима'льный	minimum, minimal	A
+2602	проявля'ть	show	V
+2603	глоба'льный	global	A
+2604	разнообра'зный	various	A
+2605	кафе'	café	Nn
+2606	по'чва	soil	Nf
+2607	надёжный	reliable	A
+2608	де'йствующий	existing, active	A
+2609	интересова'ться	be interested in	V
+2610	би'тва	battle	Nf
+2611	факульте'т	faculty	Nm
+2612	мето'дика	methodology, method	Nf
+2613	стихотворе'ние	poem	Nn
+2614	окружа'ть	surround	V
+2615	сбо'рник	collection	Nm
+2616	разве'дка	reconnaissance, surveillance	Nf
+2617	куст	bush	Nm
+2618	хо'лод	cold	Nm
+2619	опра'вдывать	acquit, justify	V
+2620	сза'ди	behind, from behind	Adv
+2621	одино'чество	loneliness	Nn
+2622	фанта'зия	fantasy, imagination	Nf
+2623	сове'товать	advise	V
+2624	произво'дственный	production	A
+2625	плюс	plus, advantage	C
+2626	осма'тривать	inspect	V
+2627	ми'на	mine, bomb, look, expression	Nf
+2628	уще'рб	damage	Nm
+2629	отве'тственный	responsible	A
+2630	волк	wolf	Nm
+2631	поясня'ть	clarify, explain	V
+2632	незнако'мый	unfamiliar, strange	A
+2633	мо'крый	wet	A
+2634	важне'йший	most important	A
+2635	пала'тка	tent, stall	Nf
+2636	расшире'ние	expansion, spread	Nn
+2637	закрича'ть	shout, cry	V
+2638	отступа'ть	stand aside, step back,   retreat	V
+2639	я'вный	evident	A
+2640	воспи'тывать	train, bring up	V
+2641	сало'н	salon	Nm
+2642	лезть	climb	V
+2643	великоле'пный	magnificent	A
+2644	тепло'	warmth	Nn
+2645	столе'тие	century, centenary	Nn
+2646	вы'стрел	shot	Nm
+2647	порожда'ть	produce	V
+2648	го'лод	hunger	Nm
+2649	костёр	bonfire, camp fire	Nm
+2650	ключево'й	key	A
+2651	победи'тель	winner	Nm
+2652	доверя'ть	trust, confide in	V
+2653	шкаф	wardrobe, cupboard	Nm
+2654	траге'дия	tragedy	Nf
+2655	филосо'фский	philosophical	A
+2656	жанр	genre	Nm
+2657	зи'мний	winter	A
+2658	свяще'нный	sacred	A
+2659	уезжа'ть	leave	V
+2660	четве'рг	Thursday	Nm
+2661	незави'симо	regardless	Adv
+2662	жа'ловаться	complain	V
+2663	холм	hill	Nm
+2664	не'нависть	hatred	Nf
+2665	вече'рний	evening	A
+2666	фестива'ль	festival	Nm
+2667	ко'пия	copy	Nf
+2668	удовлетворе'ние	satisfaction	Nn
+2669	когда'-нибудь	some day, ever	P
+2670	у'зел	knot	Nm
+2671	частота'	frequency, rate	Nf
+2672	я'кобы	allegedly, supposedly	Part
+2673	психо'лог	psychologist	Nm
+2674	финанси'рование	financing, funding	Nn
+2675	нигде'	nowhere, anywhere (double negatives)	P
+2676	напада'ть	attack	V
+2677	вред	harm, damage	Nm
+2678	жа'лко	pitifully, it’s a pity	Adv
+2679	непло'хо	not bad, okay	Adv
+2680	идеоло'гия	ideology	Nf
+2681	кома'ндование	command	Nn
+2682	снижа'ть	reduce	V
+2683	возбужда'ть	arouse, excite	V
+2684	сжима'ть	grip	V
+2685	убежде'ние	conviction	Nn
+2686	вто'рник	Tuesday	Nm
+2687	зва'ние	rank, title	Nn
+2688	создава'ться	be created, arise, form	V
+2689	непреме'нно	without fail	Adv
+2690	жале'ть	regret	V
+2691	обвине'ние	accusation	Nn
+2692	христиа'нский	Christian	A
+2693	литр	litre	Nm
+2694	превыша'ть	exceed	V
+2695	уче'бник	textbook	Nm
+2696	недоста'точный	insufficient, not enough	A
+2697	гото'вность	willingness	Nf
+2698	высоко'	high(ly)	Adv
+2699	ле'нта	tape, band	Nf
+2700	лесно'й	forest	A
+2701	исполня'ть	perform, do	V
+2702	спу'тник	satellite, fellow traveller	Nm
+2703	нагру'зка	load, activity	Nf
+2704	зарубе'жный	foreign	A
+2705	цепь	chain	Nf
+2706	почита'ть	read, respect, worship	V
+2707	ро'зовый	pink	A
+2708	идеа'л	ideal	Nm
+2709	благодари'ть	thank	V
+2710	эпизо'д	episode	Nm
+2711	сетево'й	network	A
+2712	визи'т	visit	Nm
+2713	о'рден	order	Nm
+2714	парла'мент	parliament	Nm
+2715	скала'	rock, cliff	Nf
+2716	собо'р	cathedral	Nm
+2717	коло'нна	column	Nf
+2718	конте'кст	context	Nm
+2719	танцева'ть	dance	V
+2720	соревнова'ние	competition	Nn
+2721	конкуре'нция	competition	Nf
+2722	глу'пость	foolishness, nonsense	Nf
+2723	городо'к	town	Nm
+2724	иску'сственный	artificial	A
+2725	эмоциона'льный	emotional	A
+2726	ро'за	rose	Nf
+2727	люби'тель	lover, amateur	Nm
+2728	распределе'ние	distribution	Nn
+2729	выпада'ть	fall, fall out	V
+2730	исправля'ть	correct	V
+2731	прили'чный	decent	A
+2732	содержа'ться	contain	V
+2733	обзо'р	(over)view	Nm
+2734	прете'нзия	claim	Nf
+2735	руба'шка	shirt	Nf
+2736	корреспонде'нт	correspondent	Nm
+2737	за'втрак	breakfast	Nm
+2738	италья'нский	Italian	A
+2739	нападе'ние	attack	Nn
+2740	бар	bar	Nm
+2741	тоска'	melancholy, boredom	Nf
+2742	пе'нсия	pension	Nf
+2743	тури'ст	tourist	Nm
+2744	предъявля'ть	bring, show	V
+2745	мо'да	fashion	Nf
+2746	обижа'ться	be offended	V
+2747	восстановле'ние	recovery	Nn
+2748	рисова'ть	draw, paint	V
+2749	разрабо'тчик	developer	Nm
+2750	еди'нство	unity	Nn
+2751	отрица'тельный	negative	A
+2752	инве'стор	investor	Nm
+2753	возникнове'ние	origin, start	Nn
+2754	сте'нка	wall	Nf
+2755	музыка'нт	musician	Nm
+2756	повести'	lead, take	V
+2757	мо'щность	power	Nf
+2758	пье'са	play	Nf
+2759	блестя'щий	shiny, brilliant	A
+2760	десятиле'тие	decade	Nn
+2761	изве'стие	news	Nn
+2762	печа'льный	sad	A
+2763	иностра'нец	foreigner	Nm
+2764	экспеди'ция	expedition	Nf
+2765	улучше'ние	improvement	Nn
+2766	волнова'ться	worry, be nervous	V
+2767	неизве'стно	unknown	Adv
+2768	прогре'сс	progress	Nm
+2769	цити'ровать	quote	V
+2770	сле'ва	left	Adv
+2771	я'блоко	apple	Nn
+2772	короле'ва	queen	Nf
+2773	по'яс	belt, zone	Nm
+2774	ме'стность	area, locality	Nf
+2775	квадра'тный	square	A
+2776	заинтересова'ть	interest	V
+2777	стару'ха	old woman	Nf
+2778	аэродро'м	aerodrome, airfield	Nm
+2779	нача'льный	initial	A
+2780	вы'годный	favourable, profitable	A
+2781	реаги'ровать	react	V
+2782	дели'ться	divide, share	V
+2783	сою'зник	ally	Nm
+2784	торопи'ться	hurry, rush	V
+2785	аэропо'рт	airport	Nm
+2786	дисципли'на	discipline, subject	Nf
+2787	А'зия	Asia	Nf
+2788	миф	myth	Nm
+2789	тра'нспортный	transport	A
+2790	сокраще'ние	reduction, cut, abbreviation	Nn
+2791	сапо'г	boot	Nm
+2792	внача'ле	at first	Adv
+2793	во'время	in time, on time	Adv
+2794	ме'лочь	trifle, change, nothing	Nf
+2795	кусо'чек	piece	Nm
+2796	неплохо'й	not bad, decent	A
+2797	свобо'дно	freely	Adv
+2798	жа'лоба	complaint	Nf
+2799	спра'ва	on the right	Adv
+2800	конкуре'нт	competitor	Nm
+2801	ма'ска	mask	Nf
+2802	прозра'чный	transparent	A
+2803	коро'ва	cow	Nf
+2804	потребле'ние	consumption	Nn
+2805	наста'ивать	insist	V
+2806	ложи'ться	lie (down)	V
+2807	освобожде'ние	release	Nn
+2808	вынима'ть	take out	V
+2809	напи'ток	drink	Nm
+2810	двойно'й	double	A
+2811	по'дпись	signature	Nf
+2812	пи'сьменный	written	A
+2813	применя'ться	be applied, be used	V
+2814	матема'тика	mathematics	Nf
+2815	густо'й	thick	A
+2816	потре'боваться	be required, need	V
+2817	инвестицио'нный	investment	A
+2818	авторите'т	authority, criminal leader  (slang)	Nm
+2819	отраже'ние	reflection, fending off	Nn
+2820	мото'р	engine	Nm
+2821	кремль	Kremlin, fortress	Nm
+2822	по'льский	Polish	A
+2823	небе'сный	heavenly	A
+2824	измере'ние	measurement, dimension	Nn
+2825	сту'дия	studio	Nf
+2826	забо'титься	take care	V
+2827	экологи'ческий	ecological	A
+2828	моли'ться	pray	V
+2829	предвари'тельный	preliminary, advance	A
+2830	и'скренне	sincerely	Adv
+2831	по'весть	story, novel	Nf
+2832	компоне'нт	component, ingredient	Nm
+2833	неве'ста	bride, fiancée	Nf
+2834	пере'дний	front	A
+2835	го'рдость	pride	Nf
+2836	вклад	contribution, deposit	Nm
+2837	наблюда'ться	be observed	V
+2838	мета'лл	metal	Nm
+2839	Русь	Rus’, Ancient Russia	Nf
+2840	опла'чивать	pay	V
+2841	подходя'щий	appropriate	A
+2842	непра'вильный	wrong, irregular	A
+2843	сопровожда'ть	accompany	V
+2844	пребыва'ние	residence	Nn
+2845	теорети'ческий	theoretical	A
+2846	ложь	lie	Nf
+2847	кра'ткий	brief	A
+2848	катастро'фа	catastrophe, crash	Nf
+2849	про'филь	profile	Nm
+2850	справедли'вый	fair	A
+2851	эксплуата'ция	exploitation, operation	Nf
+2852	кварта'л	block of houses, quarter	Nm
+2853	пожа'р	fire	Nm
+2854	оконча'тельный	final	A
+2855	головно'й	head	A
+2856	налива'ть	pour	V
+2857	подъём	ascent, rise	Nm
+2858	чуде'сный	wonderful	A
+2859	металли'ческий	metal	A
+2860	уда'чный	successful	A
+2861	стати'стика	statistics	Nf
+2862	крити'ческий	critical	A
+2863	проце'ссор	processor	Nm
+2864	руль	steering wheel	Nm
+2865	два'жды	twice	Adv
+2866	негати'вный	negative	A
+2867	во-пе'рвых	firstly	Adv
+2868	уби'йца	killer	Nc
+2869	шесто'й	sixth	Num
+2870	пожило'й	elderly	A
+2871	супру'г	spouse, husband	Nm
+2872	наве'рх	up	Adv
+2873	прогно'з	forecast	Nm
+2874	собесе'дник	interlocutor	Nm
+2875	свида'ние	date	Nn
+2876	то'нна	tonne	Nf
+2877	медве'дь	bear	Nm
+2878	платфо'рма	platform	Nf
+2879	са'хар	sugar	Nm
+2880	эволю'ция	evolution	Nf
+2881	пусты'ня	desert	Nf
+2882	оригина'льный	original	A
+2883	ме'бель	furniture	Nf
+2884	оби'да	offence	Nf
+2885	горизо'нт	horizon	Nm
+2886	сочета'ние	combination	Nn
+2887	арти'ст	artist, actor	Nm
+2888	ча'шка	cup	Nf
+2889	съезд	congress	Nm
+2890	принц	prince	Nm
+2891	спра'вка	certificate, statement, inquiry	Nf
+2892	приобрете'ние	acquisition, purchase	Nn
+2893	гра'фик	schedule, diagram, graph	Nm
+2894	профессиона'л	professional	Nm
+2895	фило'соф	philosopher	Nm
+2896	гнев	anger	Nm
+2897	захоте'ться	feel like	V
+2898	ве'тка	branch	Nf
+2899	отстава'ть	be behind	V
+2900	сла'бость	weakness	Nf
+2901	почто'вый	postal	A
+2902	целико'м	entirely	Adv
+2903	де'душка	grandfather	Nm
+2904	кре'пость	fortress, strength	Nf
+2905	церко'вный	church	A
+2906	опро'с	survey, poll	Nm
+2907	сла'дкий	sweet	A
+2908	консульта'нт	consultant	Nm
+2909	незави'симость	independence	Nf
+2910	вылета'ть	depart, fly out	V
+2911	свеча'	candle	Nf
+2912	катало'г	catalogue	Nm
+2913	доли'на	valley	Nf
+2914	ствол	trunk	Nm
+2915	невероя'тный	unbelievable	A
+2916	зако'нный	legitimate	A
+2917	целова'ть	kiss	V
+2918	колле'кция	collection	Nf
+2919	забо'р	fence, intake	Nm
+2920	отча'яние	despair	Nn
+2921	мгнове'нно	instantly	Adv
+2922	пуга'ть	scare	V
+2923	благода'рность	thanks, gratitude	Nf
+2924	испуга'ться	get scared	V
+2925	уси'ливать	strengthen, increase	V
+2926	суро'вый	severe	A
+2927	обыкнове'нный	ordinary	A
+2928	награ'да	award	Nf
+2929	я'рко	brightly	Adv
+2930	проти'вный	nasty	A
+2931	пресле'довать	pursue, persecute	V
+2932	взаи'мный	mutual	A
+2933	типи'чный	typical	A
+2934	отрыва'ть	tear off, disturb, distract	V
+2935	фо'то	photo	Nn
+2936	установле'ние	establishment	Nn
+2937	оппози'ция	opposition	Nf
+2938	немно'жко	little	Adv
+2939	гра'дус	degree	Nm
+2940	демонстри'ровать	demonstrate, show	V
+2941	таре'лка	plate, bowl	Nf
+2942	предположе'ние	assumption	Nn
+2943	ора'ть	bawl	V
+2944	ступе'нь	step, stage	Nf
+2945	молоде'ц	well done, great	Nm
+2946	хране'ние	storage, safekeeping	Nn
+2947	грози'ть	threaten	V
+2948	изда'тельство	publishing house	Nn
+2949	цифрово'й	digital	A
+2950	экземпля'р	copy	Nm
+2951	благоро'дный	noble	A
+2952	неуда'ча	failure	Nf
+2953	слома'ть	break	V
+2954	муниципа'льный	municipal	A
+2955	исто'рик	historian	Nm
+2956	мра'чный	miserable	A
+2957	те'сный	cramped, narrow, tight-fitting	A
+2958	ядро'	centre, core	Nn
+2959	пре'док	ancestor	Nm
+2960	медици'на	medicine	Nf
+2961	му'дрость	wisdom	Nf
+2962	тяну'ться	stretch	V
+2963	сокраща'ть	reduce	V
+2964	виртуа'льный	virtual	A
+2965	россия'нин	Russian	Nm
+2966	сок	juice	Nm
+2967	течь	flow, leak	V
+2968	престу'пник	criminal	Nm
+2969	волнова'ть	agitate	V
+2970	расположе'ние	location, mood	Nn
+2971	сере'бряный	silver	A
+2972	ба'зовый	basic	A
+2973	гро'мкий	loud	A
+2974	слова'рь	dictionary	Nm
+2975	ра'на	wound	Nf
+2976	класть	put	V
+2977	гига'нтский	gigantic	A
+2978	электри'ческий	electric	A
+2979	дурно'й	stupid, bad	A
+2980	избира'тельный	electoral	A
+2981	ка'федра	department	Nf
+2982	блю'до	dish	Nn
+2983	зака'зчик	customer	Nm
+2984	посо'л	ambassador	Nm
+2985	мышь	mouse	Nf
+2986	вре'дный	harmful, evil	A
+2987	стари'нный	ancient, old	A
+2988	верёвка	rope, line	Nf
+2989	по'за	pose	Nf
+2990	волне'ние	excitement	Nn
+2991	ла'па	paw	Nf
+2992	глухо'й	deaf	N-
+2993	руководи'ть	direct, be in charge	V
+2994	тётя	aunt	Nf
+2995	нра'вственный	moral	A
+2996	размышле'ние	thought	Nn
+2997	аккура'тно	carefully	Adv
+2998	психи'ческий	psychic, mental	A
+2999	беспоко'иться	worry	V
+3000	математи'ческий	mathematical	A
+3001	мука'	flour	Nf
+3001	му'ка	torment	Nf
+3002	закрытый	closed	A
+3003	сро'чный	urgent	A
+3004	архитекту'ра	architecture	Nf
+3005	пры'гать	jump	V
+3006	обы'чай	custom	Nm
+3007	шко'льник	pupil	Nm
+3008	всле'дствие	as a result of, due to	Prep
+3009	хими'ческий	chemical	A
+3010	ветера'н	veteran	Nm
+3011	ла'мпа	lamp	Nf
+3012	автомати'чески	automatically	Adv
+3013	технологи'ческий	technological	A
+3014	лице'нзия	licence	Nf
+3015	жило'й	residential	A
+3016	ошиба'ться	make a mistake	V
+3017	мате'рия	matter, fabric	Nf
+3018	прогу'лка	walk	Nf
+3019	разры'в	gap	Nm
+3020	пустота'	emptiness, space	Nf
+3021	ужа'сно	terribly, really	Adv
+3022	короле'вский	royal	A
+3023	рискова'ть	risk	V
+3024	образова'тельный	educational	A
+3025	заме'на	replacement	Nf
+3026	трениро'вка	training	Nf
+3027	рассужда'ть	argue, talk	V
+3028	ежедне'вный	daily	A
+3029	мо'лодость	youth	Nf
+3030	ю'мор	humour	Nm
+3031	А'фрика	Africa	Nf
+3032	мя'гко	softly, gently	Adv
+3033	страхово'й	insurance	A
+3034	твёрдо	firm(ly), stern(ly)	Adv
+3035	комменти'ровать	comment	V
+3036	боже'ственный	divine	A
+3037	усто'йчивый	solid	A
+3038	пригово'р	verdict	Nm
+3039	пострада'ть	suffer, to be injured	V
+3040	алкого'ль	alcohol	Nm
+3041	диза'йн	design	Nm
+3042	рассле'дование	investigation	Nn
+3043	просмо'тр	viewing	Nm
+3044	уничтоже'ние	destruction	Nn
+3045	спа'льня	bedroom	Nf
+3046	располага'ться	be (situated), make  oneself comfortable	V
+3047	белору'сский	Belarusian	A
+3048	попра'вка	correction	Nf
+3049	про'за	prose	Nf
+3050	поста'вка	delivery, supply	Nf
+3051	сканда'л	scandal	Nm
+3052	соотноше'ние	ratio	Nn
+3053	краси'во	beautifully, nicely	Adv
+3054	ад	hell	Nm
+3055	логи'ческий	logical	A
+3056	совпада'ть	coincide, concur	V
+3057	нарисова'ть	draw	V
+3058	одея'ло	blanket	Nn
+3059	сумасше'дший	crazy	N-
+3060	иссле'довать	research, explore, study	V
+3061	мы'шца	muscle	Nf
+3062	изобража'ть	represent, show	V
+3063	укрепле'ние	strengthening	Nn
+3064	поцелова'ть	kiss	V
+3065	учёба	studies	Nf
+3066	соверше'нный	advanced	A
+3067	у'тренний	morning	A
+3068	актуа'льный	of current interest, urgent	A
+3069	всеми'рный	worldwide	A
+3070	фа'брика	factory	Nf
+3071	пеще'ра	cave	Nf
+3072	тала'нтливый	talented	A
+3073	монито'р	monitor	Nm
+3074	энергети'ческий	power	A
+3075	цветно'й	colour(ed)	A
+3076	матч	match	Nm
+3077	кида'ть	throw	V
+3078	поду'шка	pillow	Nf
+3079	вы'ше	higher	Adv
+3080	препя'тствие	obstacle	Nn
+3081	фона'рь	(street) light, black eye (slang)	Nm
+3082	лифт	lift	Nm
+3083	угова'ривать	persuade	V
+3084	регуля'рно	regularly	Adv
+3085	ука'занный	indicated	A
+3086	департа'мент	department	Nm
+3087	дли'ться	last	V
+3088	подтвержде'ние	confirmation	Nn
+3089	батаре'я	radiator, battery	Nf
+3090	ба'нковский	bank	A
+3091	волше'бный	magic	A
+3092	седьмо'й	seventh	Num
+3093	се'рвис	service	Nm
+3094	производи'ться	be produced, be  manufactured	V
+3095	флаг	flag	Nm
+3096	посо'бие	benefit, aid, textbook	Nn
+3097	приключе'ние	adventure	Nn
+3098	запира'ть	lock	V
+3099	коммунисти'ческий	communist	A
+3100	му'дрый	wise	A
+3101	бле'дный	pale	A
+3102	доро'жка	road, path, way	Nf
+3103	норма'льно	it is normal	Adv
+3104	гаранти'ровать	ensure, guarantee	V
+3105	неприя'тность	trouble	Nf
+3106	внук	grandson	Nm
+3107	посла'ние	message	Nn
+3108	рассве'т	dawn	Nm
+3109	пляж	beach	Nm
+3110	че'тверть	quarter	Nf
+3111	вор	thief	Nm
+3112	хозя'йственный	household	A
+3113	благода'рный	grateful	A
+3114	недалеко'	near	Adv
+3115	мо'дный	fashionable	A
+3116	игрово'й	playing, game	A
+3117	горди'ться	be proud	V
+3118	спаса'ть	rescue	V
+3119	железнодоро'жный	railway	A
+3120	любопы'тство	curiosity	Nn
+3121	кни'жный	book	A
+3122	эли'та	elite	Nf
+3123	предполага'ться	be supposed	V
+3124	води'ть	drive, take	V
+3125	оформле'ние	execution, design, processing	Nn
+3126	по'двиг	feat	Nm
+3127	ритм	rhythm	Nm
+3128	заверше'ние	completion, finishing	Nn
+3129	голосова'ние	voting, ballot	Nn
+3130	о'тзыв	reference, feedback	Nm
+3131	нерв	nerve	Nm
+3132	пило'т	pilot	Nm
+3133	иллю'зия	illusion	Nf
+3134	ра'достный	happy	A
+3135	христиани'н	Christian	Nm
+3136	акаде'мик	academician	Nm
+3137	выходно'й	day off, weekend	N-
+3138	неви'димый	invisible	A
+3139	тра'сса	track	Nf
+3140	ге'ний	genius	Nm
+3141	сплошно'й	continuous	A
+3142	сты'дно	shameful	Adv
+3143	здо'рово	great, quite	Adv
+3144	социалисти'ческий	socialist	A
+3145	угрожа'ть	threaten	V
+3146	наибо'льший	most	A
+3147	ры'жий	ginger	A
+3148	ограни'ченный	restricted	A
+3149	тя'жесть	weight	Nf
+3150	бытово'й	everyday, household	A
+3151	ра'звитый	developed	A
+3152	запре'т	ban	Nm
+3153	уголо'к	corner	Nm
+3154	тре'нер	coach (sport)	Nm
+3155	вы'года	benefit	Nf
+3156	рок	fate, rock	Nm
+3157	лечи'ть	treat	V
+3158	москви'ч	Muscovite	Nm
+3159	переры'в	break	Nm
+3160	бассе'йн	pool	Nm
+3161	напеча'тать	print, publish, type	V
+3162	употребле'ние	use, application	Nn
+3163	круго'м	around	Adv
+3164	гроб	coffin	Nm
+3165	мэр	mayor	Nm
+3166	врать	lie	V
+3167	каби'на	cabin, cockpit	Nf
+3168	зая'вка	application	Nf
+3169	кри'тик	critic	Nm
+3170	проговори'ть	utter, spend time talking	V
+3171	ку'ртка	jacket	Nf
+3172	служе'бный	official	A
+3173	внедре'ние	implementation	Nn
+3174	бельё	linen, underwear	Nn
+3175	носи'тель	carrier, digital media, native  speaker	Nm
+3176	систе'мный	system	A
+3177	обще'ственность	public, community	Nf
+3178	милиционе'р	police officer	Nm
+3179	чи'сленность	quantity, number	Nf
+3180	валю'та	currency	Nf
+3181	кла'дбище	cemetery	Nn
+3182	дёшево	cheap	Adv
+3183	улучша'ть	improve	V
+3184	бюдже'тный	budgetary, state-financed	A
+3185	ико'на	icon	Nf
+3186	вчера'шний	yesterday	A
+3187	ро'вный	even, stable	A
+3188	после'довательность	sequence, order	Nf
+3189	полице'йский	policeman	N-
+3190	шути'ть	joke	V
+3191	проте'ст	protest	Nm
+3192	боти'нок	shoe	Nm
+3193	уменьша'ть	reduce	V
+3194	храни'ться	be stored, be kept	V
+3195	две'сти	two hundred	Num
+3196	показа'ние	indication, evidence	Nn
+3197	уноси'ть	take away, carry away	V
+3198	пове'сить	hang	V
+3199	специа'льность	profession	Nf
+3200	поса'дка	planting, landing	Nf
+3201	холоди'льник	refrigerator	Nm
+3202	шо'у	show	Nn
+3203	тро'гать	touch	V
+3204	копе'йка	kopeck	Nf
+3205	повы'шенный	increased	A
+3206	стих	poetry, verse	Nm
+3207	голо'дный	hungry	N-
+3208	закрыва'ться	close	V
+3209	отча'сти	partly	Adv
+3210	террори'ст	terrorist	Nm
+3211	учи'лище	training school, institute	Nn
+3212	любопы'тный	curious	A
+3213	инвали'д	disabled	Nm
+3214	подря'д	in a row	Adv
+3215	чемода'н	suitcase	Nm
+3216	приглаше'ние	invitation	Nn
+3217	ро'ды	childbirth	N-
+3218	пес	dog	Nm
+3219	младе'нец	baby	Nm
+3220	вслух	aloud	Adv
+3221	подозре'ние	suspicion	Nn
+3222	употребля'ть	use	V
+3223	соблюда'ть	obey	V
+3224	распространя'ться	spread, be   extended	V
+3225	подъезжа'ть	drive up	V
+3226	размышля'ть	reflect, think	V
+3227	универса'льный	universal	A
+3228	фрагме'нт	fragment, small part	Nm
+3229	постано'вка	production, statement,  formulation	Nf
+3230	цени'ть	appreciate, value	V
+3231	дыра'	hole	Nf
+3232	сраже'ние	battle	Nn
+3233	бала'нс	balance	Nm
+3234	уве'ренно	confidently	Adv
+3235	мо'рда	snout	Nf
+3236	ло'жный	false	A
+3237	подва'л	basement, cellar	Nm
+3238	привлека'тельный	attractive	A
+3239	ви'за	visa	Nf
+3240	за'нятый	busy	A
+3241	э'хо	echo	Nn
+3242	торгова'ть	trade, sell	V
+3243	социали'зм	socialism	Nm
+3244	хор	choir	Nm
+3245	рука'в	sleeve	Nm
+3246	а'томный	atomic	A
+3247	разруше'ние	destruction	Nn
+3248	настава'ть	come	V
+3249	столо'вая	canteen, dining room	Nf
+3250	верх	top	Nm
+3251	шеф	boss	Nm
+3252	посеще'ние	visit, attendance	Nn
+3253	симпати'чный	attractive, nice	A
+3254	выдаю'щийся	outstanding, eminent	A
+3255	па'лка	stick	Nf
+3256	плита'	stove, plate	Nf
+3257	продава'ться	be on sale	V
+3258	бровь	eyebrow	Nf
+3259	атакова'ть	attack	V
+3260	рай	heaven	Nm
+3261	перево'дчик	translator	Nm
+3262	равнове'сие	balance	Nn
+3263	сле'дователь	investigator	Nm
+3264	обеща'ние	promise	Nn
+3265	секре'тный	secret	A
+3266	посо'льство	embassy	Nn
+3267	бесполе'зный	useless	A
+3268	прие'зд	arrival	Nm
+3269	быт	daily routine	Nm
+3270	мастерска'я	workshop, repair shop	Nf
+3271	прохо'д	passage	Nm
+3272	подво'дный	underwater	A
+3273	уча'щийся	student	Nm
+3274	па'чка	packet, wad	Nf
+3275	плани'рование	planning	Nn
+3276	беспоко'ить	bother, concern	V
+3277	Би'блия	Bible	Nf
+3278	бизнесме'н	businessman	Nm
+3279	части'чно	partially	Adv
+3280	настро'йка	setting	Nf
+3281	ветвь	branch	Nf
+3282	неоднокра'тно	repeatedly,   several times	Adv
+3283	производи'тельность	productivity	Nf
+3284	догоня'ть	chase, catch up	V
+3285	жу'ткий	terrible, spooky	A
+3286	грамм	gram	Nm
+3287	ничего'	nothing	Adv
+3288	такси'	taxi	Nn
+3289	треть	third	Nf
+3290	райо'нный	district	A
+3291	приве'тствовать	greet, welcome	V
+3292	приде'рживаться	hold to, stick to	V
+3293	засмея'ться	laugh	V
+3294	плато'к	shawl	Nm
+3295	улета'ть	fly away, leave	V
+3296	кита'ец	Chinese man	Nm
+3297	рак	crawfish, cancer	Nm
+3298	вра'жеский	enemy	A
+3299	программи'ст	programmer	Nm
+3300	таи'нственный	mysterious	A
+3301	охра'нник	guard	Nm
+3302	коллекти'вный	collective, team	A
+3303	футбо'л	football	Nm
+3304	соль	salt	Nf
+3305	вступле'ние	introduction, entry	Nn
+3306	биологи'ческий	biological	A
+3307	труди'ться	work	V
+3308	ма'ксимум	maximum, the most	Nm
+3309	поро'да	breed	Nf
+3310	прекраща'ться	stop, expire	V
+3311	отреза'ть	cut	V
+3312	гру'стный	sad	A
+3313	либера'льный	liberal	A
+3314	шоссе'	motorway	Nn
+3315	происше'ствие	incident	Nn
+3316	чистота'	cleanliness, purity	Nf
+3317	стуча'ть	hit, knock, snitch (slang)	V
+3318	ку'рица	chicken	Nf
+3319	бума'жный	paper	A
+3320	но'жка	leg, foot	Nf
+3321	подлежа'ть	be subject	V
+3322	вы'плата	payment	Nf
+3323	я'ма	pit	Nf
+3324	плен	captivity	Nm
+3325	сни'мок	picture	Nm
+3326	соблюде'ние	compliance	Nn
+3327	рожда'ться	be born	V
+3328	ло'жка	spoon	Nf
+3329	идио'т	idiot	Nm
+3330	е'ле	hardly	Adv
+3331	то'пливо	fuel	Nn
+3332	ковёр	carpet, rug	Nm
+3333	грома'дный	huge	A
+3334	консульта'ция	consultation	Nf
+3335	увели'чиваться	increase	V
+3336	фина'л	end, final	Nm
+3337	бессмы'сленный	senseless	A
+3338	заме'тка	note, newspaper article	Nf
+3339	галере'я	gallery	Nf
+3340	по-друго'му	in a different way, differently	P
+3341	счесть	consider	V
+3342	сре'днее	average	Nn
+3343	избира'тель	elector	Nm
+3344	лете'ть	fly	V
+3345	несча'стье	misfortune	Nn
+3346	голосова'ть	vote	V
+3347	жени'х	bridegroom, fiancé	Nm
+3348	слы'шно	possible to hear, audibly	Adv
+3349	ви'рус	virus	Nm
+3350	моне'та	coin	Nf
+3351	бу'рный	stormy	A
+3352	пло'тный	thick	A
+3353	фундамента'льный	fundamental	A
+3354	жи'дкость	liquid	Nf
+3355	автомати'ческий	automatic	A
+3356	специфи'ческий	specific	A
+3357	фина'нсы	finances	N-
+3358	мыть	wash	V
+3359	повлия'ть	influence, affect	V
+3360	зага'дка	mystery, riddle	Nf
+3361	заба'вный	funny	A
+3362	охраня'ть	guard	V
+3363	ма'гия	magic	Nf
+3364	исполни'тель	performer, executor	Nm
+3365	обши'рный	extensive	A
+3366	прое'хать	drive, get to	V
+3367	наслажда'ться	enjoy	V
+3368	смешно'	funny	Adv
+3369	автомоби'льный	car	A
+3370	юри'ст	lawyer	Nm
+3371	пропага'нда	propaganda	Nf
+3372	аре'ст	arrest	Nm
+3373	терпе'ние	patience	Nn
+3374	мора'ль	morality	Nf
+3375	дипло'м	diploma, degree	Nm
+3376	цепо'чка	chain	Nf
+3377	посторо'нний	strange, outside	A
+3378	му'сор	rubbish	Nm
+3379	разделе'ние	division	Nn
+3380	ша'пка	cap, hat	Nf
+3381	ро'бот	robot	Nm
+3382	нефтяно'й	oil	A
+3383	открове'нный	frank	A
+3384	отбо'р	selection	Nm
+3385	тари'ф	rate, price	Nm
+3386	уста'лость	tiredness	Nf
+3387	борода'	beard	Nf
+3388	стару'шка	old woman	Nf
+3389	защи'тник	defender	Nm
+3390	полюби'ть	fall in love	V
+3391	педаго'г	teacher	Nm
+3392	выделя'ться	stand out	V
+3393	и'скренний	sincere	A
+3394	части'ца	particle	Nf
+3395	сво'йственный	typical, common,  appropriate	A
+3396	строи'тельный	construction	A
+3397	звено'	link	Nn
+3398	продемонстри'ровать	demonstrate,   show	V
+3399	форма'льный	formal	A
+3400	чуть-чу'ть	a little	Adv
+3401	испо'ртить	spoil, ruin	V
+3402	наслажде'ние	enjoyment	Nn
+3403	пря'таться	hide	V
+3404	худо'й	thin	A
+3405	шок	shock	Nm
+3406	банди'т	bandit	Nm
+3407	бли'зость	closeness	Nf
+3408	гости'ная	living room	Nf
+3409	ту'ча	cloud	Nf
+3410	популя'рность	popularity	Nf
+3411	тур	round	Nm
+3412	формирова'ться	be formed	V
+3413	балко'н	balcony	Nm
+3414	ви'деться	see	V
+3415	бесе'довать	talk	V
+3416	гита'ра	guitar	Nf
+3417	ло'коть	elbow	Nm
+3418	объясня'ться	explain	V
+3419	позити'вный	positive	A
+3420	ми'нус	minus	Nm
+3421	споко'йствие	calm	Nn
+3422	зажига'ть	light	V
+3423	проще'ние	forgiveness	Nn
+3424	выпускни'к	graduate	Nm
+3425	обвиня'ть	accuse	V
+3426	поцелу'й	kiss	Nm
+3427	чемпиона'т	championship	Nm
+3428	щит	shield	Nm
+3429	действи'тельный	real, valid	A
+3430	напряжённый	intensive, tense	A
+3431	приз	prize	Nm
+3432	отте'нок	shade	Nm
+3433	со'бственник	owner	Nm
+3434	доста'вка	delivery	Nf
+3435	поступле'ние	receipt, enrolment	Nn
+3436	регули'рование	regulation	Nn
+3437	гипо'теза	hypothesis	Nf
+3438	отъе'зд	departure	Nm
+3439	коло'ния	colony	Nf
+3440	кома'ндовать	command, be in charge	V
+3441	пожале'ть	feel sorry	V
+3442	размеще'ние	placement, deployment	Nn
+3443	театра'льный	theatrical	A
+3444	ра'нить	wound	V
+3445	ви'део	video	Nn
+3446	страхова'ние	insurance	Nn
+3447	развлече'ние	entertainment	Nn
+3448	ю'ность	youth	Nf
+3449	пот	sweat	Nm
+3450	надо'лго	for a long time	Adv
+3451	посу'да	dishes	Nf
+3452	принципиа'льный	of principle,  fundamental	A
+3453	фаши'ст	fascist	Nm
+3454	ва'нная	bathroom	Nf
+3455	стре'лка	arrow, hand (of clock)	Nf
+3456	проспе'кт	avenue	Nm
+3457	турни'р	tournament	Nm
+3458	иск	lawsuit	Nm
+3459	звёздный	star	A
+3460	крова'вый	bloody	A
+3461	отрица'ть	deny	V
+3462	фа'за	phase	Nf
+3463	сорт	grade, type, quality	Nm
+3464	воспринима'ться	be perceived	V
+3465	грузови'к	lorry	Nm
+3466	дина'мика	dynamics	Nf
+3467	предлага'ться	be offered	V
+3468	темно'	dark	Adv
+3469	мы'слить	think	V
+3470	па'пка	folder, file	Nf
+3471	по'лдень	noon	Nm
+3472	духи'	perfume	N-
+3473	го'рький	bitter	A
+3474	боло'то	swamp	Nn
+3475	ава'рия	accident	Nf
+3476	инсти'нкт	instinct	Nm
+3477	контро'льный	control, check	A
+3478	возглавля'ть	lead	V
+3479	маг	magician	Nm
+3480	стро'чка	line	Nf
+3481	кла'ссный	class, cool	A
+3482	желу'док	stomach	Nm
+3483	побере'жье	coast	Nn
+3484	япо'нец	Japanese	Nm
+3485	ра'са	race	Nf
+3486	чече'нский	Chechen	A
+3487	нуль	null, zero	Nm
+3488	кры'шка	cover, lid	Nf
+3489	стекля'нный	glass	A
+3490	те'зис	thesis, point	Nm
+3491	недви'жимость	real estate, property 	Nf
+3492	ведро'	bucket	Nn
+3493	интелле'кт	intelligence	Nm
+3494	плащ	raincoat	Nm
+3495	принадле'жность	accessory	Nf
+3496	возраста'ть	increase	V
+3497	христиа'нство	Christianity	Nn
+3498	мо'лния	lightning	Nf
+3499	ва'жность	importance	Nf
+3500	заболе'ть	fall ill	V
+3501	компенса'ция	compensation	Nf
+3502	наблюда'тель	observer	Nm
+3503	облегче'ние	relief	Nn
+3504	табле'тка	tablet	Nf
+3505	сме'лый	brave	A
+3506	педагоги'ческий	pedagogical	A
+3507	беспоко'йство	concern	Nn
+3508	изготовле'ние	production	Nn
+3509	взлета'ть	take off, fly out	V
+3510	поставщи'к	supplier	Nm
+3511	меню'	menu	Nn
+3512	моря'к	sailor	Nm
+3513	доро'жный	road, traffic	A
+3514	что-ли'бо	anything, something	P
+3515	платёж	payment	Nm
+3516	плани'роваться	be planned	V
+3517	акце'нт	accent, emphasis	Nm
+3518	мощь	power	Nf
+3519	супру'га	spouse (female), wife	Nf
+3520	велича'йший	greatest	A
+3521	замолча'ть	fall silent	V
+3522	одина'ково	equally	Adv
+3523	меда'ль	medal	Nf
+3524	брю'ки	trousers	N-
+3525	ви'димость	visibility, illusion	Nf
+3526	поэти'ческий	poetic	A
+3527	прави'тельственный	government(al)	A
+3528	торже'ственный	ceremonial	A
+3529	ружьё	gun	Nn
+3530	дья'вол	devil	Nm
+3531	блеск	shine	Nm
+3532	лома'ть	break	V
+3533	приблизи'тельно	approximately,  roughly	Adv
+3534	хала'т	bathrobe	Nm
+3535	примеча'ние	note	Nn
+3536	недово'льный	displeased, malcontent	A
+3537	ара'бский	Arabic	A
+3538	оптима'льный	optimal	A
+3539	казнь	execution	Nf
+3540	пальто'	coat	Nn
+3541	капитали'зм	capitalism	Nm
+3542	безопа'сный	safe	A
+3543	драгоце'нный	precious	A
+3544	разво'д	divorce	Nm
+3545	сни'зу	from below, from the bottom	Adv
+3546	колеба'ние	fluctuation	Nn
+3547	дели'ть	divide, share	V
+3548	кры'са	rat	Nf
+3549	могу'чий	powerful, strong	A
+3550	обсужда'ться	be discussed	V
+3551	разбуди'ть	wake	V
+3552	жара'	heat	Nf
+3553	предупрежде'ние	warning, prevention	Nn
+3554	весе'нний	spring	A
+3555	ледяно'й	ice	A
+3556	фантасти'ческий	fantastic	A
+3557	велосипе'д	bicycle	Nm
+3558	ООН	UN, United Nations	Nf
+3559	реце'пт	recipe, prescription	Nm
+3560	мело'дия	melody, song	Nf
+3561	карто'шка	potato	Nf
+3562	седо'й	grey	A
+3563	студе'нческий	student	A
+3564	вку'сный	tasty	A
+3565	смесь	mixture	Nf
+3566	полно'	full	Adv
+3567	шестьдеся'т	sixty	Num
+3568	му'ха	fly	Nf
+3569	вне'шность	appearance	Nf
+3570	мастерство'	skill	Nn
+3571	пешко'м	on foot	Adv
+3572	идеологи'ческий	ideological	A
+3573	персона'льный	personal	A
+3574	столкнове'ние	collision	Nn
+3575	раздража'ть	irritate, annoy	V
+3576	радиоста'нция	radio station	Nf
+3577	формирова'ть	form	V
+3578	му'чить	torment	V
+3579	испа'нский	Spanish	A
+3580	сни'ться	dream	V
+3581	дополне'ние	accessory	Nn
+3582	бюро'	office	Nn
+3583	проше'дший	past	A
+3584	реши'тельный	resolute	A
+3585	нару'жу	out	Adv
+3586	вмеша'тельство	intervention, interfering 	Nn
+3587	здравоохране'ние	public health service	Nn
+3588	обра'доваться	rejoice, be happy	V
+3589	приорите'т	priority	Nm
+3590	дневно'й	day	A
+3591	лу'нный	lunar, moonlit 	A
+3592	о'бувь	footware, shoes	Nf
+3593	стоя'нка	car park, stand	Nf
+3594	демонстра'ция	demonstration, showing	Nf
+3595	где-нибу'дь	somewhere, anywhere	P
+3596	вре'менный	temporary	A
+3597	гармо'ния	harmony	Nf
+3598	слепо'й	blind	N-
+3599	повседне'вный	everyday	A
+3600	ориента'ция	orientation	Nf
+3601	подверга'ться	undergo, be subjected	V
+3602	го'нка	race	Nf
+3603	ток	electric current	Nm
+3604	элемента'рный	elementary	A
+3605	анализи'ровать	analyse	V
+3606	бензи'н	petrol	Nm
+3607	зерно'	grain	Nn
+3608	группиро'вка	group	Nf
+3609	усиле'ние	strengthening, intensification,  increase	Nn
+3610	за'ново	again	Adv
+3611	дави'ть	press	V
+3612	претендова'ть	make a claim for, aspire	V
+3613	языково'й	language	A
+3614	пра'здничный	festive	A
+3615	креди'тный	credit	A
+3616	интерфе'йс	interface	Nm
+3617	мо'дуль	module	Nm
+3618	незначи'тельный	minor, slight	A
+3619	квалифика'ция	qualification	Nf
+3620	сыр	cheese	Nm
+3621	восьмо'й	eighth	Num
+3622	незако'нный	illegal	A
+3623	президе'нтский	presidential	A
+3624	обма'н	deception	Nm
+3625	сне'жный	snow	A
+3626	национа'льность	nationality,   ethnicity	Nf
+3627	зре'лище	spectacle	Nn
+3628	гриб	mushroom	Nm
+3629	исключи'тельный	exceptional,   exclusive	A
+3630	ску'чный	boring	A
+3631	про'вод	wire, line	Nm
+3632	фрукт	fruit	Nm
+3633	нема'лый	considerable	A
+3634	неве'рный	wrong	A
+3635	слу'жащий	employee	Nm
+3636	штраф	fine	Nm
+3637	ба'ня	sauna	Nf
+3638	нену'жный	unnecessary	A
+3639	передово'й	innovative, advanced	A
+3640	пло'ский	flat	A
+3641	церемо'ния	ceremony	Nf
+3642	тупо'й	blunt, stupid	A
+3643	возбужде'ние	excitement	Nn
+3644	сове'тник	advisor	Nm
+3645	ступе'нька	step	Nf
+3646	оригина'л	original	Nm
+3647	жи'вопись	painting, art	Nf
+3648	бока'л	wine/champagne glass	Nm
+3649	нить	thread	Nf
+3650	предстоя'щий	forthcoming	A
+3651	балл	mark	Nm
+3652	ю'бка	skirt	Nf
+3653	сопе'рник	rival	Nm
+3654	конституцио'нный	constitutional	A
+3655	ху'дший	worst	A
+3656	инспе'ктор	inspector	Nm
+3657	сиде'нье	seat	Nn
+3658	вспы'шка	flash	Nf
+3659	стаби'льность	stability	Nf
+3660	дра'ться	fight	V
+3661	е'вро	Euro	Nn
+3662	альтернати'вный	alternative	A
+3663	отверну'ться	turn one’s back on	V
+3664	интерпрета'ция	interpretation	Nf
+3665	рациона'льный	rational	A
+3666	лати'нский	Latin	A
+3667	скоре'е	quicker, rather	Adv
+3668	функциона'льный	functional	A
+3669	свинья'	pig	Nf
+3670	желе'зо	iron	Nn
+3671	жела'ющий	anyone wishing	Nm
+3672	поменя'ть	change	V
+3673	ва'нна	bath	Nf
+3674	полго'да	half a year	N-
+3675	вдвоём	together, two	Adv
+3676	ста'рость	old age	Nf
+3677	постро'йка	building	Nf
+3678	разнообра'зие	diversity	Nn
+3679	внутрь	inside	Adv
+3680	ко'жаный	leather	A
+3681	кли'мат	climate	Nm
+3682	змея'	snake	Nf
+3683	отве'рстие	hole	Nn
+3684	администра'тор	manager,   administrator	Nm
+3685	целево'й	target	A
+3686	эксперти'за	examination	Nf
+3687	биогра'фия	biography	Nf
+3688	го'рдый	proud	A
+3689	строе'ние	structure, building	Nn
+3690	плёнка	film	Nf
+3691	ноутбу'к	laptop	Nm
+3692	поко'нчить	stop, put a stop to	V
+3693	молодёжный	youth	A
+3694	тра'вма	injury	Nf
+3695	выпи'сывать	prescribe, discharge, order,  copy out, subscribe	V
+3696	рюкза'к	rucksack	Nm
+3697	прислу'шиваться	listen	V
+3698	стреми'тельно	rapidly	Adv
+3699	тётка	aunt, woman (slang)	Nf
+3700	пото'мок	descendant	Nm
+3701	любо'вный	love	A
+3702	печа'тный	print	A
+3703	кру'жка	mug	Nf
+3704	при'ступ	attack	Nm
+3705	непреры'вный	continuous	A
+3706	бедро'	hip	Nn
+3707	гениа'льный	genial	A
+3708	э'кспорт	export	Nm
+3709	патро'н	cartridge	Nm
+3710	операцио'нный	operating	A
+3711	интеллиге'нция	intelligentsia	Nf
+3712	сда'ча	change, leasing	Nf
+3713	опо'ра	support	Nf
+3714	освеще'ние	illumination	Nn
+3715	вертолёт	helicopter	Nm
+3716	ду'ра	fool (female)	Nf
+3717	печа'тать	print, type, publish	V
+3718	пейза'ж	landscape	Nm
+3719	боеви'к	action film, terrorist	Nm
+3720	печа'ль	sadness	Nf
+3721	не'когда	no time	Adv
+3722	пиджа'к	jacket, coat	Nm
+3723	пане'ль	panel	Nf
+3724	хрен	horseradish, dick (slang)	Nm
+3725	космона'вт	astronaut	Nm
+3726	фаши'стский	fascist	A
+3727	жа'жда	thirst	Nf
+3728	ре'чка	small river	Nf
+3729	снару'жи	outside	Adv
+3730	совоку'пность	aggregate, total	Nf
+3731	диа'гноз	diagnosis	Nm
+3732	дра'ка	fight	Nf
+3733	земе'льный	land	A
+3734	иллюстра'ция	illustration	Nf
+3735	ка'ша	porridge	Nf
+3736	мы'сленно	mentally	Adv
+3737	вытека'ть	follow, leak	V
+3738	поры'в	fit	Nm
+3739	обновле'ние	update, review	Nn
+3740	кошма'р	nightmare	Nm
+3741	компози'ция	composition	Nf
+3742	лук	onion, bow	Nm
+3743	ча'стый	frequent	A
+3744	диапазо'н	range	Nm
+3745	слон	elephant	Nm
+3746	гуманита'рный	humanitarian	A
+3747	прое'зд	entry, passage, travel	Nm
+3748	торго'вец	trader, trafficker	Nm
+3749	хи'трый	sly	A
+3750	ежего'дный	annual	A
+3751	натура'льный	natural	A
+3752	со'товый	mobile	A
+3753	ку'кла	doll	Nf
+3754	чемпио'н	champion	Nm
+3755	выделе'ние	release, allotment	Nn
+3756	прыжо'к	jump	Nm
+3757	фунт	pound	Nm
+3758	у'голь	coal	Nm
+3759	листо'к	sheet, leaf	Nm
+3760	я'рость	rage	Nf
+3761	сверка'ть	glisten	V
+3762	мяч	ball	Nm
+3763	но'готь	nail	Nm
+3764	носо'к	sock	Nm
+3765	награжда'ть	award	V
+3766	ни'же	below, lower	Prep
+3767	жа'ркий	hot	A
+3768	дие'та	diet	Nf
+3769	периоди'чески	periodically, from time	Adv
+3770	за'работный	wage	A
+3771	совреме'нник	contemporary	Nm
+3772	поврежде'ние	damage	Nn
+3773	увольня'ть	sack	V
+3774	ве'на	vein	Nf
+3775	топо'р	axe	Nm
+3776	маги'ческий	magic	A
+3777	коммуни'зм	communism	Nm
+3778	подзе'мный	underground	A
+3779	конве'рт	envelope	Nm
+3780	ник	nickname, username	Nm
+3781	реме'нь	belt	Nm
+3782	за'яц	hare	Nm
+3783	стесня'ться	be shy, be embarrassed	V
+3784	любо'вник	lover	Nm
+3785	руга'ться	swear, argue	V
+3786	наилу'чший	best	A
+3787	каранда'ш	pencil	Nm
+3788	ус	moustache	Nm
+3789	разря'д	category, discharge	Nm
+3790	зафикси'ровать	record	V
+3791	изнутри'	from within	Adv
+3792	принце'сса	princess	Nf
+3793	ра'довать	cheer up	V
+3794	соли'дный	reputable	A
+3795	пар	steam	Nm
+3796	сосу'д	vessel	Nm
+3797	сырой	raw, damp	A
+3798	траги'ческий	tragic	A
+3799	и'ндекс	index, post code	Nm
+3800	самоуправле'ние	self-government	Nn
+3801	лу'жа	puddle	Nf
+3802	неподалёку	not far	Adv
+3803	чу'вствоваться	be felt, be sensed	V
+3804	пси'хика	mind	Nf
+3805	орёл	eagle	Nm
+3806	ре'плика	retort, line	Nf
+3807	свети'ть	shine	V
+3808	телегра'мма	telegram	Nf
+3809	се'ссия	session, examination period	Nf
+3810	пло'тно	tightly	Adv
+3811	у'мственный	mental	A
+3812	кинотеа'тр	cinema	Nm
+3813	компле'кт	set	Nm
+3814	те'сно	closely	Adv
+3815	учи'тельница	teacher	Nf
+3816	ве'чность	eternity	Nf
+3817	не'куда	nowhere	Adv
+3818	свети'ться	shine	V
+3819	тре'нинг	training	Nm
+3820	интегра'ция	integration	Nf
+3821	себе'	(to) oneself	Part
+3822	конья'к	cognac, brandy	Nm
+3823	наи'вный	naïve	A
+3824	рва'ться	tear, strive	V
+3825	зали'в	gulf, bay	Nm
+3826	отчётливо	distinctly	Adv
+3827	дефици'т	deficit	Nm
+3828	осе'нний	autumn	A
+3829	пенсионе'р	pensioner	Nm
+3830	крестья'нский	peasant	A
+3831	пожела'ние	wish	Nn
+3832	порта'л	portal	Nm
+3833	программи'рование	programming	Nn
+3834	сеа'нс	screening, show	Nm
+3835	ка'сса	cash desk	Nf
+3836	столи'чный	metropolitan, capital	A
+3837	скаме'йка	bench	Nf
+3838	пое'сть	eat	V
+3839	спортсме'н	athlete	Nm
+3840	телевизио'нный	television	A
+3841	че'тверо	four (people)	Num
+3842	годи'ться	be suitable	V
+3843	старт	start	Nm
+3844	изобрете'ние	invention	Nn
+3845	алгори'тм	algorithm	Nm
+3846	обуча'ть	teach, train	V
+3847	ката'ться	ride	V
+3848	относи'тельный	relative	A
+3849	сла'бо	weak(ly)	Adv
+3850	заключённый	prisoner	Nm
+3851	кирпи'ч	brick	Nm
+3852	стук	knock	Nm
+3853	работода'тель	employer	Nm
+3854	аре'нда	rent	Nf
+3855	ознако'миться	be familiar, know	V
+3856	невозмо'жность	impossibility	Nf
+3857	тропа'	path	Nf
+3858	во'дный	water	A
+3859	ЕС	EU	Nm
+3860	заты'лок	back of the head	Nm
+3861	организацио'нный	organizational	A
+3862	механи'ческий	mechanical	A
+3863	раздраже'ние	irritation	Nn
+3864	потяну'ться	stretch	V
+3865	календа'рь	calendar	Nm
+3866	подру'жка	friend (female)	Nf
+3867	гру'бо	harsh, roughly	Adv
+3868	ора'нжевый	orange	A
+3869	ширина'	width	Nf
+3870	зака'т	sunset	Nm
+3871	всю'ду	everywhere	P
+3872	торжество'	celebration, ceremony,  triumph	Nn
+3873	написа'ние	writing, spelling	Nn
+3874	оди'ннадцать	eleven	Num
+3875	модерниза'ция	modernization	Nf
+3876	инфраструкту'ра	infrastructure	Nf
+3877	перепи'ска	correspondence	Nf
+3878	ми'тинг	meeting	Nm
+3879	госпожа'	Mrs	Nf
+3880	самоуби'йство	suicide	Nn
+3881	гнездо'	nest	Nn
+3882	прибега'ть	run	V
+3883	созна'тельный	conscious	A
+3884	поэ'ма	poem	Nf
+3885	мы'ло	soap	Nn
+3886	ранг	rank	Nm
+3887	блин	pancake, damn	I
+3888	корру'пция	corruption	Nf
+3889	жир	fat	Nm
+3890	пожа'ловаться	complain	V
+3891	фи'нский	Finnish	A
+3892	га'зовый	gas	A
+3893	подборо'док	chin, beard	Nm
+3894	о'пера	opera	Nf
+3895	суп	soup	Nm
+3896	упо'рно	stubbornly	Adv
+3897	арома'т	smell, fragrance	Nm
+3898	деся'тый	tenth	Num
+3899	напра'во	to the right	Adv
+3900	по'лночь	midnight	Nf
+3901	разочарова'ние	disappointment	Nn
+3902	Госду'ма	State Duma	Nf
+3903	бере'менный	pregnant	A
+3904	сосе'дка	neighbour	Nf
+3905	гражда'нство	citizenship	Nn
+3906	про'чный	firm	A
+3907	три'ста	three hundred	Num
+3908	огонёк	flame	Nm
+3909	общежи'тие	hostel	Nn
+3910	фильтр	filter	Nm
+3911	бу'ря	storm	Nf
+3912	ерунда'	nonsense	Nf
+3913	му'жество	courage, bravery	Nn
+3914	печь	oven	Nf
+3915	ре'зать	cut, chop	V
+3916	анали'тик	analyst	Nm
+3917	фи'зик	physicist	Nm
+3918	паро'ль	password	Nm
+3919	шофёр	driver	Nm
+3920	до'лжный	due, proper	A
+3921	жи'рный	fatty	A
+3922	паралле'льный	parallel	A
+3923	провожа'ть	accompany	V
+3924	заде'ржка	delay	Nf
+3925	сопротивля'ться	resist	V
+3926	физи'чески	physically	Adv
+3927	инфля'ция	inflation	Nf
+3928	тамо'женный	customs	A
+3929	гла'дкий	smooth	A
+3930	недо'лго	not long	Adv
+3931	регуля'рный	regular	A
+3932	това'рный	trade	A
+3933	экску'рсия	excursion	Nf
+3934	по-ра'зному	differently	Adv
+3935	усло'вный	conditional, suspended	A
+3936	депре'ссия	depression	Nf
+3937	заку'ривать	light up (cigarette)	V
+3938	стро'йный	slim	A
+3939	украше'ние	jewellery, decoration	Nn
+3940	при'зрак	ghost	Nm
+3941	публикова'ть	publish	V
+3942	продолжи'тельность	duration	Nf
+3943	о'вощ	vegetable	Nm
+3944	сновиде'ние	dream	Nn
+3945	сериа'л	serial, soap opera	Nm
+3946	уменьше'ние	decrease	Nn
+3947	отража'ться	be reflected	V
+3948	болта'ть	dangle, chat	V
+3949	одева'ться	dress	V
+3950	переу'лок	alley	Nm
+3951	симпто'м	symptom	Nm
+3952	прожива'ние	residence	Nn
+3953	фо'кус	trick, focus	Nm
+3954	мы'шка	mouse	Nf
+3955	бо'чка	barrel, cask	Nf
+3956	боле'зненный	painful	A
+3957	барье'р	barrier	Nm
+3958	увлече'ние	passion, hobby	Nn
+3959	обсле'дование	examination	Nn
+3960	пло'скость	plane	Nf
+3961	террори'зм	terrorism	Nm
+3962	диста'нция	distance	Nf
+3963	регули'ровать	regulate, adjust	V
+3964	прохо'жий	passer-by	N-
+3965	отвози'ть	take	V
+3966	позади'	behind	Adv
+3967	ура'	hooray	I
+3968	ви'димый	visible	A
+3969	роско'шный	luxurious	A
+3970	делега'ция	delegation	Nf
+3971	за'висть	envy	Nf
+3972	выки'дывать	throw away	V
+3973	трамва'й	tram	Nm
+3974	комбина'ция	combination	Nf
+3975	решётка	bars, lattice	Nf
+3976	скуча'ть	miss, be bored	V
+3977	дереве'нский	rural	A
+3978	коме'дия	comedy	Nf
+3979	стаби'льный	stable	A
+3980	мёд	honey	Nm
+3981	энерге'тика	power industry, energy	Nf
+3982	функциони'рование	functioning	Nn
+3983	руга'ть	scold	V
+3984	шампа'нское	champagne	Nn
+3985	экономи'ст	economist	Nm
+3986	специализи'рованный	specialized	A
+3987	ТВ	TV	Nn
+3988	жена'тый	married	A
+3989	заголо'вок	title	Nm
+3990	руче'й	stream	Nm
+3991	выполня'ться	be performed, be executed,  be fulfilled	V
+3992	тести'рование	testing	Nn
+3993	престу'пный	criminal	A
+3994	гара'ж	garage	Nm
+3995	ру'брика	heading, section	Nf
+3996	дра'ма	drama	Nf
+3997	включе'ние	inclusion, turning on	Nn
+3998	концентра'ция	concentration	Nf
+3999	актри'са	actress	Nf
+4000	командиро'вка	business trip	Nf
+4001	стально'й	steel	A
+4002	ось	axis	Nf
+4003	грек	Greek	Nm
+4004	звуково'й	audio	A
+4005	пре'лесть	charm	Nf
+4006	ограни'чивать	restrict	V
+4007	простота'	simplicity	Nf
+4008	рог	horn	Nm
+4009	нале'во	to the left	Adv
+4010	ген	gene	Nm
+4011	герои'ня	heroine	Nf
+4012	новичо'к	newcomer	Nm
+4013	кори'чневый	brown	A
+4014	годово'й	year, year’s	A
+4015	ко'мплексный	complex, integrated,   set (meal)	A
+4016	возвра'т	return	Nm
+4017	парла'ментский	parliamentary	A
+4018	арме'йский	army	A
+4019	ликвида'ция	liquidation, elimination	Nf
+4020	неизме'нный	invariable, constant	A
+4021	винто'вка	rifle	Nf
+4022	исла'м	Islam	Nm
+4023	абстра'ктный	abstract	A
+4024	упако'вка	packing, package	Nf
+4025	родны'е	family	N-
+4026	сюрпри'з	surprise	Nm
+4027	перево'зка	transportation	Nf
+4028	щель	chink, crack	Nf
+4029	неуда'чный	unsuccessful	A
+4030	сырьё	raw material	Nn
+4031	мусульма'нин	Muslim	Nm
+4032	потреби'тельский	consumer	A
+4033	аналити'ческий	analytical	A
+4034	тротуа'р	pavement	Nm
+4035	па'ника	panic	Nf
+4036	рейс	flight, voyage	Nm
+4037	рождество'	Christmas	Nn
+4038	по'рция	portion	Nf
+4039	колеба'ться	fluctuate	V
+4040	схо'дство	similarity	Nn
+4041	наверху'	upstairs, on top	Adv
+4042	ручно'й	manual, hand	A
+4043	вечери'нка	party	Nf
+4044	осторо'жный	cautious	A
+4045	девя'тый	ninth	Num
+4046	осмо'тр	inspection, check	Nm
+4047	бык	bull	Nm
+4048	обожа'ть	adore	V
+4049	академи'ческий	academic	A
+4050	блесте'ть	shine, flash	V
+4051	напра'сно	in vain, for nothing	Adv
+4052	коэффицие'нт	coefficient, factor	Nm
+4053	нове'йший	newest, latest	A
+4054	плака'т	poster	Nm
+4055	матери'нский	maternal	A
+4056	примити'вный	primitive	A
+4057	мат	mat, obscene language	Nm
+4058	отврати'тельный	disgusting	A
+4059	ве'рность	loyalty	Nf
+4060	поблагодари'ть	thank	V
+4061	вла'жный	wet	A
+4062	и'мпульс	impulse	Nm
+4063	ме'неджмент	management	Nm
+4064	приготовле'ние	cooking, preparation	Nn
+4065	вы'лет	departure	Nm
+4066	удо'бство	convenience	Nn
+4067	повторе'ние	repetition	Nn
+4068	поля'к	Pole	Nm
+4069	о'гненный	fiery	A
+4070	боково'й	side	A
+4071	сгоре'ть	burn (down)	V
+4072	во'льный	free	A
+4073	ночева'ть	stay overnight, spend   the night	V
+4074	ве'жливо	politely	Adv
+4075	кача'ть	rock, shake	V
+4076	различа'ть	distinguish, tell apart	V
+4077	душ	shower	Nm
+4078	лёгкость	ease, lightness	Nf
+4079	нетерпе'ние	impatience	Nn
+4080	зави'довать	envy	V
+4081	устана'вливаться	be installed, be  established	V
+4082	ча'йник	kettle, teapot, dummy	Nm
+4083	напряму'ю	directly	Adv
+4084	убы'ток	loss	Nm
+4085	архите'ктор	architect	Nm
+4086	допро'с	interrogation	Nm
+4087	отлича'ть	distinguish	V
+4088	эконо'мия	savings, economy	Nf
+4089	невысо'кий	low, small	A
+4090	энтузиа'зм	enthusiasm	Nm
+4091	авиацио'нный	aviation	A
+4092	висо'к	temple	Nm
+4093	поруче'ние	order, assignment	Nn
+4094	че'реп	skull	Nm
+4095	отклоне'ние	deviation	Nn
+4096	ла'сковый	tender	A
+4097	дружи'ть	be friends	V
+4098	смерте'льный	deadly	A
+4099	козёл	he-goat, arsehole (slang)	Nm
+4100	жили'щный	housing	A
+4101	чрезвыча'йный	extraordinary, extreme	A
+4102	симпа'тия	affection, sympathy	Nf
+4103	уста'лый	tired	A
+4104	мм	mm, millimetre	Nm
+4105	долгосро'чный	long-term	A
+4106	огоро'д	allotment	Nm
+4107	кисть	brush, palm	Nf
+4108	защи'тный	protective, defensive	A
+4109	пенсио'нный	pension	A
+4110	абоне'нт	subscriber	Nm
+4111	ра'венство	equality	Nn
+4112	се'кция	section, club	Nf
+4113	урожа'й	harvest	Nm
+4114	реконстру'кция	reconstruction,  refurbishment	Nf
+4115	о'черк	feature story	Nm
+4116	обезья'на	monkey	Nf
+4117	за'пуск	launch	Nm
+4118	фанта'стика	science fiction	Nf
+4119	контине'нт	continent	Nm
+4120	сде'рживать	restrain	V
+4121	гвоздь	nail	Nm
+4122	ме'дный	copper	A
+4123	яд	poison	Nm
+4124	строи'тель	builder	Nm
+4125	представи'тельство	representative,  office	Nn
+4126	этни'ческий	ethnic	A
+4127	база'р	market, talk (slang)	Nm
+4128	у'личный	street	A
+4129	кружо'к	circle, hobby group, club	Nm
+4130	серебро'	silver	Nn
+4131	полнота'	fullness, corpulence	Nf
+4132	агресси'вный	aggressive	A
+4133	подключе'ние	connection	Nn
+4134	жа'лость	pity	Nf
+4135	презента'ция	presentation	Nf
+4136	звон	ringing, jingling	Nm
+4137	констру'ктор	constructor, engineer	Nm
+4138	писа'ться	write	V
+4139	серде'чный	heart	A
+4140	по'хороны	funeral	N-
+4141	инди'йский	Indian	A
+4142	украша'ть	decorate	V
+4143	бе'дность	poverty	Nf
+4144	се'мьдесят	seventy	Num
+4145	формулиро'вка	wording	Nf
+4146	колбаса'	sausage	Nf
+4147	корзи'на	basket	Nf
+4148	территориа'льный	territorial	A
+4149	анало'гия	analogy	Nf
+4150	колосса'льный	colossal	A
+4151	пла'стиковый	plastic	A
+4152	микрофо'н	microphone	Nm
+4153	прибы'тие	arrival	Nn
+4154	перча'тка	glove	Nf
+4155	инстру'ктор	instructor	Nm
+4156	ски'дка	discount	Nf
+4157	непросто'й	difficult	A
+4158	эксперимента'льный	experimental	A
+4159	запла'кать	start crying	V
+4160	традицио'нно	traditionally	Adv
+4161	акционе'р	stockholder, shareholder	Nm
+4162	изложе'ние	summary	Nn
+4163	содержи'мое	content(s)	Nn
+4164	цивилизо'ванный	civilized	A
+4165	квадра'т	square	Nm
+4166	ла'мпочка	bulb	Nf
+4167	за'дница	arse	Nf
+4168	стресс	stress	Nm
+4169	факти'ческий	actual, real, factual	A
+4170	индустри'я	industry	Nf
+4171	га'лстук	tie	Nm
+4172	полоте'нце	towel	Nn
+4173	струя'	jet	Nf
+4174	после'довательный	sequential,  consistent	A
+4175	путеше'ствовать	travel	V
+4176	грана'та	grenade	Nf
+4177	изме'на	betrayal, treason, adultery	Nf
+4178	вдали'	in the distance	Adv
+4179	моло'чный	milk, dairy	A
+4180	пе'ние	singing	Nn
+4181	превосходи'ть	exceed	V
+4182	изя'щный	graceful	A
+4183	ка'бель	cable	Nm
+4184	возраже'ние	objection	Nn
+4185	тре'звый	sober	A
+4186	проводни'к	conductor	Nm
+4187	бере'чь	save, take care	V
+4188	проекти'рование	design, designing	Nn
+4189	ста'туя	statue	Nf
+4190	вози'ть	drive, carry	V
+4191	не'жность	tenderness	Nf
+4192	хи'мия	chemistry	Nf
+4193	сыно'к	son (diminutive)	Nm
+4194	стыд	shame	Nm
+4195	шага'ть	stride, walk	V
+4196	выжива'ние	survival	Nn
+4197	тысячеле'тие	millennium	Nn
+4198	толка'ть	push	V
+4199	автоно'мный	offline, autonomous	A
+4200	ба'бочка	butterfly	Nf
+4201	входно'й	entrance	A
+4202	про'бка	cork, traffic jam	Nf
+4203	игнори'ровать	ignore	V
+4204	трево'жный	anxious	A
+4205	стимули'ровать	stimulate	V
+4206	восхище'ние	admiration	Nn
+4207	мрак	darkness	Nm
+4208	артиллери'йский	artillery	A
+4209	совпаде'ние	coincidence	Nn
+4210	би'ржа	exchange	Nf
+4211	завора'чивать	wrap	V
+4212	монстр	monster	Nm
+4213	буржуа'зный	bourgeois	A
+4214	интуи'ция	intuition	Nf
+4215	пропи'сывать	prescribe	V
+4216	мотива'ция	motivation	Nf
+4217	превраще'ние	transformation	Nn
+4218	спи'нка	backrest, back	Nf
+4219	географи'ческий	geographical	A
+4220	иссле'довательский	research	A
+4221	отвраще'ние	disgust, repulsion	Nn
+4222	ара'б	Arab	Nm
+4223	и'мидж	image	Nm
+4224	рвать	tear, vomit	V
+4225	роди'тельский	parental	A
+4226	ве'дьма	witch	Nf
+4227	колле'дж	college	Nm
+4228	оказа'ние	providing, giving	Nn
+4229	нового'дний	New Year(’s)	A
+4230	анке'та	form	Nf
+4231	грандио'зный	grandiose	A
+4232	незнако'мец	stranger	Nm
+4233	усло'вно	conditionally, tentatively	Adv
+4234	обслу'живать	serve	V
+4235	сосна'	pine	Nf
+4236	выу'чивать	learn	V
+4237	овца'	sheep	Nf
+4238	расстро'йство	disorder	Nn
+4239	толчо'к	push	Nm
+4240	оболо'чка	cover, shell	Nf
+4241	вы'езд	departure, exit	Nm
+4242	окре'стность	neighbourhood	Nf
+4243	вдво'е	twice	Adv
+4244	дру'жеский	friendly	A
+4245	классифика'ция	classification	Nf
+4246	деклара'ция	declaration	Nf
+4247	случа'йность	chance, accident	Nf
+4248	отступле'ние	retreat, digression	Nn
+4249	функциони'ровать	function	V
+4250	гром	thunder	Nm
+4251	промежу'ток	interval	Nm
+4252	разнови'дность	variety, form	Nf
+4253	ниско'лько	not at all	P
+4254	проща'ться	say goodbye	V
+4255	Алла'х	Allah	Nm
+4256	кла'виша	key	Nf
+4257	шерсть	wool	Nf
+4258	конфе'та	sweet, chocolate	Nf
+4259	интенси'вный	intensive, intense	A
+4260	лову'шка	trap	Nf
+4261	преподава'ть	teach	V
+4262	тупи'к	cul-de-sac, dead end	Nm
+4263	вме'шиваться	interfere, interrupt	V
+4264	необыкнове'нный	unusual	A
+4265	романти'ческий	romantic	A
+4266	переворо'т	revolution, coup d’état	Nm
+4267	приближе'ние	approaching	Nn
+4268	че'люсть	jaw	Nf
+4269	бухга'лтерский	accounting	A
+4270	жа'рко	hot	Adv
+4271	соба'чий	dog	A
+4272	интона'ция	intonation	Nf
+4273	съе'здить	go	V
+4274	гра'мотный	literate, trained	A
+4275	вздох	breath	Nm
+4276	бе'женец	refugee	Nm
+4277	премье'р	premier	Nm
+4278	агре'ссия	aggression	Nf
+4279	валю'тный	revenue, income	A
+4280	взвод	troop, platoon	Nm
+4281	взя'тка	bribe	Nf
+4282	ую'тный	comfortable, cosy	A
+4283	сооте'чественник	compatriot	Nm
+4284	зало'жник	hostage	Nm
+4285	компози'тор	composer	Nm
+4286	дви'гать	move	V
+4287	жи'тельство	residence	Nn
+4288	инти'мный	intimate	A
+4289	вы'дача	extradition, release, issue	Nf
+4290	рю'мка	shotglass, shot	Nf
+4291	коло'нка	column, speaker	Nf
+4292	глу'по	foolish(ly)	Adv
+4293	отры'вок	fragment, passage	Nm
+4294	пе'чка	stove	Nf
+4295	тигр	tiger	Nm
+4296	фото'граф	photographer	Nm
+4297	ИТ	IT	Nf
+4298	деле'ние	division	Nn
+4299	ввод	input, bringing in	Nm
+4300	юбиле'й	anniversary	Nm
+4301	нелёгкий	difficult	A
+4302	витри'на	showcase	Nf
+4303	сала'т	salad	Nm
+4304	спра'вочник	directory	Nm
+4305	ана'лог	analogue	Nm
+4306	официа'нт	waiter	Nm
+4307	влады'ка	sovereign, ruler	Nm
+4308	и'збранный	elected, selected	A
+4309	щено'к	puppy	Nm
+4310	пла'вание	swimming	Nn
+4311	вертика'льный	vertical, upright	A
+4312	да'льше	further, longer	Adv
+4313	электри'чество	electricity	Nn
+4314	расписа'ние	timetable, schedule	Nn
+4315	оби'дно	pity, offended	Adv
+4316	нева'жный	unimportant, bad	A
+4317	пиро'г	pie	Nm
+4318	безу'мие	madness, frenzy	Nn
+4319	ска'чивать	download	V
+4320	вели'чие	greatness, splendour	Nn
+4321	певе'ц	singer	Nm
+4322	серди'ться	be angry	V
+4323	тетра'дь	notebook, exercise book	Nf
+4324	дое'хать	reach, get	V
+4325	шуме'ть	make a noise, be noisy	V
+4326	бана'льный	banal	A
+4327	энерги'чный	energetic	A
+4328	вложе'ние	investment	Nn
+4329	олимпиа'да	Olympics, Olympiad	Nf
+4330	армяни'н	Armenian	Nm
+4331	клавиату'ра	keyboard	Nf
+4332	медсестра'	nurse	Nf
+4333	буке'т	bouquet	Nm
+4334	вдова'	widow	Nf
+4335	европе'ец	European	Nm
+4336	меньшинство'	minority	Nn
+4337	обло'жка	cover	Nf
+4338	бе'шеный	rabid, frantic	A
+4339	купа'ться	bathe	V
+4340	бал	ball	Nm
+4341	ссо'ра	quarrel, row	Nf
+4342	во'семьдесят	eighty	Num
+4343	влюбле'нный	in love	A
+4344	кран	tap	Nm
+4345	любова'ться	admire	V
+4346	тря'пка	cloth	Nf
+4347	пла'тный	paid, pay	A
+4348	апте'ка	pharmacy	Nf
+4349	треуго'льник	triangle	Nm
+4350	заплани'ровать	plan	V
+4351	аппети'т	appetite	Nm
+4352	презервати'в	condom	Nm
+4353	детекти'в	detective	Nm
+4354	напуга'ть	scare, frighten	V
+4355	чече'нец	Chechen	Nm
+4356	доброво'льный	voluntary	A
+4357	кошелёк	purse	Nm
+4358	непра'вда	lie	Nf
+4359	витами'н	vitamin	Nm
+4360	простыня'	bed sheet	Nf
+4361	наименова'ние	name	Nn
+4362	фотоаппара'т	camera	Nm
+4363	чи'стить	clean	V
+4364	девяно'сто	ninety	Num
+4365	теря'ться	be lost	V
+4366	пятьсо'т	five hundred	Num
+4367	увлека'ться	be enthusiastic	V
+4368	вари'ть	cook, boil, make	V
+4369	сме'лость	courage	Nf
+4370	капу'ста	cabbage	Nf
+4371	гла'дить	iron, stroke 	V
+4372	обе'дать	have lunch	V
+4373	уменьша'ться	decrease, be reduced	V
+4374	тро'йка	figure of three, group of three,  mark of three	Nf
+4375	дру'жно	amicably, all at once	Adv
+4376	лить	pour	V
+4377	диза'йнер	designer	Nm
+4378	путеше'ственник	traveller	Nm
+4379	блонди'нка	blonde	Nf
+4380	бег	run, race	Nm
+4381	дырка	hole	Nf
+4382	исла'мский	Islamic	A
+4383	пове'рх	over	Prep
+4384	туристи'ческий	tourist	A
+4385	КПРФ	Communist Party of the Russian  Federation	Nf
+4386	ёлка	(Christmas) tree, spruce	Nf
+4387	по'ртить	spoil	V
+4388	спи'чка	match	Nf
+4389	прогла'тывать	swallow	V
+4390	электроэне'ргия	electric power	Nf
+4391	предло'г	excuse, preposition	Nm
+4392	олимпи'йский	Olympic	A
+4393	извиня'ться	apologize	V
+4394	холл	hall	Nm
+4395	ворова'ть	steal	V
+4396	сочу'вствие	sympathy	Nn
+4397	шу'мный	noisy	A
+4398	прила'вок	counter	Nm
+4399	ре'вность	jealousy	Nf
+4400	доброта'	kindness	Nf
+4401	мотоци'кл	motorcycle	Nm
+4402	закры'тие	closing	Nn
+4403	кипе'ть	boil	V
+4404	тури'зм	tourism	Nm
+4405	разводи'ться	get divorced	V
+4406	кани'кулы	vacation, holidays	N-
+4407	пожа'рный	fire-fighter	N-
+4408	пульт	control panel, remote control	Nm
+4409	кла'ссика	classics	Nf
+4410	удостовере'ние	certificate	Nn
+4411	ве'ко	eyelid	Nn
+4412	футбо'льный	football	A
+4413	по'люс	pole	Nm
+4414	насеко'мое	insect	Nn
+4415	жи'дкий	liquid	A
+4416	гроза'	storm	Nf
+4417	октя'брьский	October	A
+4418	разноцве'тный	multi-coloured	A
+4419	ска'зочный	fairy-tale	A
+4420	ча'йный	tea	A
+4421	впра'во	to the right	Adv
+4422	энциклопе'дия	encyclopaedia	Nf
+4423	прорабо'тать	work, work out	V
+4424	то'рмоз	brake	Nm
+4425	увезти'	take away	V
+4426	буди'ть	wake	V
+4427	ноль	zero, null	Nm
+4428	разреша'ться	be allowed, be solved	V
+4429	при'нтер	printer	Nm
+4430	уха'живать	care for, take care, court	V
+4431	начина'ющий	amateur	A
+4432	бело'к	protein	Nm
+4433	моро'женое	ice-cream	Nn
+4434	таба'к	tobacco	Nm
+4435	уси'ливаться	strengthen, get stronger	V
+4436	отме'тка	mark	Nf
+4437	трусы'	pants, boxers	N-
+4438	ве'жливый	polite	A
+4439	вле'во	to the left	Adv
+4440	по'вар	chef, cook	Nm
+4441	у'стный	oral	A
+4442	изве'стность	celebrity, fame	Nf
+4443	мусульма'нский	Muslim	A
+4444	пе'на	foam	Nf
+4445	Бу'дда	Buddha	Nm
+4446	настоя'щее	present	Nn
+4447	огуре'ц	cucumber	Nm
+4448	подоко'нник	windowsill	Nm
+4449	постуча'ть	knock	V
+4450	телекана'л	TV channel	Nm
+4451	толщина'	thickness	Nf
+4452	ни'зко	low	Adv
+4453	пле'нный	captive, prisoner	Nm
+4454	три'жды	three times	Adv
+4455	бага'ж	luggage	Nm
+4456	веб	web	Nf
+4457	глаго'л	verb	Nm
+4458	жева'ть	chew	V
+4459	за'втрашний	tomorrow’s	A
+4460	откры'тка	postcard	Nf
+4461	ВИЧ	HIV	Nm
+4462	реко'рд	record	Nm
+4463	электри'чка	train	Nf
+4464	проща'ние	farewell	Nn
+4465	цирк	circus	Nm
+4466	приземля'ться	land	V
+4467	см	cm, centimetre	Nm
+4468	ни'щий	beggar	N-
+4469	посы'лка	parcel	Nf
+4470	ве'рующий	believer	Nm
+4471	ха'кер	hacker	Nm
+4472	встре'чный	counter, oncoming	A
+4473	геогра'фия	geography	Nf
+4474	сбо'рная	team	Nf
+4475	вероя'тно	probably	Adv
+4476	перекрёсток	crossroads	Nm
+4477	поздравле'ние	congratulation,   greetings	Nn
+4478	го'рько	bitter	Adv
+4479	тера'кт	terrorist attack	Nm
+4480	заинтересова'ться	become interested	V
+4481	крем	cream	Nm
+4482	близне'ц	twin	Nm
+4483	горячо'	hot	Adv
+4484	перее'зд	move, railway crossing	Nm
+4485	бале'т	ballet	Nm
+4486	биоло'гия	biology	Nf
+4487	хвали'ть	praise	V
+4488	дежу'рный	on duty	N-
+4489	джи'нсы	jeans	N-
+4490	стадио'н	stadium	Nm
+4491	прохла'дный	cool	A
+4492	документа'льный	documentary	A
+4493	комфо'рт	comfort	Nm
+4494	факс	fax	Nm
+4495	перено'с	hyphen, transfer	Nm
+4496	стира'ть	wash, wipe	V
+4497	запасно'й	spare	A
+4498	со'нный	sleepy	A
+4499	ненадо'лго	for a (short) while,   not for long	Adv
+4500	гимн	hymn, anthem	Nm
+4501	шестна'дцать	sixteen	Num
+4502	бульва'р	alley	Nm
+4503	присни'ться	have a dream (nightmare)	V
+4504	бокс	boxing	Nm
+4505	патрио'т	patriot	Nm
+4506	деся'тка	ten, figure of ten, ten rubles	Nf
+4507	шёлковый	silk	A
+4508	шить	sew	V
+4509	убо'рка	clean, cleaning, harvest	Nf
+4510	двадца'тый	twentieth	Num
+4511	промолча'ть	remain silent	V
+4512	нару'жный	exterior, outside	A
+4513	прихо'жая	hallway	Nf
+4514	университе'тский	university	A
+4515	оре'х	nut	Nm
+4516	тормози'ть	brake, freeze (slang)	V
+4517	взве'шивать	weigh	V
+4518	котёнок	kitten	Nm
+4519	ра'ковина	shell, sink	Nf
+4520	ви'лка	fork	Nf
+4521	страхо'вка	insurance	Nf
+4522	аккура'тный	neat, exact	A
+4523	целова'ться	kiss	V
+4524	сча'стливо	happily, good luck	Adv
+4525	скульпту'ра	sculpture	Nf
+4526	стоп	stop	I
+4527	чита'ться	be read, be pronounced	V
+4528	скамья'	bench	Nf
+4529	неприя'тно	unpleasantly	Adv
+4530	пу'говица	button	Nf
+4531	шокола'д	chocolate	Nm
+4532	террористи'ческий	terrorist	A
+4533	вино'вный	guilty	A
+4534	лени'вый	lazy	A
+4535	оптими'зм	optimism	Nm
+4536	восемна'дцать	eighteen	Num
+4537	ша'хматы	chess	N-
+4538	африка'нский	African	A
+4539	ги'бнуть	die	V
+4540	уко'л	injection	Nm
+4541	раздава'ть	distribute, hand out	V
+4542	ве'шать	hang	V
+4543	лы'жа	ski	Nf
+4544	пра'вильность	accuracy	Nf
+4545	Вене'ра	Venus	Nf
+4546	обуча'ться	learn, be trained	V
+4547	племя'нник	nephew	Nm
+4548	анте'нна	antenna	Nf
+4549	попола'м	fifty-fifty, in half	Adv
+4550	воспита'тель	nursery teacher	Nm
+4551	взлёт	take-off	Nm
+4552	приве'тствие	greeting	Nn
+4553	извине'ние	excuse, apology	Nn
+4554	про'пуск	pass, permit, absence	Nm
+4555	классик	classical author	Nm
+4556	поликли'ника	outpatient clinic	Nf
+4557	грипп	flu	Nm
+4558	неудо'бно	uncomfortable, uneasy	Adv
+4559	указа'тель	road sign, sign, mark	Nm
+4560	алкого'льный	alcoholic	A
+4561	тёща	mother-in-law	Nf
+4562	я'года	berry	Nf
+4563	продлева'ть	prolong	V
+4564	испу'г	fright	Nm
+4565	конте'йнер	container, box, skip	Nm
+4566	лы'сый	bald	A
+4567	причёска	hairstyle, haircut	Nf
+4568	пра'здновать	celebrate	V
+4569	различа'ться	differ	V
+4570	сы'тый	satiated, be full	A
+4571	бутербро'д	open sandwich	Nm
+4572	кома'р	mosquito	Nm
+4573	четы'рнадцать	fourteen	Num
+4574	выдыха'ть	exhale, breathe out	V
+4575	студе'нтка	student (female)	Nf
+4576	диктова'ть	dictate	V
+4577	каблу'к	heel	Nm
+4578	ку'хонный	kitchen	A
+4579	назе'мный	ground, overground	A
+4580	моби'льник	mobile phone	Nm
+4581	мо'стик	small bridge, command bridge	Nm
+4582	аре'на	arena, stage	Nf
+4583	зубно'й	dental, tooth	A
+4584	казино'	casino	Nn
+4585	дога'дка	guess, speculation, suspicion	Nf
+4586	абза'ц	paragraph	Nm
+4587	эконо'мить	save	V
+4588	ня'ня	nanny, nurse	Nf
+4589	тост	toast	Nm
+4590	вблизи'	nearby, close up	Prep
+4591	уме'ренный	moderate	A
+4592	дискоте'ка	disco	Nf
+4593	несправедли'вый	unfair	A
+4594	солёный	salt(y)	A
+4595	купе'	compartment, coupe	Nn
+4596	су'ша	(dry) land	Nf
+4597	град	hail	Nm
+4598	комплиме'нт	compliment	Nm
+4599	бланк	form	Nm
+4600	Па'сха	Easter	Nf
+4601	голла'ндский	Dutch	A
+4602	моде'м	modem	Nm
+4603	ре'ктор	rector	Nm
+4604	земля'к	fellow countryman	Nm
+4605	нулево'й	zero, no	A
+4606	неме'дленный	immediate	A
+4607	расти'тельный	vegetable	A
+4608	те'сто	dough	Nn
+4609	карто'фель	potatoes	Nm
+4610	зарегистри'роваться	register, check in	V
+4611	пятёрка	figure of five, group of five,  grade five (= E), five roubles	Nf
+4612	вну'чка	granddaughter	Nf
+4613	пле'ер	portable disk or tape player,  walkman	Nm
+4614	часово'й	security guard	N-
+4615	куре'ние	smoking	Nn
+4616	семна'дцать	seventeen	Num
+4617	азиа'тский	Asian	A
+4618	аккумуля'тор	rechargeable battery	Nm
+4619	коро'на	crown	Nf
+4620	украи'нец	Ukrainian	Nm
+4621	блокно'т	notebook	Nm
+4622	заку'ска	appetizer, snack	Nf
+4623	по'черк	handwriting	Nm
+4624	суперма'ркет	supermarket	Nm
+4625	коза'	goat, she-goat	Nf
+4626	перело'м	bone fracture, turning point	Nm
+4627	ве'сить	weigh	V
+4628	ма'йка	T-shirt	Nf
+4629	унита'з	toilet bowl	Nm
+4630	ресни'ца	eyelash	Nf
+4631	слог	syllable	Nm
+4632	торт	cake	Nm
+4633	финн	Finn	Nm
+4634	жа'дный	greedy	A
+4635	несовершенноле'тний	minor, juvenile	A
+4636	магнитофо'н	tape recorder	Nm
+4637	самостоя'тельность	independence	Nf
+4638	пя'тка	heel	Nf
+4639	развито'й	developed	A
+4640	прова'йдер	provider	Nm
+4641	чат	chat room, chat	Nm
+4642	лине'йка	ruler	Nf
+4643	ненорма'льный	abnormal	A
+4644	патриоти'зм	patriotism	Nm
+4645	цент	cent	Nm
+4646	вы'веска	sign, signboard	Nf
+4647	дворяни'н	nobleman	Nm
+4648	трина'дцать	thirteen	Num
+4649	въезд	entrance	Nm
+4650	загрязне'ние	pollution	Nn
+4651	ры'бный	fish	A
+4652	чек	cheque	Nm
+4653	тролле'йбус	trolley bus	Nm
+4654	непонима'ние	misunderstanding,   lack of understanding	Nn
+4655	ПК	PC	Nm
+4656	корм	feed	Nm
+4657	зоопа'рк	zoo	Nm
+4658	певи'ца	singer (female)	Nf
+4659	греме'ть	thunder	V
+4660	занаве'ска	curtain	Nf
+4661	кастрю'ля	saucepan	Nf
+4662	сви'тер	sweater	Nm
+4663	помидо'р	tomato	Nm
+4664	за'мужем	married (woman)	Adv
+4665	плыть	swim, sail	V
+4666	пра'зднование	celebration	Nn
+4667	су'хо	dry(ly)	Adv
+4668	низ	bottom	Nm
+4669	моноло'г	monologue	Nm
+4670	повыша'ться	rise	V
+4671	зять	son-in-law	Nm
+4672	подно'с	tray	Nm
+4673	автомаши'на	car	Nf
+4674	уби'тый	murdered, killed	N-
+4675	фиоле'товый	purple	A
+4676	сбо'ку	at the side	Adv
+4677	ва'за	vase, bowl	Nf
+4678	выпрямля'ться	straighten up	V
+4679	доба'вка	supplement, addition, more	Nf
+4680	светло'	light	Adv
+4681	развя'зывать	untie	V
+4682	профессионали'зм	professionalism	Nm
+4683	пе'рец	pepper	Nm
+4684	быстрота'	speed	Nf
+4685	полуо'стров	peninsula	Nm
+4686	измеря'ть	measure	V
+4687	блог	blog	Nm
+4688	отхо'ды	waste, refuse	N-
+4689	некраси'вый	not attractive	A
+4690	жа'реный	roasted, fried	A
+4691	кокте'йль	cocktail, shake	Nm
+4692	пешехо'д	pedestrian	Nm
+4693	нелегко'	with difficulty, hard	Adv
+4694	иуде'й	orthodox Jew	Nm
+4695	посло'вица	saying	Nf
+4696	буфе'т	cafeteria, sideboard	Nm
+4697	грамма'тика	grammar	Nf
+4698	по'дданный	national, subject	Nm
+4699	боксёр	boxer	Nm
+4700	па'рта	school desk	Nf
+4701	стипе'ндия	scholarship	Nf
+4702	лень	laziness	Adv
+4703	бана'н	banana	Nm
+4704	отопле'ние	heating	Nn
+4705	ра'дуга	rainbow	Nf
+4706	кио'ск	small shop, kiosk	Nm
+4707	поле'зность	usefulness, utility	Nf
+4708	вака'нсия	vacancy	Nf
+4709	продавщи'ца	shop assistant (female)	Nf
+4710	брошю'ра	brochure	Nf
+4711	алфави'т	alphabet	Nm
+4712	однокла'ссник	schoolmate	Nm
+4713	сла'дко	sweet(ly)	Adv
+4714	негро'мко	not loud, quietly	Adv
+4715	втроём	three (people)	Adv
+4716	испа'нец	Spaniard	Nm
+4717	гид	(tour) guide	Nm
+4718	у'жинать	have dinner	V
+4719	налогопла'тельщик	taxpayer	Nm
+4720	запреща'ться	prohibit	V
+4721	четвёрка	figure of four, group of four,  grade four	Nf
+4722	су'пер	super, great	Nm
+4723	уводи'ть	take away	V
+4724	весы'	scale(s), balance	N-
+4725	поперёк	across	Prep
+4726	взросле'ть	mature	V
+4727	посереди'не	in the middle	Adv
+4728	выздора'вливать	recover	V
+4729	обме'нивать	exchange	V
+4730	безрабо'тный	unemployed	Nm
+4731	сгиба'ть	bend	V
+4732	переку'сывать	have a snack, eat	V
+4733	прибива'ть	fasten (by nailing)	V
+4734	ода'лживать	lend, borrow	V
+4735	спонта'нный	spontaneous	A
+4736	вычёркивать	strike out	V
+4737	общи'тельный	sociable	A
+4738	выключа'тель	switch	Nm
+4739	просту'да	cold	Nf
+4740	бинт	bandage	Nm
+4741	загла'вие	title	Nn
+4742	восьмидеся'тый	eightieth	Num
+4743	переска'зывать	retell	V
+4744	шестьсо'т	six hundred	Num
+4745	распрода'жа	clearance sale	Nf
+4746	се'меро	seven (people)	Num
+4747	творо'г	cottage cheese	Nm
+4748	смета'на	sour cream	Nf
+4749	аплоди'ровать	applaud, cheer	V
+4750	гель	gel	Nm
+4751	ко'микс	comics	Nm
+4752	мёрзнуть	freeze	V
+4753	ме'рить	measure, try	V
+4754	спортза'л	gym	Nm
+4755	мочи'ть	soak, kill (slang)	V
+4756	пре'сный	flavourless, fresh (water)	A
+4757	като'к	ice rink	Nm
+4758	семёрка	figure of seven, seven	Nf
+4759	отправи'тель	sender	Nm
+4760	апартаме'нты	apartment	Nm
+4761	девятна'дцатый	nineteenth	Num
+4762	трудолюби'вый	hard-working	A
+4763	суши'ть	dry, air	V
+4764	купа'льник	swimming costume, bikini	Nm
+4765	гольф	golf	Nm
+4766	загора'ть	sunbathe	V
+4767	семна'дцатый	seventeenth	Num
+4768	девяно'стый	ninetieth	Num
+4769	чуде'сно	wonderful(ly)	Adv
+4770	схва'тывать	grab, apprehend, catch	V
+4771	зонт	umbrella	Nm
+4772	пятидеся'тый	fiftieth	Num
+4773	пе'рсик	peach	Nm
+4774	шампу'нь	shampoo	Nm
+4775	умыва'ться	have a wash	V
+4776	баскетбо'л	basketball	Nm
+4777	девятьсо'т	nine hundred	Num
+4778	паркова'ть	park	V
+4779	прилага'тельное	adjective	Nn
+4780	свёкла	beetroot	Nf
+4781	девя'тка	figure of nine, nine	Nf
+4782	враща'ть	rotate	V
+4783	кавы'чка	quotation mark	Nf
+4784	клубни'ка	strawberry	Nf
+4785	вноси'ться	be introduced, be made	V
+4786	дыря'вый	holey, having holes	A
+4787	заму'жний	married (woman)	A
+4788	модифици'ровать	modify, change	V
+4789	обнажа'ть	uncover	V
+4790	пижа'ма	pyjamas	Nf
+4791	всеобъе'млющий	universal	A
+4792	кле'точка	checked, cell	Nf
+4793	космодро'м	cosmodrome	Nm
+4794	павли'н	peacock	Nm
+4795	самодержа'вие	autocracy	Nn
+4796	тормозно'й	brake	A
+4797	у'ксус	vinegar	Nm
+4798	экзо'тика	exotica	Nf
+4799	блю'дце	saucer	Nn
+4800	выполза'ть	crawl out	V
+4801	конспе'кт	summary	Nm
+4802	ли'фчик	bra	Nm
+4803	мину'точка	minute (diminutive)	Nf
+4804	отдыха'ющий	holidaymaker	Nm
+4805	перекры'тие	ceiling, overlap	Nn
+4806	трансли'роваться	be transmitted	V
+4807	хмель	hops	Nm
+4808	во'рох	pile	Nm
+4809	подви'жность	mobility	Nf
+4810	поутру'	in the morning	Adv
+4811	приба'вка	addition, rise	Nf
+4812	штурва'л	steering wheel	Nm
+4813	повседне'вность	everyday life	Nf
+4814	поны'не	to this day, still	Adv
+4815	синхрониза'ция	synchronization	Nf
+4816	числово'й	numerical	A
+4817	швейца'р	porter	Nm
+4818	штукату'рка	plaster	Nf
+4819	экстреми'стский	extremist	A
+4820	анти'чность	antiquity	Nf
+4821	брази'льский	Brazilian	A
+4822	захлёбываться	choke, gasp	V
+4823	мимохо'дом	in passing	Adv
+4824	перебро'ска	transfer, deployment	Nf
+4825	пе'шка	pawn	Nf
+4826	политехни'ческий	polytechnic	A
+4827	по'ртиться	deteriorate, be spoiled	V
+4828	предохрани'тель	fuse	Nm
+4829	сбо'рище	crowd, mob	Nn
+4830	сде'рживание	containment, deterrence	Nn
+4831	скандина'вский	Scandinavian	A
+4832	СМС	SMS	Nf
+4833	сторожи'ть	guard	V
+4834	сце'нка	sketch, skit	Nf
+4835	шля'ться	hang around, gallivant	V
+4836	карто'фельный	potato	A
+4837	конфе'тка	sweet	Nf
+4838	кровяно'й	blood	A
+4839	марихуа'на	marijuana	Nf
+4840	обнима'ться	hug	V
+4841	расплы'вчатый	vague	A
+4842	репродукти'вный	reproductive	A
+4843	су'мрачный	gloomy	A
+4844	царе'вна	tsarevna, princess	Nf
+4845	во'льность	freedom	Nf
+4846	времена'ми	at times, sometimes	Adv
+4847	заправля'ть	fuel	V
+4848	комо'д	chest of drawers	Nm
+4849	космополи'т	citizen of the world,  cosmopolitan	Nm
+4850	ми'зерный	measly	A
+4851	мураве'йник	anthill	Nm
+4852	перегово'рный	communication device,  intercom	A
+4853	радиоприёмник	radio	Nm
+4854	рассека'ть	cross, dissect	V
+4855	спада'ть	ease off	V
+4856	бегемо'т	hippopotamus	Nm
+4857	воодушевле'ние	enthusiasm,   inspiration	Nn
+4858	вселя'ть	inspire, move	V
+4859	лингви'ст	linguist	Nm
+4860	ме'бельный	furniture	A
+4861	мести'	sweep	V
+4862	наём	hire, rent	Nm
+4863	обою'дный	mutual	A
+4864	пови'нность	(military, feudal) duty	Nf
+4865	сцени'ческий	stage	A
+4866	созида'ние	creativity	Nn
+4867	глуби'нка	backwater	Nf
+4868	дви'жущий	driving	A
+4869	зати'шье	calm	Nn
+4870	кульмина'ция	culmination	Nf
+4871	переступа'ть	go over, overstep	V
+4872	презри'тельный	contemptuous	A
+4873	у'сики	moustache, antenna	Nm
+4874	фанто'м	phantom	Nm
+4875	ши'бко	very (dialect)	Adv
+4876	апелли'ровать	appeal, call on	V
+4877	була'вка	pin	Nf
+4878	насчи'тывать	count	V
+4879	пыхте'ть	puff, pant	V
+4880	рукопожа'тие	handshake	Nn
+4881	точи'ть	sharpen	V
+4882	ту'мбочка	bedside	Nn
+4883	хло'пец	boy (dialect)	Nm
+4884	щекота'ть	tickle	V
+4885	а'йсберг	iceberg	Nm
+4886	атеи'зм	atheism	Nm
+4887	бри'ться	shave	V
+4888	ветчина'	ham	Nf
+4889	выведе'ние	raising, breeding, removal,  elimination	Nn
+4890	вя'зкий	thick, viscous, sticky	A
+4891	замо'рский	foreign, overseas	A
+4892	инвали'дность	disability	Nf
+4893	килова'тт	kilowatt	Nm
+4894	недостижи'мый	unattainable	A
+4895	поря'дочность	decency	Nf
+4896	пресече'ние	restraint, constraint	Nn
+4897	рада'р	radar	Nm
+4898	распя'тие	crucifixion, crucifix	Nn
+4899	столбе'ц	column	Nm
+4900	блинда'ж	bunker	Nm
+4901	квас	kvass (Russian drink)	Nm
+4902	кла'стер	cluster	Nm
+4903	отве'сный	sheer, vertical	A
+4904	пле'сень	mould	Nf
+4905	разоблачи'ть	expose, reveal	V
+4906	реалисти'чный	realistic	A
+4907	самоуве'ренный	(self-) confident,  assertive	A
+4908	сде'ржанность	restraint	Nf
+4909	слепота'	blindness	Nf
+4910	спазм	spasm	Nm
+4911	трево'житься	worry	V
+4912	тюльпа'н	tulip	Nm
+4913	усма'тривать	see, perceive	V
+4914	черне'ть	turn black	V
+4915	янта'рный	amber	A
+4916	ареста'нт	convict, prisoner	Nm
+4917	ве'нчурный	venture	A
+4918	вы'учиться	learn	V
+4919	дешеве'ть	become cheaper	V
+4920	империалисти'ческий	imperialist	A
+4921	каче'ли	swing	N-
+4922	морга'ть	blink	V
+4923	му'мия	mummy	Nf
+4924	надави'ть	press, put pressure on	V
+4925	непристо'йный	obscene	A
+4926	неуклю'жий	clumsy	A
+4927	отве'дать	taste, partake of	V
+4928	плеть	whip, vine	Nf
+4929	утомля'ть	tire, tire out	V
+4930	худо'жница	artist (female)	Nf
+4931	колыха'ться	sway, flicker	V
+4932	насмотре'ться	see enough	V
+4933	неве'сть	nobody knows, God knows	Adv
+4934	обма'нчивый	deceptive, false	A
+4935	перебега'ть	run over, run across	V
+4936	ска'тываться	roll down, slide down	V
+4937	сыно'чек	son (affectionate)	Nm
+4938	паде'ж	case	Nm
+4939	поно'с	diarrhoea	Nm
+4940	свини'на	pork	Nf
+4941	со'тый	one-hundredth	Num
+4942	чернови'к	draft	Nm
+4943	врата'рь	goalkeeper	Nm
+4944	сли'вочный	creamy	A
+4945	поте'ть	sweat	V
+4946	на'сморк	head cold, runny nose	Nm
+4947	четы'рнадцатый	fourteenth	Num
+4948	ю'зер	PC user	Nm
+4949	программи'ровать	program	V
+4950	прикрепля'ть	attach, put	V
+4951	передвига'ть	move	V
+4952	пятна'дцатый	fifteenth	Num
+4953	бо'дрствовать	keep awake	V
+4954	восемна'дцатый	eighteenth	Num
+4955	не'мка	German (female)	Nf
+4956	автоотве'тчик	answering machine	Nm
+4957	сороково'й	fortieth	Num
+4958	простуди'ться	catch cold	V
+4959	трина'дцатый	thirteenth	Num
+4960	прича'стие	participle, communion	Nn
+4961	шестна'дцатый	sixteenth	Num
+4962	позапро'шлый	before last	A
+4963	вопроси'тельный	question	A
+4964	санда'лии	sandals	Nf
+4965	местоиме'ние	pronoun	Nn
+4966	многоэта'жный	multi-storey	A
+4967	пи'ксель	pixel	Nm
+4968	дорожа'ть	get more expensive, go up	V
+4969	логи'н	username	Nm
+4970	ды'ня	melon	Nf
+4971	фи'тнес	fitness	Nm
+4972	семьсо'т	seven hundred	Num
+4973	оса'дки	precipitation	N-
+4974	сковорода'	pan	Nf
+4975	я'сли	nursery	N-
+4976	страхова'ть	insure	V
+4977	волейбо'л	volleyball	Nm
+4978	тю'бик	tube	Nm
+4979	аллерги'ческий	allergic	A
+4980	умножа'ть	multiply	V
+4981	восемьсо'т	eight hundred	Num
+4982	кле'ить	glue	V
+4983	мандари'н	mandarin	Nm
+4984	транскри'пция	transcription	Nf
+4985	гомосексуа'льный	homosexual	A
+4986	чаевы'е	tip	N-
+4987	бюстга'льтер	bra	Nm
+4988	консульти'ровать	consult	V
+4989	разме'нивать	change (money)	V
+4990	бо'улинг	bowling	Nm
+4991	по'зже	later	Adv
+4992	переспра'шивать	ask again	V
+4993	восклица'тельный	exclamation	A
+4994	застёжка	fastener	Nf
+4995	пла'стырь	patch, plaster	Nm
+4996	банкома'т	cash machine	Nm
+4997	сма'йлик	smiley	Nm
+4998	гла'сный	vowel	A
+4999	жалюзи'	window blind	Nn
+5000	жиле'тка	waistcoat	Nf
