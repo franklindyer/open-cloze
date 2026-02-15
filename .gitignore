@@ -2,7 +2,7 @@
 **/venv
 **/.DS_Store
 **/*.swp
-**/.ipynb_checkpoint
+**/.ipynb_checkpoints
 conf.json
 dump
 data/*

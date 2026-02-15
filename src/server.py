@@ -82,6 +82,8 @@ def get_random_cloze(con, src_langs, tgt_lang, lemma, n=1, groups=all_groups):
                 AND sents_tgt.lang=%s
                 AND sents_src.lang IN ({lang_params})
                 AND puzzle_groups.label IN ({group_params})
+                AND puzzles.group_id = sents_src.group_id
+                AND sents_src.group_id = sents_tgt.group_id
         ) AS tableAlias
         ORDER BY RAND()
         LIMIT %s
