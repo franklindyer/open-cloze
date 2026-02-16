@@ -34,36 +34,36 @@ print(all_groups, flush=True)
 cur.close()
 
 def get_random_verbatim_cloze(con, src_langs, tgt_lang, v_str, n=1, groups=all_groups):
-    lang_params = ','.join(["?"] * len(src_langs))
-    group_params = ','.join(["?"] * len(groups))
+    lang_params = ','.join(["%s"] * len(src_langs))
+    group_params = ','.join(["%s"] * len(groups))
     ress = pool_query(con, f"""
-        SELECT src_txt, tgt_txt, grp FROM (
-            SELECT MIN(puzzles.id) AS min_puz_id, sents_src.text AS src_txt, sents_tgt.text AS tgt_txt, sources.name AS grp
-                FROM puzzles
-                INNER JOIN sents AS sents_src ON puzzles.nat_snt=sents_src.id
-                INNER JOIN sents AS sents_tgt ON puzzles.base_snt=sents_tgt.id
-                INNER JOIN sources AS sources ON sents_tgt.source=sources.id
-                WHERE sents_tgt.text LIKE ?
-                    AND sents_tgt.iso_lang=?
-                    AND sents_src.iso_lang IN ({lang_params})
-                    AND sources.name IN ({group_params})
-                GROUP BY base_snt
-        )
-        ORDER BY RANDOM()
-        LIMIT ?
+        SELECT gid, src_txt, tgt_txt, grp FROM (
+            SELECT sents_tgt.group_id AS gid, sents_src.text AS src_txt, sents_tgt.text AS tgt_txt, puzzle_groups.label AS grp
+            FROM sentences AS sents_tgt 
+            INNER JOIN links AS links ON sents_tgt.id=links.id1
+            INNER JOIN sentences AS sents_src ON sents_src.id=links.id2 
+            INNER JOIN puzzle_groups AS puzzle_groups ON sents_tgt.group_id=puzzle_groups.id
+            WHERE sents_tgt.text LIKE %s 
+                AND sents_tgt.lang=%s
+                AND sents_src.lang IN ({lang_params})
+                AND puzzle_groups.label IN ({group_params})
+                AND sents_src.group_id = sents_tgt.group_id
+        ) AS tableAlias
+#        ORDER BY RAND()
+        LIMIT %s
     """, (f"%{v_str}%", tgt_lang,) + tuple(src_langs) + tuple(groups) + (n,))
     if len(ress) == 0:
         return None
     for i in range(len(ress)):
-        m = re.search(v_str, ress[i][1], re.IGNORECASE)
-        ress[i] = ress[i] + (f"{m.start()}-{m.end()-1}",)
+        m = re.search(v_str, ress[i][2], re.IGNORECASE)
+        ress[i] = ress[i] + (f"{m.start()}-{m.end()}",)
     return [{
         "id": None,
         "word": v_str,
-        "blanks": res[3],
-        "source": res[0],
-        "target": res[1],
-        "group": res[2]
+        "blanks": res[4],
+        "source": res[1],
+        "target": res[2],
+        "group": res[3]
     } for res in ress]
 
 def get_random_cloze(con, src_langs, tgt_lang, lemma, n=1, groups=all_groups):

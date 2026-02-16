@@ -25,12 +25,17 @@ for grp in GROUPS:
     cur.execute("INSERT INTO puzzle_groups (label) VALUES (%s)", (grp,))
     GROUP_IDS.append(cur.lastrowid)
 
+    links = set()
     for ln in tqdm_readlines(f"data/{grp}/links.csv"):
         if len(ln) <= 1:
             continue
         ln = ln.strip().split(",")
         id1 = int(ln[0])
         id2 = int(ln[1])
+        lnk = (min(id1, id2), max(id1, id2))
+        if lnk in links:
+            continue
+        links.add(lnk)
         cur.execute("INSERT INTO links (group_id, id1, id2) VALUES (%s, %s, %s)", (GROUPS.index(grp)+1, min(id1, id2), max(id1, id2),),)
         cur.execute("INSERT INTO links (group_id, id2, id1) VALUES (%s, %s, %s)", (GROUPS.index(grp)+1, min(id1, id2), max(id1, id2),),)
 
