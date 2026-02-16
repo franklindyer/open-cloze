@@ -1,0 +1,35 @@
+CREATE TABLE puzzle_groups (
+    id INTEGER PRIMARY KEY,
+    label CHAR(30) NOT NULL
+);
+
+CREATE TABLE sentences (
+    id INTEGER NOT NULL, 
+    group_id INTEGER NOT NULL,
+    lang CHAR(3) NOT NULL, 
+    text TEXT CHARACTER NOT NULL, 
+    PRIMARY KEY (id, group_id)
+);
+
+CREATE TABLE links (
+    group_id INTEGER NOT NULL,
+    id1 INTEGER NOT NULL,
+    id2 INTEGER NOT NULL,
+    UNIQUE(id1, id2)
+);
+
+CREATE TABLE lemmas (
+    id INTEGER PRIMARY KEY,
+    lang CHAR(3) NOT NULL,
+    text TEXT NOT NULL,
+    UNIQUE(lang, text)
+);
+
+CREATE TABLE puzzles (
+    id INTEGER PRIMARY KEY,
+    group_id INTEGER NOT NULL,
+    sentence_id INTEGER NOT NULL,
+    lemma_id INTEGER NOT NULL,
+    intervals TEXT NOT NULL,
+    UNIQUE(sentence_id, intervals)
+);

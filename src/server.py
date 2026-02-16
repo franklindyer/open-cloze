@@ -2,7 +2,8 @@ import datetime
 import json
 import os
 import re
-import mysql.connector as sql
+# import mysql.connector as sql
+import sqlite3
 from multiprocessing.pool import ThreadPool
 
 from flask import Flask, abort, request, jsonify
@@ -16,8 +17,8 @@ DB_READ_POOL = ThreadPool(processes=10)
 
 def unpool_query(con, q, args):
     cur = con.cursor()
-    cur.execute(q, args) 
-    res = cur.fetchall()
+    res = cur.execute(q, args) 
+    res = res.fetchall()
     cur.close()
     return list(res)
 
@@ -25,17 +26,18 @@ def pool_query(con, q, args=()):
     res = DB_READ_POOL.apply(unpool_query, (con, q, args,))
     return res
 
-SQL_CON = sql.connect(host="mysql", port=3306, user="root", passwd="root", db="cloze", charset="utf8mb4") 
+# SQL_CON = sql.connect(host="mysql", port=3306, user="root", passwd="root", db="cloze", charset="utf8mb4") 
+SQL_CON = sqlite3.connect("/db/cloze.sqlite", check_same_thread=False)
 
 cur = SQL_CON.cursor()
-cur.execute("SELECT label FROM puzzle_groups")
-all_groups = [r[0] for r in cur.fetchall()]
+res = cur.execute("SELECT label FROM puzzle_groups")
+all_groups = [r[0] for r in res.fetchall()]
 print(all_groups, flush=True)
 cur.close()
 
 def get_random_verbatim_cloze(con, src_langs, tgt_lang, v_str, n=1, groups=all_groups):
-    lang_params = ','.join(["%s"] * len(src_langs))
-    group_params = ','.join(["%s"] * len(groups))
+    lang_params = ','.join(["?"] * len(src_langs))
+    group_params = ','.join(["?"] * len(groups))
     ress = pool_query(con, f"""
         SELECT gid, src_txt, tgt_txt, grp FROM (
             SELECT sents_tgt.group_id AS gid, sents_src.text AS src_txt, sents_tgt.text AS tgt_txt, puzzle_groups.label AS grp
@@ -43,14 +45,15 @@ def get_random_verbatim_cloze(con, src_langs, tgt_lang, v_str, n=1, groups=all_g
             INNER JOIN links AS links ON sents_tgt.id=links.id1
             INNER JOIN sentences AS sents_src ON sents_src.id=links.id2 
             INNER JOIN puzzle_groups AS puzzle_groups ON sents_tgt.group_id=puzzle_groups.id
-            WHERE sents_tgt.text LIKE %s 
-                AND sents_tgt.lang=%s
+            WHERE sents_tgt.text LIKE ? 
+                AND sents_tgt.lang=?
                 AND sents_src.lang IN ({lang_params})
                 AND puzzle_groups.label IN ({group_params})
                 AND sents_src.group_id = sents_tgt.group_id
+            LIMIT 300
         ) AS tableAlias
-#        ORDER BY RAND()
-        LIMIT %s
+#        ORDER BY RANDOM()
+        LIMIT ?
     """, (f"%{v_str}%", tgt_lang,) + tuple(src_langs) + tuple(groups) + (n,))
     if len(ress) == 0:
         return None
@@ -67,8 +70,8 @@ def get_random_verbatim_cloze(con, src_langs, tgt_lang, v_str, n=1, groups=all_g
     } for res in ress]
 
 def get_random_cloze(con, src_langs, tgt_lang, lemma, n=1, groups=all_groups):
-    lang_params = ','.join(["%s"] * len(src_langs))
-    group_params = ','.join(["%s"] * len(groups))
+    lang_params = ','.join(["?"] * len(src_langs))
+    group_params = ','.join(["?"] * len(groups))
     ress = pool_query(con, f"""
         SELECT pid, intervals, src_txt, tgt_txt, grp FROM (
             SELECT puzzles.id AS pid, puzzles.group_id AS gid, puzzles.intervals AS intervals, sents_src.text AS src_txt, sents_tgt.text AS tgt_txt, puzzle_groups.label AS grp
@@ -78,15 +81,16 @@ def get_random_cloze(con, src_langs, tgt_lang, lemma, n=1, groups=all_groups):
             INNER JOIN links AS links ON puzzles.sentence_id=links.id1
             INNER JOIN sentences AS sents_src ON sents_src.id=links.id2 
             INNER JOIN puzzle_groups AS puzzle_groups ON sents_tgt.group_id=puzzle_groups.id
-            WHERE lemmas.text=%s 
-                AND sents_tgt.lang=%s
+            WHERE lemmas.text=? 
+                AND sents_tgt.lang=?
                 AND sents_src.lang IN ({lang_params})
                 AND puzzle_groups.label IN ({group_params})
                 AND puzzles.group_id = sents_src.group_id
                 AND sents_src.group_id = sents_tgt.group_id
+            LIMIT 300
         ) AS tableAlias
-        ORDER BY RAND()
-        LIMIT %s
+        ORDER BY RANDOM()
+        LIMIT ?
     """, (lemma, tgt_lang,) + tuple(src_langs) + tuple(groups) + (n,))
     if len(ress) == 0:
         return None

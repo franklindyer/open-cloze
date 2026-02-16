@@ -6,6 +6,7 @@
 conf.json
 dump
 data/*
+db/*
 !data/test
 !data/test/*
 puzzles/*

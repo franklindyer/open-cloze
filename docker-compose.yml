@@ -15,5 +15,7 @@ services:
             dockerfile: Dockerfile.server
         ports:
             - 5052:8080
-        links:
-            - "mysql:mysql"
+#        links:
+#            - "mysql:mysql"
+        volumes:
+            - ./db:/db

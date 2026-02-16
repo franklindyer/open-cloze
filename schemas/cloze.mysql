@@ -16,13 +16,15 @@ CREATE TABLE sentences (
 CREATE TABLE links (
     group_id INT NOT NULL,
     id1 INT NOT NULL,
-    id2 INT NOT NULL
+    id2 INT NOT NULL,
+    UNIQUE(id1, id2)
 );
 
 CREATE TABLE lemmas (
     id INT AUTO_INCREMENT PRIMARY KEY,
     lang CHAR(3) NOT NULL,
-    text TEXT NOT NULL
+    text TEXT NOT NULL,
+    UNIQUE(lang, text)
 );
 
 CREATE TABLE puzzles (
@@ -30,7 +32,8 @@ CREATE TABLE puzzles (
     group_id INT NOT NULL,
     sentence_id INT NOT NULL,
     lemma_id INT NOT NULL,
-    intervals TEXT NOT NULL
+    intervals TEXT NOT NULL,
+    UNIQUE(sentence_id, intervals)
 );
 
 ALTER DATABASE cloze CHARACTER SET = utf8mb4 COLLATE = utf8mb4_general_ci;
