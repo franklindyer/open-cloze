@@ -83,6 +83,7 @@ def get_random_cloze(con, src_langs, tgt_lang, lemma, n=1, groups=all_groups):
             INNER JOIN puzzle_groups AS puzzle_groups ON sents_tgt.group_id=puzzle_groups.id
             WHERE lemmas.text=? 
                 AND sents_tgt.lang=?
+                AND sents_tgt.group_id=links.group_id
                 AND sents_src.lang IN ({lang_params})
                 AND puzzle_groups.label IN ({group_params})
                 AND puzzles.group_id = sents_src.group_id
