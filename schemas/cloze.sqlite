@@ -15,7 +15,7 @@ CREATE TABLE links (
     group_id INTEGER NOT NULL,
     id1 INTEGER NOT NULL,
     id2 INTEGER NOT NULL,
-    UNIQUE(id1, id2)
+    UNIQUE(group_id, id1, id2)
 );
 
 CREATE TABLE lemmas (
