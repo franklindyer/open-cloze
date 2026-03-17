@@ -6,14 +6,6 @@
         },
         "tatoeba": {
             "sentences": ["zho", "deu", "ell", "eng", "rus"],
-            "puzzles": ["deu", "rus", "zho"]
-        },
-        "skyrim": {
-            "sentences": ["eng", "deu", "rus"],
-            "puzzles": ["deu", "rus"]
-        },
-        "europarl": {
-            "sentences": ["eng", "deu"],
             "puzzles": ["deu"]
         }
     }

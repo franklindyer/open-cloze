@@ -24,18 +24,25 @@ elif DB_TYPE == "sqlite":
 
 cur = cnx.cursor()
 
+# NOTE: this limits the number of groups to 10
+def sentence_uid(grp_id, sent_id):
+    return (10*sent_id + grp_id)
+
 def cur_execute(q, args):
     if DB_TYPE == "sqlite":
         q = q.replace("%s", "?")
-    cur.execute(q, args) 
+    return cur.execute(q, args) 
 
 GROUP_IDS = []
+grp_id = 0
 for grp in GROUPS:
     if len(CONF["groups"][grp]["sentences"]) == 0:
         continue
 
-    cur_execute("INSERT INTO puzzle_groups (label) VALUES (%s)", (grp,))
-    GROUP_IDS.append(cur.lastrowid)
+    cur_execute("INSERT INTO puzzle_groups (id, label) VALUES (%s, %s)", (grp_id, grp,))
+    # GROUP_IDS.append(cur.lastrowid)
+    GROUP_IDS.append(grp_id)
+    grp_id = cur.lastrowid
 
     links = set()
     for ln in tqdm_readlines(f"data/{grp}/links.csv"):
@@ -48,8 +55,8 @@ for grp in GROUPS:
         if lnk in links:
             continue
         links.add(lnk)
-        cur_execute("INSERT INTO links (group_id, id1, id2) VALUES (%s, %s, %s)", (GROUPS.index(grp)+1, min(id1, id2), max(id1, id2),),)
-        cur_execute("INSERT INTO links (group_id, id2, id1) VALUES (%s, %s, %s)", (GROUPS.index(grp)+1, min(id1, id2), max(id1, id2),),)
+        cur_execute("INSERT INTO links (group_id, id1, id2) VALUES (%s, %s, %s)", (grp_id, min(id1, id2), max(id1, id2),),)
+        cur_execute("INSERT INTO links (group_id, id2, id1) VALUES (%s, %s, %s)", (grp_id, min(id1, id2), max(id1, id2),),)
 
     for lang in CONF["groups"][grp]["sentences"]:
         for ln in tqdm_readlines(f"data/{grp}/{lang}.tsv"):
@@ -57,21 +64,28 @@ for grp in GROUPS:
                 continue
             ln = ln.strip().split("\t")
             try:
-                cur_execute("INSERT INTO sentences (id, lang, group_id, text) VALUES (%s, %s, %s, %s)", (int(ln[0]), lang, GROUP_IDS[GROUPS.index(grp)], ln[1],))
+                grp_id = grp_id
+                snt_uid = int(ln[0]) 
+                cur_execute("INSERT INTO sentences (id, lang, group_id, text) VALUES (%s, %s, %s, %s)", (int(ln[0]), lang, grp_id, ln[1],))
+                # cur_execute("INSERT INTO sentences (id, lang, group_id, text) VALUES (%s, %s, %s, %s)", (snt_uid, lang, grp_id, ln[1],))
             except:
                 print("ERROR ON: " + ln[1])
 
-for grp in GROUPS:
+    grp_id += 1
+
+for (grp_id, grp) in zip(range(len(GROUPS)), GROUPS):
     for lang in CONF["groups"][grp]["puzzles"]: 
         puzs = json.loads(open(f"puzzles/{grp}/{lang}.json").read())
         for lemma in tqdm.tqdm(list(puzs)):
             puzlist = puzs[lemma]
             cur_execute("INSERT OR IGNORE INTO lemmas (lang, text) VALUES (%s, %s)", (lang, lemma,))
-            lemma_id = cur.lastrowid
+            # lemma_id = cur.lastrowid
+            lemma_id = cur_execute("SELECT id FROM lemmas WHERE lang=%s AND text=%s", (lang, lemma,)).fetchone()[0]
             for puz in puzlist:
                 sent_id = int(puz.split(":")[0])
+                sent_uid = sent_id 
                 intervals = puz.split(":")[1]
-                cur_execute("INSERT OR IGNORE INTO puzzles (sentence_id, group_id, lemma_id, intervals) VALUES (%s, %s, %s, %s)", (sent_id, GROUP_IDS[GROUPS.index(grp)], lemma_id, intervals,))
+                cur_execute("INSERT OR IGNORE INTO puzzles (sentence_id, group_id, lemma_id, intervals) VALUES (%s, %s, %s, %s)", (sent_uid, grp_id, lemma_id, intervals,))
 
 cnx.commit()
 
