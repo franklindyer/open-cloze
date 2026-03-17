@@ -110,7 +110,7 @@ def deu_generator():
 
             for combo in tok_combos:
                 lemma, combo_inds = combo
-                sorted(combo_inds)
+                combo_inds = sorted(combo_inds)
                  
                 s["counts"][lemma] += 1 
 
