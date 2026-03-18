@@ -1,3 +1,9 @@
+TODO:
+- [ ] a huge number of sentences in the DB are not used for puzzles or linked to any sentences that are, either prune these from the DB or build the DB in such a way that they never get added
+- [ ] I think sentences should be given a globally unique ID from now on, rather than being uniquely IDed by the combo of their group and (inner-group) ID number, which may also offer a speedup (in addition to just simplifying things a whole lot)
+- [ ] add optional "maximum length" field to API queries so the user can specify a max result length
+- [ ] add actual documentation with setup instructions and API specs
+
 Sample `conf.json` file for just the test data:
 ```
 {
@@ -10,16 +16,10 @@ Sample `conf.json` file for just the test data:
 }
 ```
 
-## Database dump
+## Existing API usage
 
-You can enter the database container with the following command:
+TODO
 
-```
-docker exec -it mysql bash -l
-```
+## Creating your own puzzle database
 
-And you can dump the database to a file by running:
-
-```
-mysqldump -p -u root --databases cloze > /dump/cloze.sql
-```
+TODO

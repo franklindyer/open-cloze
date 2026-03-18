@@ -24,9 +24,9 @@ elif DB_TYPE == "sqlite":
 
 cur = cnx.cursor()
 
-# NOTE: this limits the number of groups to 10
+# This turns the combination of (local) sentence IDs and group ids into a global unique ID
 def sentence_uid(grp_id, sent_id):
-    return (10*sent_id + grp_id)
+    return ((len(GROUPS)+1)*sent_id + grp_id)
 
 def cur_execute(q, args):
     if DB_TYPE == "sqlite":
