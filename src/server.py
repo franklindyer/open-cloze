@@ -36,40 +36,6 @@ all_groups = [r[0] for r in res.fetchall()]
 print(all_groups, flush=True)
 cur.close()
 
-def get_random_verbatim_cloze(con, src_langs, tgt_lang, v_str, n=1, groups=all_groups):
-    lang_params = ','.join(["?"] * len(src_langs))
-    group_params = ','.join(["?"] * len(groups))
-    ress = pool_query(con, f"""
-        SELECT gid, src_txt, tgt_txt, grp FROM (
-            SELECT sents_tgt.group_id AS gid, sents_src.text AS src_txt, sents_tgt.text AS tgt_txt, puzzle_groups.label AS grp
-            FROM sentences AS sents_tgt 
-            INNER JOIN links AS links ON sents_tgt.id=links.id1
-            INNER JOIN sentences AS sents_src ON sents_src.id=links.id2 
-            INNER JOIN puzzle_groups AS puzzle_groups ON sents_tgt.group_id=puzzle_groups.id
-            WHERE sents_tgt.text LIKE ? 
-                AND sents_tgt.lang=?
-                AND sents_src.lang IN ({lang_params})
-                AND puzzle_groups.label IN ({group_params})
-                AND sents_src.group_id = sents_tgt.group_id
-            LIMIT 300
-        ) AS tableAlias
-#        ORDER BY RANDOM()
-        LIMIT ?
-    """, (f"%{v_str}%", tgt_lang,) + tuple(src_langs) + tuple(groups) + (n,))
-    if len(ress) == 0:
-        return None
-    for i in range(len(ress)):
-        m = re.search(v_str, ress[i][2], re.IGNORECASE)
-        ress[i] = ress[i] + (f"{m.start()}-{m.end()}",)
-    return [{
-        "id": None,
-        "word": v_str,
-        "blanks": res[4],
-        "source": res[1],
-        "target": res[2],
-        "group": res[3]
-    } for res in ress]
-
 def get_random_cloze(con, src_langs, tgt_lang, lemma, n=1, groups=all_groups):
     lang_params = ','.join(["?"] * len(src_langs))
     group_params = ','.join(["?"] * len(groups))
@@ -83,8 +49,8 @@ def get_random_cloze(con, src_langs, tgt_lang, lemma, n=1, groups=all_groups):
             INNER JOIN sentences AS sents_src ON sents_src.id=links.id2 
             INNER JOIN puzzle_groups AS puzzle_groups ON sents_tgt.group_id=puzzle_groups.id
             WHERE lemmas.text=? 
+                AND links.group_id = sents_src.group_id
                 AND sents_tgt.lang=?
-                AND sents_tgt.group_id=links.group_id
                 AND sents_src.lang IN ({lang_params})
                 AND puzzle_groups.label IN ({group_params})
                 AND puzzles.group_id = sents_src.group_id
