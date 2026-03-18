@@ -41,7 +41,7 @@ def deu_generator():
                 "RIGHT_ID": "obl_obj", 
                 "RIGHT_ATTRS": {
                     "POS": "NOUN",
-                    "DEP": "obl"
+                    "DEP": { "IN": ["obl", "obj"] }
                 }
             }, {
                 "LEFT_ID": "obl_obj", 

@@ -26,8 +26,9 @@ def pool_query(con, q, args=()):
     res = DB_READ_POOL.apply(unpool_query, (con, q, args,))
     return res
 
-# SQL_CON = sql.connect(host="mysql", port=3306, user="root", passwd="root", db="cloze", charset="utf8mb4") 
 SQL_CON = sqlite3.connect("/db/cloze.sqlite", check_same_thread=False)
+
+MAX_RESULTS = 50
 
 cur = SQL_CON.cursor()
 res = cur.execute("SELECT label FROM puzzle_groups")
@@ -135,7 +136,7 @@ def get_cloze():
         groups = all_groups
     else:
         groups = groups.split(',')
-    n_results = min(int(request.args.get("n")), 10)
+    n_results = min(int(request.args.get("n")), MAX_RESULTS)
     
     cloze = None
     if lemma[0] == '"' and lemma[-1] == '"':
