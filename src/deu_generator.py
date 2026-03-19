@@ -18,7 +18,7 @@ deu_nlp = spacy.load("de_zdl_lg")
 def deu_generator():
     TARGET_NUM = 20
     REDUCED_PROB = 0.2
-    MAX_NUM = 50
+    MAX_NUM = 40
 
     def gen(s, snt):
         if not "counts" in s:
@@ -59,7 +59,8 @@ def deu_generator():
         refl_map = {}
         auxp_map = {}        
         for dep in parse_deps(snt_nlp)["arcs"]:
-            if dep["label"] == "svp":
+            # if dep["label"] == "svp":
+            if dep["label"] == "compound:prt":
                 svp_map[dep["start"]] = dep["end"]
                 svp_positions.add(dep["start"])
                 svp_positions.add(dep["end"])

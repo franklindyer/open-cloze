@@ -15,6 +15,9 @@ import deu_generator
 #   and a sentence in that language and returns a new state object plus a list of puzzles.
 #   A puzzle takes the form of a lemma plus a set of (comma-separated) intervals.
 
+# MAX_PER_GROUP = 1000
+MAX_PER_GROUP = None
+
 def gen_puzzles(group, lang):
     s = {}  # State object
     gen = GEN_REGISTRY[lang]
@@ -22,17 +25,24 @@ def gen_puzzles(group, lang):
    
     all_puz = {}
 
-    for ln in tqdm_readlines(fname):
+    included_ids = []
+    for ln in tqdm_readlines(fname, max=MAX_PER_GROUP):
         if len(ln) <= 1:
             continue
         r = ln.strip().split("\t")
         id = int(r[0])
         s, puzs = gen(s, r[1])
+        if len(puzs) > 0:
+            included_ids.append(id)
         for puz in puzs:
             lemma = puz["lemma"]
             if not lemma in all_puz:
                 all_puz[lemma] = []
             all_puz[lemma].append(str(id) + ":" + puz["intervals"])
+
+#    with open(f"puzzles/{group}/{lang}_ids.txt", "w") as f:
+#        for id in included_ids:
+#            f.write(f"{id}\n")
 
     with open(f"puzzles/{group}/{lang}.json", "w") as f:
         f.write(json.dumps(all_puz, indent=4, ensure_ascii=False))
