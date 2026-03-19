@@ -29,6 +29,7 @@ def pool_query(con, q, args=()):
 SQL_CON = sqlite3.connect("/db/cloze.sqlite", check_same_thread=False)
 
 MAX_RESULTS = 50
+DEFAULT_MAX_LEN = 200
 
 cur = SQL_CON.cursor()
 res = cur.execute("SELECT label FROM puzzle_groups")
@@ -36,7 +37,9 @@ all_groups = [r[0] for r in res.fetchall()]
 print(all_groups, flush=True)
 cur.close()
 
-def get_random_cloze(con, src_langs, tgt_lang, lemma, n=1, groups=all_groups):
+def get_random_cloze(con, src_langs, tgt_lang, lemma, n=1, groups=all_groups, maxlen=None):
+    if maxlen is None:
+        maxlen = DEFAULT_MAX_LEN
     lang_params = ','.join(["?"] * len(src_langs))
     group_params = ','.join(["?"] * len(groups))
     ress = pool_query(con, f"""
@@ -55,11 +58,12 @@ def get_random_cloze(con, src_langs, tgt_lang, lemma, n=1, groups=all_groups):
                 AND puzzle_groups.label IN ({group_params})
                 AND puzzles.group_id = sents_src.group_id
                 AND sents_src.group_id = sents_tgt.group_id
+                AND LENGTH(sents_tgt.text) <= ?
             LIMIT 300
         ) AS tableAlias
         ORDER BY RANDOM()
         LIMIT ?
-    """, (lemma, tgt_lang,) + tuple(src_langs) + tuple(groups) + (n,))
+    """, (lemma, tgt_lang,) + tuple(src_langs) + tuple(groups) + (maxlen, n,))
     if len(ress) == 0:
         return None
     return [{
@@ -98,6 +102,9 @@ def get_cloze():
     tgt_lang = request.args.get("tgt")
     lemma = request.args.get("lemma")
     groups = request.args.get("groups")
+    maxlen = request.args.get("maxlen")
+    if not maxlen is None:
+        maxlen = int(maxlen)
     if groups is None or len(groups) == 0:
         groups = all_groups
     else:
@@ -105,11 +112,7 @@ def get_cloze():
     n_results = min(int(request.args.get("n")), MAX_RESULTS)
     
     cloze = None
-    if lemma[0] == '"' and lemma[-1] == '"':
-        print(lemma, flush=True)
-        cloze = get_random_verbatim_cloze(SQL_CON, src_langs, tgt_lang, lemma[1:-1], n=n_results, groups=groups)
-    else:
-        cloze = get_random_cloze(SQL_CON, src_langs, tgt_lang, lemma, n=n_results, groups=groups)
+    cloze = get_random_cloze(SQL_CON, src_langs, tgt_lang, lemma, n=n_results, groups=groups, maxlen=maxlen)
     if cloze == None:
         abort(404)
 
