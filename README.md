@@ -73,7 +73,7 @@ docker compose down
 
 ## Data sources
 
-- The [Tatoeba Project] is a great source of parallel sentences, and it's open source!
+- The [Tatoeba Project](https://tatoeba.org/en) is a great source of parallel sentences, and it's open source!
 - The [EUROPARL Parallel Corpus](https://www.statmt.org/europarl/) is a good source of sentence pairs using formal/elevated language in many European languages
 - You can also try to scrape subtitles/captions [from your favorite games](https://github.com/franklindyer/skyrim-subtitles)
 
