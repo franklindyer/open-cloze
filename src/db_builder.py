@@ -13,7 +13,7 @@ GROUP_IDS = []
 LANGS = []
 FILES = []
 
-DB_TYPE = sys.argv[1]
+DB_TYPE = "sqlite" 
 
 import sqlite3
 import mysql.connector as con
