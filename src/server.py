@@ -2,7 +2,6 @@ import datetime
 import json
 import os
 import re
-# import mysql.connector as sql
 import sqlite3
 from multiprocessing.pool import ThreadPool
 
@@ -30,12 +29,6 @@ SQL_CON = sqlite3.connect("/db/cloze.sqlite", check_same_thread=False)
 
 MAX_RESULTS = 50
 DEFAULT_MAX_LEN = 200
-
-cur = SQL_CON.cursor()
-res = cur.execute("SELECT label FROM puzzle_groups")
-all_groups = [r[0] for r in res.fetchall()]
-print(all_groups, flush=True)
-cur.close()
 
 def get_random_cloze(con, src_langs, tgt_lang, lemma, n=1, groups=all_groups, maxlen=None):
     if maxlen is None:
