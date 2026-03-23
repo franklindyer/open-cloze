@@ -5,37 +5,42 @@ import re
 import sqlite3
 from multiprocessing.pool import ThreadPool
 
-from flask import Flask, abort, request, jsonify
+from flask import Flask, abort, request, jsonify, g
 from flask_cors import CORS, cross_origin
 
 app = Flask(__name__)
 cors = CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
 
-DB_READ_POOL = ThreadPool(processes=10)
+def get_con(thread_g):
+    if 'db' not in thread_g:
+        thread_g.db = sqlite3.connect('/db/cloze.sqlite', check_same_thread=False)
+    return thread_g.db
 
-def unpool_query(con, q, args):
+def do_query(thread_g, q, args=()):
+    con = get_con(thread_g)
     cur = con.cursor()
-    res = cur.execute(q, args) 
+    res = cur.execute(q, args)
     res = res.fetchall()
     cur.close()
     return list(res)
 
-def pool_query(con, q, args=()):
-    res = DB_READ_POOL.apply(unpool_query, (con, q, args,))
-    return res
-
-SQL_CON = sqlite3.connect("/db/cloze.sqlite", check_same_thread=False)
-
 MAX_RESULTS = 50
 DEFAULT_MAX_LEN = 200
 
-def get_random_cloze(con, src_langs, tgt_lang, lemma, n=1, groups=all_groups, maxlen=None):
+with sqlite3.connect('/db/cloze.sqlite') as con:
+    cur = con.cursor()
+    res = cur.execute("SELECT label FROM puzzle_groups")
+    all_groups = [r[0] for r in res.fetchall()]
+    print(all_groups, flush=True)
+    cur.close()
+
+def get_random_cloze(thread_g, src_langs, tgt_lang, lemma, n=1, groups=all_groups, maxlen=None):
     if maxlen is None:
         maxlen = DEFAULT_MAX_LEN
     lang_params = ','.join(["?"] * len(src_langs))
     group_params = ','.join(["?"] * len(groups))
-    ress = pool_query(con, f"""
+    ress = do_query(thread_g, f"""
         SELECT pid, intervals, src_txt, tgt_txt, grp FROM (
             SELECT puzzles.id AS pid, puzzles.group_id AS gid, puzzles.intervals AS intervals, sents_src.text AS src_txt, sents_tgt.text AS tgt_txt, puzzle_groups.label AS grp
             FROM puzzles AS puzzles
@@ -105,7 +110,7 @@ def get_cloze():
     n_results = min(int(request.args.get("n")), MAX_RESULTS)
     
     cloze = None
-    cloze = get_random_cloze(SQL_CON, src_langs, tgt_lang, lemma, n=n_results, groups=groups, maxlen=maxlen)
+    cloze = get_random_cloze(g, src_langs, tgt_lang, lemma, n=n_results, groups=groups, maxlen=maxlen)
     if cloze == None:
         abort(404)
 
