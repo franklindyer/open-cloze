@@ -40,10 +40,6 @@ def gen_puzzles(group, lang):
                 all_puz[lemma] = []
             all_puz[lemma].append(str(id) + ":" + puz["intervals"])
 
-#    with open(f"puzzles/{group}/{lang}_ids.txt", "w") as f:
-#        for id in included_ids:
-#            f.write(f"{id}\n")
-
     with open(f"puzzles/{group}/{lang}.json", "w") as f:
         f.write(json.dumps(all_puz, indent=4, ensure_ascii=False))
 
@@ -52,6 +48,8 @@ def gen_puzzles(group, lang):
 def gen_all_puzzles():
     CONF = get_conf()
     for grp in CONF["groups"]:
+        if not CONF["groups"][grp].get("enable"):
+            continue
         for lang in CONF["groups"][grp]["puzzles"]:
             gen_puzzles(grp, lang)
 

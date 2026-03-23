@@ -37,6 +37,9 @@ def cur_execute(q, args):
 
 grp_id = 0
 for grp in GROUPS:
+    if not CONF["groups"][grp].get("enable"):
+        continue
+
     if len(CONF["groups"][grp]["sentences"]) == 0:
         continue
 
@@ -74,6 +77,9 @@ for grp in GROUPS:
                 print("ERROR ON: " + ln[1])
 
 for (grp_id, grp) in zip(GROUP_IDS, GROUPS): 
+    if not CONF["groups"][grp].get("enable"):
+        continue
+    
     for lang in CONF["groups"][grp]["puzzles"]: 
         puzs = json.loads(open(f"puzzles/{grp}/{lang}.json").read())
         for lemma in tqdm.tqdm(list(puzs)):
